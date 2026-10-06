@@ -1,0 +1,1445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_nv_vlandia_helmet_r_b_test" name="[Helmet | NV] Segmented Skullcap over Padded Coif [nv_vlandia_helmet_r_b_test]" mesh="vlandia_helmet_r_b" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="50" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type1" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_r_b" name="[Helmet | NV] Segmented Skullcap over Padded Coif [nv_vlandia_helmet_r_b]" mesh="vlandia_helmet_r_b" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type1" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_h_y" name="[Helmet | NV] Kettle Helmet over Padded Cloth [nv_vlandia_helmet_h_y]" mesh="vlandia_helmet_h_y" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_e" name="[Helmet | NV] Padded Cap [nv_vlandia_helmet_e]" mesh="vlandia_helmet_e" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_o_c" name="[Helmet | NV] Nasal Cervelliere over Laced Coif [nv_vlandia_helmet_o_c]" mesh="vlandia_helmet_o_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_r_a" name="[Helmet | NV] Segmented Skullcap over Mail Coif [nv_vlandia_helmet_r_a]" mesh="vlandia_helmet_r_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type4" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_earmuff_helmet_c" name="[Helmet | NV] Fringed Decorated Steel Cap with Cheek Guards [nv_battania_earmuff_helmet_c]" mesh="battania_earmuff_helmet_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_n_d" name="[Helmet | NV] Cervelliere over Cloth Headwrap [nv_vlandia_helmet_n_d]" mesh="vlandia_helmet_n_d" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_i_a" name="[Helmet | NV] Kettle Hat over Mail Coif [nv_vlandia_helmet_i_a]" mesh="vlandia_helmet_i_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_h_v" name="[Helmet | NV] Kettle Helmet over Mail [nv_vlandia_helmet_h_v]" mesh="vlandia_helmet_h_v" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_civil_f_cape" name="[Helmet | NV] Bandit Leather Hood [nv_aserai_civil_f_cape]" mesh="aserai_civil_f_cape" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="true" hair_cover_type="type2" modifier_group="leather" material_type="Leather" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_masked_helm_a" name="[Helmet | NV] Closed Mail Goggled Helmet [nv_sturgia_masked_helm_a]" mesh="sturgia_masked_helm_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_helmet_h_da" name="[Helmet | NV] Iron Nasalhelm over Leather [nv_empire_helmet_h_da]" mesh="empire_helmet_h_da" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_f" name="[Helmet | NV] Leather Coif [nv_vlandia_helmet_f]" mesh="vlandia_helmet_f" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_n_e" name="[Helmet | NV] Cervelliere over Padded Cap [nv_vlandia_helmet_n_e]" mesh="vlandia_helmet_n_e" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_helmet_a" name="[Helmet | NV] Nasalhelm over Mail [nv_sturgia_helmet_a]" mesh="sturgia_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_helmet_closed" name="[Helmet | NV] Closed Warlord Helmet [nv_sturgian_helmet_closed]" mesh="sturgian_helmet_closed" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_sturgia_helmet_i" name="[Helmet | NV] Warlord Helmet with Cheek Guards [nv_sturgia_helmet_i]" mesh="sturgia_helmet_i" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="type1" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_sturgia_helmet_m" name="[Helmet | NV] Fur Rimmed Cap [nv_sturgia_helmet_m]" mesh="sturgia_helmet_m" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" modifier_group="leather" material_type="Leather" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_h_c" name="[Helmet | NV] Kettle Helmet over Laced Coif [nv_vlandia_helmet_h_c]" mesh="vlandia_helmet_h_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_lord_helmet_a" name="[Helmet | NV] Ridged Warlord Helmet [nv_sturgian_lord_helmet_a]" mesh="sturgian_lord_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_sturgian_helmet_b_open" name="[Helmet | NV] Plumed Decorated Mailed Nasal Helmet [nv_sturgian_helmet_b_open]" mesh="sturgian_helmet_b_open" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sneak_costume_head" name="[Helmet | NV] Pilgrim Hood [nv_sneak_costume_head]" mesh="sneak_costume_head" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_helmet_d" name="[Helmet | NV] Leather Coif [nv_empire_helmet_d]" mesh="empire_helmet_d" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_u_a" name="[Helmet | NV] Segmented Cervelliere over Mail Coif [nv_vlandia_helmet_u_a]" mesh="vlandia_helmet_u_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type4" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_kettle_helmet_leather" name="[Helmet | NV] Kettle Helmet with Leather [nv_kettle_helmet_leather]" mesh="kettle_helmet_leather" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_o_a" name="[Helmet | NV] Nasal Cervelliere over Mail Coif [nv_vlandia_helmet_o_a]" mesh="vlandia_helmet_o_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type4" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_crown" name="[Helmet | NV] Highland Ceremonial Crown [nv_battania_crown]" mesh="battania_crown" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_t_c" name="[Helmet | NV] Peaked Helmet over Laced Coif [nv_vlandia_helmet_t_c]" mesh="vlandia_helmet_t_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_j_c" name="[Helmet | NV] Kettle over Laced Coif [nv_vlandia_helmet_j_c]" mesh="vlandia_helmet_j_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_l_c" name="[Helmet | NV] Pointed Skullcap over Laced Coif [nv_vlandia_helmet_l_c]" mesh="vlandia_helmet_l_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_t_v" name="[Helmet | NV] Peaked Helmet over Mail [nv_vlandia_helmet_t_v]" mesh="vlandia_helmet_t_v" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_t_a" name="[Helmet | NV] Peaked Helmet over Mail Coif [nv_vlandia_helmet_t_a]" mesh="vlandia_helmet_t_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_j_a" name="[Helmet | NV] Kettle over Mail Coif [nv_vlandia_helmet_j_a]" mesh="vlandia_helmet_j_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_helmet_l_v" name="[Helmet | NV] Pointed Skullcap with Mail [nv_vlandia_helmet_l_v]" mesh="vlandia_helmet_l_v" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_khuzait_helmet_f" name="[Helmet | NV] Spiked Helmet with Facemask [nv_khuzait_helmet_f]" mesh="khuzait_helmet_f" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_lord_helmet_c" name="[Helmet | NV] Lordly Steel Cap [nv_aserai_lord_helmet_c]" mesh="aserai_lord_helmet_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type4" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_battle_crown" name="[Helmet | NV] Ornate Desert Battle Crown [nv_aserai_battle_crown]" mesh="aserai_battle_crown" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_lord_helmet_a" name="[Helmet | NV] Noble Crowned Lord Helmet [nv_aserai_lord_helmet_a]" mesh="aserai_lord_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_lord_helmet_b" name="[Helmet | NV] Noble Steel Cap [nv_aserai_lord_helmet_b]" mesh="aserai_lord_helmet_b" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_a" name="[Helmet | NV] Spiked Helmet with Open Turban [nv_aserai_helmet_a]" mesh="aserai_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_b" name="[Helmet | NV] Spiked Helmet with Closed Turban [nv_aserai_helmet_b]" mesh="aserai_helmet_b" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_c" name="[Helmet | NV] Open Head Scarf [nv_aserai_helmet_c]" mesh="aserai_helmet_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_d" name="[Helmet | NV] Closed Head Scarf [nv_aserai_helmet_d]" mesh="aserai_helmet_d" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_f" name="[Helmet | NV] Tight Head Scarf [nv_aserai_helmet_f]" mesh="aserai_helmet_f" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_helmet_i" name="[Helmet | NV] Turban [nv_aserai_helmet_i]" mesh="aserai_helmet_i" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_civil_hood" name="[Helmet | NV] Cloth Hood [nv_battania_civil_hood]" mesh="battania_civil_hood" culture="Culture.battania" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_thinhide_coif" name="[Helmet | NV] Thinhide Coif [nv_thinhide_coif]" mesh="battania_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_segmented_skullcap_over_padded_cloth" name="[Helmet | NV] Segmented Skullcap over Padded Cloth [nv_segmented_skullcap_over_padded_cloth]" subtype="head_armor" mesh="vlandia_helmet_r_y" culture="Culture.empire" weight="0" appearance="2.8" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_kettle_helmet_over_padded_cap" name="[Helmet | NV] Kettle Helmet over Padded Cap [nv_kettle_helmet_over_padded_cap]" subtype="head_armor" mesh="vlandia_helmet_h_e" culture="Culture.empire" weight="0" appearance="1.4" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nasal_helmet_with_mail" name="[Helmet | NV] Nasal Helmet with Mail [nv_nasal_helmet_with_mail]" subtype="head_armor" mesh="nasal_helmet_reinforced" value="1" is_merchandise="false" weight="0" appearance="0.6" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nordic_helmet" name="[Helmet | NV] Northlander Helmet [nv_nordic_helmet]" mesh="sturgia_masked_helm_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_sturgian_lord_helmet_c" name="[Helmet | NV] Decorated Helmet [nv_sturgian_lord_helmet_c]" mesh="sturgian_lord_helmet_c" culture="Culture.empire" subtype="head_armor" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_sturgian_helmet_b_close" name="[Helmet | NV] Closed Decorated Goggled Helmet [nv_sturgian_helmet_b_close]" mesh="sturgian_helmet_b_close" culture="Culture.sturgia" weight="0" appearance="2" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_eastern_vendel_helmet" name="[Helmet | NV] Steppe Raider Helmet [nv_eastern_vendel_helmet]" mesh="khuzait_helmet_m" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" beard_cover_type="all" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_pilgrim_hood" name="[Helmet | NV] Pilgrim Hood [nv_pilgrim_hood]" mesh="sneak_costume_head" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nordic_leather_cap" name="[Helmet | NV] Fur Cap with Ear Flaps [nv_nordic_leather_cap]" subtype="head_armor" mesh="sturgia_leather_cap_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_nordic_fur_cap" name="[Helmet | NV] Fur Rimmed Cap [nv_nordic_fur_cap]" mesh="sturgia_helmet_m" culture="Culture.sturgia" weight="0" appearance="0.3" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_nasal_helmet_over_mail" name="[Helmet | NV] Nasal Helmet over Mail [nv_nasal_helmet_over_mail]" mesh="vlandia_helmet_p_v" culture="Culture.vlandia" weight="0" appearance="0.5" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nasal_helmet" name="[Helmet | NV] Nasal Helmet [nv_nasal_helmet]" mesh="nasal_helmet_a" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nasal_helmet_neckguard" name="[Helmet | NV] Nasal Helmet with Leather [nv_nasal_helmet_neckguard]" mesh="nasal_helmet_neckguard" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_laced_coif" name="[Helmet | NV] Laced Coif [nv_laced_coif]" subtype="head_armor" mesh="vlandia_helmet_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_open_mail_coif" name="[Helmet | NV] Open Mail Coif [nv_open_mail_coif]" subtype="head_armor" mesh="vlandia_helmet_v" culture="Culture.empire" weight="0" difficulty="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leather_cap" name="[Helmet | NV] Leather Cap [nv_leather_cap]" subtype="head_armor" mesh="leather_cap_a" culture="Culture.empire" value="1" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" beard_cover_type="type2" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_imperial_mail_coif" name="[Helmet | NV] Mail Coif [nv_imperial_mail_coif]" subtype="head_armor" mesh="empire_helmet_a" culture="Culture.empire" weight="0" difficulty="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandian_faceguard_helmet_a" name="[Helmet | NV] Closed Knight Helmet [nv_vlandian_faceguard_helmet_a]" subtype="head_armor" mesh="vlandian_faceguard_helmet_a" culture="Culture.vlandia" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandian_faceguard_helmet_b" name="[Helmet | NV] Knight Helmet with Bronze Faceguard [nv_vlandian_faceguard_helmet_b]" subtype="head_armor" mesh="vlandian_faceguard_helmet_b" culture="Culture.vlandia" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_kettle_helmet_over_mail" name="[Helmet | NV] Kettle Helmet over Mail [nv_kettle_helmet_over_mail]" mesh="vlandia_helmet_h_v" culture="Culture.vlandia" weight="0" appearance="2" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_heavy_nasalhelm_over_imperial_leather" name="[Helmet | NV] Heavy Nasalhelm over Leather [nv_heavy_nasalhelm_over_imperial_leather]" mesh="empire_helmet_g_d" culture="Culture.empire" value="1" is_merchandise="false" weight="0" appearance="0.7" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_hood" name="[Shoulders | NV] Hood [nv_hood]" culture="Culture.empire" mesh="shoulder_cape_multicolor" subtype="body_armor" value="1" is_merchandise="false" weight="0" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nasal_cervelliere_over_mail_coif" name="[Helmet | NV] Nasal Cervelliere over Mail Coif [nv_nasal_cervelliere_over_mail_coif]" mesh="vlandia_helmet_o_a" culture="Culture.vlandia" value="1" weight="0" appearance="0.5" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_southern_lord_helmet" name="[Helmet | NV] Aserai Lord Helmet [nv_southern_lord_helmet]" mesh="aserai_lord_helmet_c" culture="Culture.aserai" value="1" weight="0" appearance="0.9" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leather_studdedhelm" name="[Helmet | NV] Leather Studded Helm [nv_leather_studdedhelm]" subtype="head_armor" mesh="battania_helmet_k" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_segmented_skullcap_over_laced_coif" name="[Helmet | NV] Segmented Skullcap over Laced Coif [nv_segmented_skullcap_over_laced_coif]" mesh="vlandia_helmet_r_c" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_headscarf_d" name="[Helmet | NV] Hijab [nv_headscarf_d]" mesh="headscarf_d" culture="Culture.aserai" weight="0.5" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_assassin_hood" name="[Helmet | NV] Blackened Hood [nv_assassin_hood]" subtype="head_armor" mesh="assassin_hood" culture="Culture.empire" weight="0.4" appearance="4" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" stealth_factor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_shoulder_a_test" name="[Shoulders | NV] Shawl [nv_aserai_shoulder_a_test]" mesh="aserai_shoulder_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_shoulder_a" name="[Shoulders | NV] Shawl [nv_aserai_shoulder_a]" mesh="aserai_shoulder_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_scarf_a" name="[Shoulders | NV] Heavy Tartan Scarf [nv_battania_scarf_a]" mesh="battania_scarf_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_civil_cloak" name="[Shoulders | NV] Fringed Cape [nv_battania_civil_cloak]" mesh="battania_civil_cloak" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_plate_armor_shoulder_b" name="[Shoulders | NV] Iron Plate Pauldrons [nv_empire_plate_armor_shoulder_b]" mesh="empire_plate_armor_shoulder_b" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_shoulder_cape_multicolor" name="[Shoulders | NV] Hood [nv_shoulder_cape_multicolor]" mesh="shoulder_cape_multicolor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_cape_a" name="[Shoulders | NV] Heavy Cloak [nv_empire_cape_a]" mesh="empire_cape_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_cape_a_white" name="[Shoulders | NV] White Heavy Cloak [nv_empire_cape_a_white]" mesh="empire_cape_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_pauldron_with_cape" name="[Shoulders | NV] Pauldrons with Cape [nv_pauldron_with_cape]" mesh="pauldron_with_cape" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_fur_cloak_b" name="[Shoulders | NV] Fur Cloak [nv_fur_cloak_b]" mesh="fur_cloak_b" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_wolf_shoulder" name="[Shoulders | NV] Wolf Pelt Cape [nv_wolf_shoulder]" mesh="wolf_shoulder" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_varangian_bra_royal" name="[Shoulders | NV] Caped Leather Harness [nv_varangian_bra_royal]" mesh="varangian_bra_royal" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_pauldron_cape_a" name="[Shoulders | NV] Legionary Cape [nv_pauldron_cape_a]" mesh="pauldron_cape_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_cloak_fur_c" name="[Shoulders | NV] Rough Bearskin [nv_cloak_fur_c]" mesh="cloak_fur_c" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_cloak_a" name="[Shoulders | NV] Simple Cape [nv_battania_cloak_a]" mesh="battania_cloak_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_cloak_b" name="[Shoulders | NV] Tartan Cape [nv_battania_cloak_b]" mesh="battania_cloak_b" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_shoulder_chain_a" name="[Shoulders | NV] Mail Shoulder Guards [nv_shoulder_chain_a]" mesh="shoulder_chain_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battanian_chainmail_shoulder_b" name="[Shoulders | NV] Mail Shoulder Reinforcements [nv_battanian_chainmail_shoulder_b]" mesh="battanian_chainmail_shoulder_b" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_brass_lamellar_shoulder_white" name="[Shoulders | NV] Lamellar Pauldrons [nv_brass_lamellar_shoulder_white]" mesh="brass_lamellar_shoulder_white" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_fur_cloak_c" name="[Shoulders | NV] Large Fur Cloak With Round Plate [nv_fur_cloak_c]" mesh="fur_cloak_c" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_battania_shoulder_strap_cloak" name="[Shoulders | NV] Tartan Shoulder Harness [nv_battania_shoulder_strap_cloak]" mesh="battania_shoulder_strap_cloak" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_plate_armor_shoulder_a" name="[Shoulders | NV] Bronze Plate Pauldrons [nv_empire_plate_armor_shoulder_a]" mesh="empire_plate_armor_shoulder_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_shoulder_cape_a" name="[Shoulders | NV] Green Hood [nv_shoulder_cape_a]" mesh="shoulder_cape_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_noble_pauldron_with_scarf" name="[Shoulders | NV] Pauldron with scarf [nv_noble_pauldron_with_scarf]" mesh="noble_pauldron_with_scarf" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_chainmail_shoulder_armor" name="[Shoulders | NV] Reinforced Mail Shoulders [nv_chainmail_shoulder_armor]" mesh="chainmail_shoulder_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_shoulder_e" name="[Shoulders | NV] Decorated Long Sleeve Bronze Scale Pauldrons [nv_aserai_scale_shoulder_e]" mesh="aserai_scale_shoulder_e" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_shoulder_c" name="[Shoulders | NV] Bronze Scale Pauldrons [nv_aserai_scale_shoulder_c]" mesh="aserai_scale_shoulder_c" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_b_shoulder_b" name="[Shoulders | NV] Scale Pauldrons [nv_aserai_scale_b_shoulder_b]" mesh="aserai_scale_b_shoulder_b" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_b_shoulder_a" name="[Shoulders | NV] Scale Shoulder Guards [nv_aserai_scale_b_shoulder_a]" mesh="aserai_scale_b_shoulder_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_b_shoulder" name="[Shoulders | NV] Reinforced Scale Pauldrons [nv_aserai_scale_b_shoulder]" mesh="aserai_scale_b_shoulder" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battanian_chainmail_shoulder_a" name="[Shoulders | NV] Mail Shoulder Pieces [nv_battanian_chainmail_shoulder_a]" mesh="battanian_chainmail_shoulder_a" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_woodland_cloak" name="[Shoulders | NV] Highland Woodland Cloak [nv_battania_woodland_cloak]" mesh="battania_woodland_cloak" culture="Culture.empire" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_mp_padded_leather_shoulders" name="[Shoulders | NV] Padded Leather Shoulders [mp_padded_leather_shoulders]" mesh="shoulder_padding" culture="Culture.empire" value="1" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_battania_cloak" name="[Shoulders | NV] Tartan Cloak [nv_battania_cloak]" mesh="battania_cloak" culture="Culture.battania" weight="0" appearance="2" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_scarf" name="[Shoulders | NV] Scarf [nv_scarf]" mesh="sturgia_cape_a" culture="Culture.empire" subtype="body_armor" weight="0" difficulty="0" appearance="3" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_varangian_bra_padded" name="[Shoulders | NV] Decorated Leather Harness with Padding [nv_varangian_bra_padded]" mesh="varangian_bra_padded" culture="Culture.empire" value="1" is_merchandise="false" weight="0" appearance="3" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_wrapped_scarf" name="[Shoulders | NV] Wrapped Scarf [nv_wrapped_scarf]" mesh="aserai_shoulder_a" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="0" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_civil_cape" name="[Shoulders | NV] Highland Cape [nv_battania_civil_cape]" subtype="body_armor" mesh="battania_civil_cape" value="1" is_merchandise="false" culture="Culture.empire" weight="0" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_warrior_padded_armor_shoulder" name="[Shoulders | NV] Padded Warrior Shoulders [nv_empire_warrior_padded_armor_shoulder]" mesh="empire_warrior_padded_armor_shoulder" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_padded_leather_shoulders" name="[Shoulders | NV] Padded Leather Shoulders [nv_padded_leather_shoulders]" mesh="shoulder_padding" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_varangian_bra_basic" name="[Shoulders | NV] Decorated Leather Harness [nv_varangian_bra_basic]" mesh="varangian_bra_basic" culture="Culture.empire" value="1" is_merchandise="false" weight="0" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_gambeson_b_test" name="[Armor | NV] Heavy Aketon [nv_gambeson_b_test]" mesh="gambeson_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_gambeson_b" name="[Armor | NV] Heavy Aketon [nv_gambeson_b]" mesh="gambeson_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_bandit_a" name="[Armor | NV] Cheap Paddings [nv_vlandia_bandit_a]" mesh="vlandia_bandit_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_warrior_padded_armor_a" name="[Armor | NV] Infantryman Gambeson [nv_empire_warrior_padded_armor_a]" mesh="empire_warrior_padded_armor_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_templar_a_white" name="[Armor | NV] White Tabard over Mail Hauberk [nv_templar_a_white]" mesh="templar_a_white" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_armor_c" name="[Armor | NV] Infantryman Mail over Leather [nv_empire_armor_c]" mesh="empire_armor_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_armor_leather_iron_plate_a" name="[Armor | NV] Leather Armor with Iron Plates [nv_armor_leather_iron_plate_a]" mesh="armor_leather_iron_plate_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_hauberk" name="[Armor | NV] Heavy Mail Shirt [nv_mail_hauberk]" mesh="mail_hauberk" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_costume_m" name="[Armor | NV] Tunic with Leather Vest [nv_sturgia_costume_m]" mesh="sturgia_costume_m" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_brass_lamellar_white" name="[Armor | NV] Heavy Lamellar over Mail [nv_brass_lamellar_white]" mesh="brass_lamellar_white" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_lamellar_base" name="[Armor | NV] Heavy Lamellar over Mail Armor [nv_sturgian_lamellar_base]" mesh="sturgian_lamellar_base" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_costume_i" name="[Armor | NV] Bronze Scale Vest over Gambeson [nv_sturgia_costume_i]" mesh="sturgia_costume_i" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_leather_armor" name="[Armor | NV] Dummy Higher Average [nv_vlandia_leather_armor]" mesh="vlandia_leather_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_chainmale_shortsleeve" name="[Armor | NV] Huscarl Hauberk [nv_sturgian_chainmale_shortsleeve]" mesh="sturgian_chainmale_shortsleeve" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_lamellar_gambeson_heavy" name="[Armor | NV] Heavy Lamellar Vest [nv_sturgian_lamellar_gambeson_heavy]" mesh="sturgian_lamellar_gambeson_heavy" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leather_tunic_2" name="[Armor | NV] Layered Leather Tunic [nv_leather_tunic_2]" mesh="leather_tunic_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_fabric_armor" name="[Armor | NV] Infantryman Rough Gambeson [nv_empire_fabric_armor]" mesh="empire_fabric_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_leather_stripes" name="[Armor | NV] Boarskin Leather Coat [nv_vlandia_leather_stripes]" mesh="vlandia_leather_stripes" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_costume_b" name="[Armor | NV] Huscarl Mail Shirt [nv_sturgia_costume_b]" mesh="sturgia_costume_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_armor_roman_mail_shirt" name="[Armor | NV] Mail Shirt [nv_armor_roman_mail_shirt]" mesh="armor_roman_mail_shirt" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_costume_c" name="[Armor | NV] Short Gambeson over Tunic [nv_sturgia_costume_c]" mesh="sturgia_costume_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_vlandia_chainmail_a" name="[Armor | NV] Heavy Mail Hauberk [nv_vlandia_chainmail_a]" mesh="vlandia_chainmail_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nordic_sloven_a" name="[Armor | NV] Leather Tabard over Mail [nv_nordic_sloven_a]" mesh="nordic_sloven_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_woodland_chainmail" name="[Armor | NV] Heavy Mail Shirt with Wide Belt [nv_battania_woodland_chainmail]" mesh="battania_woodland_chainmail" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_templar_a_red" name="[Armor | NV] Red Tabard over Mail Hauberk [nv_templar_a_red]" mesh="templar_a_red" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_armor_e" name="[Armor | NV] Infantryman Mail Vest [nv_empire_armor_e]" mesh="empire_armor_e" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_chainmale_longsleeve" name="[Armor | NV] Decorated Hauberk [nv_sturgian_chainmale_longsleeve]" mesh="sturgian_chainmale_longsleeve" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battanian_chainmail_armor_a" name="[Armor | NV] Heavy Mail Vest [nv_battanian_chainmail_armor_a]" mesh="battanian_chainmail_armor_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_full_scale_armor_on_chain" name="[Armor | NV] Mastercrafted Southern Scale over Chain Hauberk [nv_aserai_full_scale_armor_on_chain]" mesh="aserai_full_scale_armor_on_chain" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_scale_armor_b" name="[Armor | NV] Luxury Scale Armor [nv_aserai_scale_armor_b]" mesh="aserai_scale_armor_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_bigchain_armor" name="[Armor | NV] Heavy Ring Mail [nv_aserai_bigchain_armor]" mesh="aserai_bigchain_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_armor_02" name="[Armor | NV] Southern Chain Mail [nv_aserai_armor_02]" mesh="aserai_armor_02" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_armor_02_b" name="[Armor | NV] Southern Decorated Chain Mail [nv_aserai_armor_02_b]" mesh="aserai_armor_02_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_civil_a" name="[Armor | NV] Luxury Kaftan with Waistband [nv_aserai_civil_a]" mesh="aserai_civil_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aserai_chain_plate_armor_c" name="[Armor | NV] Southern Reinforced Mail Vest [nv_aserai_chain_plate_armor_c]" mesh="aserai_chain_plate_armor_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_monk_robe" name="[Armor | NV] Scholar Robe [nv_monk_robe]" mesh="monk_robe" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_khuzait_leather_armor_b" name="[Armor | NV] Scholar Robe [nv_khuzait_leather_armor_b]" mesh="khuzait_leather_armor_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battanian_savage_armor" name="[Armor | NV] Wildling Armor [nv_battanian_savage_armor]" subtype="body_armor" mesh="battanian_savage_armor" culture="Culture.battania" weight="0" difficulty="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="false" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" DoesNotHideChest="true" Civilian="true" />
+  </Item>
+  <Item id="cilab_nv_eastern_studded_leather" name="[Armor | NV] Steppe Studded Leather [nv_eastern_studded_leather]" subtype="body_armor" mesh="khuzait_leather_armor_b" culture="Culture.empire" weight="0" difficulty="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_decorated_nordic_hauberk" name="[Armor | NV] Huscarl Decorated Mail Shirt [nv_decorated_nordic_hauberk]" subtype="body_armor" mesh="sturgia_costume_f" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgian_lamellar_fortified" name="[Armor | NV] Heavy Lamellar over Hauberk [nv_sturgian_lamellar_fortified]" mesh="sturgian_lamellar_fortified" culture="Culture.sturgia" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_imperial_lamellar" name="[Armor | NV] Cataphract Lamellar Armor [nv_imperial_lamellar]" mesh="imperial_lamellar_a" culture="Culture.empire" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_desert_scale_armor" name="[Armor | NV] Luxury Scale Armor [nv_desert_scale_armor]" lod_atlas_index="3" mesh="aserai_scale_armor_b" culture="Culture.aserai" weight="0" appearance="0.6" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_northern_brass_lamellar_over_mail" name="[Armor | NV] Heavy Bronze Lamellar over Mail [nv_northern_brass_lamellar_over_mail]" mesh="brass_lamellar_white" culture="Culture.sturgia" weight="0" appearance="0.7" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_lamellar_with_scale_skirt" name="[Armor | NV] Lamellar with Scale Skirt [nv_lamellar_with_scale_skirt]" mesh="imperial_lamellar_c" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_imperial_scale_armor" name="[Armor | NV] Heavy Scale Armor over Mail Hauberk [nv_imperial_scale_armor]" mesh="imperial_lamellar_b" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_empire_warrior_padded_armor_e" name="[Armor | NV] Infantryman Long Gambeson [nv_empire_warrior_padded_armor_e]" mesh="empire_warrior_padded_armor_e" culture="Culture.empire" weight="0" appearance="0.5" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_nordic_sloven_leather" name="[Armor | NV] Sloven Leather [nv_nordic_sloven_leather]" mesh="nordic_sloven_c" culture="Culture.sturgia" weight="0" appearance="0.5" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_female_hood" name="[Shoulders | NV] Cotton Hood [nv_female_hood]" mesh="female_peasant_cape_a" culture="Culture.empire" weight="0" appearance="1" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_desert_fabric_shoulderpad" name="[Shoulders | NV] Woven Shoulder Pad [nv_desert_fabric_shoulderpad]" mesh="aserai_bigchain_shoulder_fabric" culture="Culture.empire" weight="0" appearance="2" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_patched_gambeson" name="[Armor | NV] Patched Gambeson [nv_patched_gambeson]" mesh="bandit_4" culture="Culture.empire" weight="0" difficulty="0" appearance="0.2" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="false" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_northern_coat_of_plates" name="[Armor | NV] Coat Of Plates [nv_northern_coat_of_plates]" mesh="sturgia_plate_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_imperial_lamellar_over_leather" name="[Armor | NV] Luxury Lamellar Vest over Leather [nv_imperial_lamellar_over_leather]" mesh="empire_plate_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_horseman_armor" name="[Armor | NV] Cavalryman Mail Shirt [nv_empire_horseman_armor]" subtype="body_armor" mesh="empire_horseman_armor" culture="Culture.empire" weight="0" difficulty="0" appearance="1.3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_aketon" name="[Armor | NV] Aketon [nv_aketon]" mesh="crossbow_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_imperial_padded_cloth" name="[Armor | NV] Infantryman Rough Gambeson [nv_imperial_padded_cloth]" mesh="empire_fabric_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_desert_padded_cloth" name="[Armor | NV] Light Long Padded Armor [nv_desert_padded_cloth]" mesh="aserai_fabric_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_nv_aserai_archer_armor" name="[Armor | NV] Gambeson over Mail Armor [nv_aserai_archer_armor]" subtype="body_armor" mesh="aserai_archer_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_warrior_padded_armor_f" name="[Armor | NV] Auxiliary Armor [nv_empire_warrior_padded_armor_f]" mesh="empire_warrior_padded_armor_f" culture="Culture.empire" value="1" is_merchandise="false" weight="0" appearance="0.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_studded_leather_coat" name="[Armor | NV] Studded Leather Coat [nv_studded_leather_coat]" mesh="bandit_leather_a" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sackcloth_tunic" name="[Armor | NV] Sackcloth Tunic [nv_sackcloth_tunic]" mesh="walker_costume_d" subtype="body_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="0.1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_long_woolen_tunic" name="[Armor | NV] Long Woolen Tunic [nv_long_woolen_tunic]" mesh="armor_woolen_tunic" culture="Culture.vlandia" subtype="body_armor" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="0.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_long_hemp_tunic" name="[Armor | NV] Long Hemp Tunic [nv_long_hemp_tunic]" mesh="casual_01" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_ragged_armwraps" name="[Gloves | NV] Ragged Armwraps [nv_ragged_armwraps]" mesh="sneak_costume_hand" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_eastern_wrapped_armguards" name="[Gloves | NV] Wrapped Armguards [nv_eastern_wrapped_armguards]" mesh="plated_leather_armor_glove_a" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_armwraps_a_test" name="[Gloves | NV] Armwraps [nv_battania_armwraps_a_test]" mesh="battania_armwraps_a" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_battania_armwraps_a" name="[Gloves | NV] Armwraps [nv_battania_armwraps_a]" mesh="battania_armwraps_a" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_crossbow_armor_hand" name="[Gloves | NV] Leather Gloves [nv_crossbow_armor_hand]" mesh="crossbow_armor_hand" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_padded_vambrace_a_handguard" name="[Gloves | NV] Guarded Padded Vambraces [nv_padded_vambrace_a_handguard]" mesh="padded_vambrace_a_handguard" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_mitten_c" name="[Gloves | NV] Mail Mittens [nv_mail_mitten_c]" mesh="mail_mitten_c" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_crossbow_armor_leather_hand_b" name="[Gloves | NV] Splint Vambraces [nv_crossbow_armor_leather_hand_b]" mesh="crossbow_armor_leather_hand_b" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_padded_vambrace_a" name="[Gloves | NV] Padded Vambraces [nv_padded_vambrace_a]" mesh="padded_vambrace_a" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_plated_gauntlets" name="[Gloves | NV] Plated Striped Vambraces [nv_empire_plated_gauntlets]" mesh="empire_plated_gauntlets" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_bandit_leather_wristbands" name="[Gloves | NV] Buttoned Leather Bracers [nv_bandit_leather_wristbands]" mesh="bandit_leather_wristbands" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_vlandia_leather_stripes_bracers" name="[Gloves | NV] Woven Leather Bracers [nv_vlandia_leather_stripes_bracers]" mesh="vlandia_leather_stripes_bracers" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_plated_leather_armor_glove_b" name="[Gloves | NV] Plated Leather Vambraces [nv_plated_leather_armor_glove_b]" mesh="plated_leather_armor_glove_b" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_padded_vambrace_a_reinforced" name="[Gloves | NV] Reinforced Padded Mittens [nv_padded_vambrace_a_reinforced]" mesh="padded_vambrace_a_reinforced" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_mitten_b" name="[Gloves | NV] Reinforced Mail Mittens [nv_mail_mitten_b]" mesh="mail_mitten_b" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_mitten_a" name="[Gloves | NV] Heavy Mail Mittens [nv_mail_mitten_a]" mesh="mail_mitten_a" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_noble_bracers" name="[Gloves | NV] Battania Noble Bracers [nv_battania_noble_bracers]" mesh="battania_noble_bracers" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_highland_gloves" name="[Gloves | NV] Fur Rimmed Leather Gloves [nv_highland_gloves]" mesh="pict_armor_glove" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_guarded_padded_vambrace" name="[Gloves | NV] Guarded Padded Vambraces [nv_guarded_padded_vambrace]" mesh="padded_vambrace_a_handguard" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_strapped_leather_bracers" name="[Gloves | NV] Strapped Leather Bracers [nv_strapped_leather_bracers]" mesh="bandit_10_wristband" culture="Culture.battania" weight="0" appearance="0.3" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leather_gloves" name="[Gloves | NV] Leather Gloves [nv_leather_gloves]" mesh="crossbow_armor_hand" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_studded_vambraces" name="[Gloves | NV] Studded Vambraces [nv_studded_vambraces]" mesh="bandit_1_wristband" culture="Culture.khuzait" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="0.5" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_banded_leather_over_mail" name="[Armor | NV] Banded Leather over Mail [nv_banded_leather_over_mail]" mesh="vlandia_leather_armor" culture="Culture.empire" value="0" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_lamellar_plate_gauntlets" name="[Gloves | NV] Lamellar Plate Gauntlets [nv_lamellar_plate_gauntlets]" mesh="imperial_gauntlets" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_reinforced_leather_vambraces" name="[Gloves | NV] Reinforced Leather Vambraces [nv_reinforced_leather_vambraces]" mesh="crossbow_armor_leather_hand_b" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_armwraps" name="[Gloves | NV] Armwraps [nv_armwraps]" mesh="battania_armwraps_a" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_padded_mitten" name="[Gloves | NV] Padded Mittens [nv_padded_mitten]" mesh="padded_vambrace_a_mitten" culture="Culture.empire" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="0.3" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_mitten" name="[Gloves | NV] Mail Mittens [nv_mail_mitten]" mesh="mail_mitten_c" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_cav_boots_test" name="[Boots | NV] Leather Cavalier Boots [nv_cav_boots_test]" mesh="cav_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="50" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_cav_boots" name="[Boots | NV] Leather Cavalier Boots [nv_cav_boots]" mesh="cav_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_battania_boot_a" name="[Boots | NV] Woodland Leg Wrappings [nv_battania_boot_a]" mesh="battania_boot_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_chausses_a" name="[Boots | NV] Mail Chausses [nv_mail_chausses_a]" mesh="mail_chausses_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_chausses_b" name="[Boots | NV] Strapped Mail Chausses [nv_mail_chausses_b]" mesh="mail_chausses_b" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_bandit_leather_boots" name="[Boots | NV] Wrapped Leather Boots [nv_bandit_leather_boots]" mesh="bandit_leather_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_plated_boots" name="[Boots | NV] Splint Boots [nv_empire_plated_boots]" mesh="empire_plated_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_empire_horseman_boots" name="[Boots | NV] Horseman Boots [nv_empire_horseman_boots]" mesh="empire_horseman_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_boots_c" name="[Boots | NV] Tied Boots [nv_sturgia_boots_c]" mesh="sturgia_boots_c" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_casual_02_boots" name="[Boots | NV] Fine Town Boots [nv_casual_02_boots]" mesh="casual_02_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_pict_armor_boot" name="[Boots | NV] Forester Boots [nv_pict_armor_boot]" mesh="pict_armor_boot" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_strapped_shoes" name="[Boots | NV] Strapped Shoes [nv_strapped_shoes]" mesh="strapped_shoes" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_battania_leather_boots_a" name="[Boots | NV] Highborn Leather Boots [nv_battania_leather_boots_a]" mesh="battania_leather_boots_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_khuzait_leather_armor_foot" name="[Boots | NV] Sturdy Leather Boots [nv_khuzait_leather_armor_foot]" mesh="khuzait_leather_armor_foot" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_cav_boots_reinforced" name="[Boots | NV] Mail Cavalier Boots [nv_cav_boots_reinforced]" mesh="cav_boots_reinforced" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sturgia_boots_a" name="[Boots | NV] Simple Leather Boots [nv_sturgia_boots_a]" mesh="sturgia_boots_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_sea_raider_leather_boot" name="[Boots | NV] Folded Leather Boots [nv_sea_raider_leather_boot]" mesh="sea_raider_leather_boot" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_khuzait_leather_boots" name="[Boots | NV] Curved Boots [nv_khuzait_leather_boots]" mesh="khuzait_leather_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_nv_wrapped_shoes" name="[Boots | NV] Wrapped Shoes [nv_wrapped_shoes]" mesh="wrapped_shoes" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_bandit_3_boot" name="[Boots | NV] Wrapped Shoes [nv_bandit_3_boot]" mesh="bandit_3_boot" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_lamellar_plate_boots" name="[Boots | NV] Lamellar Plate Boots [nv_lamellar_plate_boots]" mesh="imperial_boots" culture="Culture.battania" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_rough_tied_boots" name="[Boots | NV] Lamellar Plate Boots [nv_rough_tied_boots]" mesh="bandit_3_boot" culture="Culture.battania" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_highland_leg_wrappings" name="[Boots | NV] Highland Leg Wrappings [nv_highland_leg_wrappings]" mesh="battania_boot_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_plated_strip_boots" name="[Boots | NV] Splint Boots [nv_plated_strip_boots]" mesh="empire_plated_boots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_folded_town_boots" name="[Boots | NV] Folded Town Boots [nv_folded_town_boots]" mesh="casual_01_boots" culture="Culture.empire" weight="0" appearance="0.7" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leather_shoes" name="[Boots | NV] Leather Shoes [nv_leather_shoes]" mesh="boot_e" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_ragged_boots" name="[Boots | NV] Ragged Boots [nv_ragged_boots]" mesh="sneak_costume_foot" culture="Culture.battania" value="1" is_merchandise="false" weight="0" difficulty="0" appearance="0.3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_eastern_leather_boots" name="[Boots | NV] Curved Boots [nv_eastern_leather_boots]" mesh="plated_leather_armor_boot" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_strapped_mail_chausses" name="[Boots | NV] Strapped Mail Chausses [nv_strapped_mail_chausses]" mesh="mail_chausses_b" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_mail_chausses" name="[Boots | NV] Mail Chausses [nv_mail_chausses]" mesh="mail_chausses_a" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_northern_ring_barding" name="[Harness | NV] Northlander Ring Barding [nv_northern_ring_barding]" mesh="horse_harness_sturgia_a_clotest" weight="0" culture="Culture.empire" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" mane_cover_type="all" modifier_group="chain" reins_mesh="horse_harness_sturgia_a_rein" material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_nv_chain_horse_harness" name="[Harness | NV] Chain Mail Horse Armor [nv_chain_horse_harness]" mesh="horse_harness_e" subtype="body_armor" weight="95" appearance="0.6" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" hair_cover_type="all" covers_head="true" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_desert_cloth_harness" name="[Harness | NV] Bedouin Cloth Saddle [nv_desert_cloth_harness]" mesh="horse_harness_aserai_a_clotest" culture="Culture.empire" subtype="body_armor" weight="95" appearance="1" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" mane_cover_type="none" reins_mesh="horse_harness_aserai_a_rein" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cilab_nv_sturgia_boots_b" name="[Boots | NV] Tied Leather Boots [nv_sturgia_boots_b]" mesh="sturgia_boots_b" culture="Culture.sturgia" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" Stealth="true" UseTeamColor="false" />
+  </Item>
+</Items>

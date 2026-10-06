@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_horse_harness_a_new" name="[Harness | CI] Mail and Plate Barding [horse_harness_a_new]" mesh="horse_harness_a_new" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="10" mane_cover_type="none" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_jinetesarnes" name="[Harness | CI] Mail and Plate Barding [jinetesarnes]" mesh="horse_cloth_armor" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="none" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_AR_horse_armor_zg" name="[Harness | CI] Imperial Light Harness [AR_horse_armor_zg]" mesh="horse_harness_roman_b_new" culture="Culture.empire" weight="95" appearance="1" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_a_new_rein" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ar_horse_armor_zaj" name="[Harness | CI] Mail and Plate Barding [ar_horse_armor_zaj]" mesh="ar_horse_armor_zaj" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_Dralionarnes" name="[Harness | CI] Mail and Plate Barding [Dralionarnes]" mesh="ci_dralion_horse" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_jinetesarnes2" name="[Harness | CI] Mail and Plate Barding [jinetesarnes2]" mesh="ar_horse_armor_zau" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_jinetesarnes3" name="[Harness | CI] Mail and Plate Barding [jinetesarnes3]" mesh="ar_horse_armor_zat" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="none" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_jinetesarnes4" name="[Harness | CI] Mail and Plate Barding [jinetesarnes4]" mesh="ar_horse_armor_zas" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="none" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_jinetesarnes5" name="[Harness | CI] Mail and Plate Barding [jinetesarnes5]" mesh="ar_horse_armor_zar" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gen_AR_horse_armor_k2" name="[Harness | CI] Barding Heavy Cav CI Gen [ci_gen_AR_horse_armor_k2]" mesh="AR_horse_armor_k2" culture="Culture.empire" subtype="body_armor" value="1" is_merchandise="false" weight="95" Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="none" family_type="1" modifier_group="plate" reins_mesh="horse_harness_e_rein" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

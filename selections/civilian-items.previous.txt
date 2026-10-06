@@ -1,0 +1,73 @@
+CIVILIAN ITEM SELECTION
+Saved: 6 October 2026
+Items: 60
+Selection for later use; in-game equipment flags unchanged.
+
+ARMOR
+[Armor | NV] Tunic with Leather Vest [nv_sturgia_costume_m] | Lab ID: cilab_nv_sturgia_costume_m
+[Armor | NV] Infantryman Rough Gambeson [nv_imperial_padded_cloth] | Lab ID: cilab_nv_imperial_padded_cloth
+[Armor | VL] Half Aketon [vl_aketona] | Lab ID: cilab_vl_aketona
+[Armor | VL] Long Leather Coat [vl_long_leather_coat] | Lab ID: cilab_vl_long_leather_coat
+[Armor | VL] Merchant Leather Windcheater [vl_merchant_windcheater] | Lab ID: cilab_vl_merchant_windcheater
+[Armor | VL] Stripped Aketon [vl_aketonb] | Lab ID: cilab_vl_aketonb
+[Armor | VL] Elegant Tunic [vl_elegant_tunic1] | Lab ID: cilab_vl_elegant_tunic1
+[Armor | NV] Heavy Aketon [nv_gambeson_b_test] | Lab ID: cilab_nv_gambeson_b_test
+[Armor | BUA | Asset Test] bb_civ_garment_1_royal [asset_bb_civ_garment_1_royal] | Lab ID: cilab_asset_bb_civ_garment_1_royal
+[Armor | BUA | Asset Test] bb_gambeson_1 [asset_bb_gambeson_1] | Lab ID: cilab_asset_bb_gambeson_1
+[Armor | BUA | Asset Test] bb_gambeson_tabard_heraldry [asset_bb_gambeson_tabard_heraldry] | Lab ID: cilab_asset_bb_gambeson_tabard_heraldry
+[Armor | BUA | Asset Test] bb_jupon_sleeved_t2 [asset_bb_jupon_sleeved_t2] | Lab ID: cilab_asset_bb_jupon_sleeved_t2
+[Armor | BUA | Asset Test] bb_civ_garment_1_royal_alt [asset_bb_civ_garment_1_royal_alt] | Lab ID: cilab_asset_bb_civ_garment_1_royal_alt
+[Armor | BUA | Asset Test] bb_jupon [asset_bb_jupon] | Lab ID: cilab_asset_bb_jupon
+[Armor | BUA | Asset Test] bb_overcoat_heraldry [asset_bb_overcoat_heraldry] | Lab ID: cilab_asset_bb_overcoat_heraldry
+[Armor | NV] Long Hemp Tunic [nv_long_hemp_tunic] | Lab ID: cilab_nv_long_hemp_tunic
+[Armor | NV] Sackcloth Tunic [nv_sackcloth_tunic] | Lab ID: cilab_nv_sackcloth_tunic
+[Armor | NV] Patched Gambeson [nv_patched_gambeson] | Lab ID: cilab_nv_patched_gambeson
+[Armor | VL] Worn Checkered Quilted Vest [vl_quilted_vesta] | Lab ID: cilab_vl_quilted_vesta
+[Armor | NV] Infantryman Rough Gambeson [nv_empire_fabric_armor] | Lab ID: cilab_nv_empire_fabric_armor
+[Armor | NV] Leather Tabard over Mail [nv_nordic_sloven_a] | Lab ID: cilab_nv_nordic_sloven_a
+[Armor | NV] Luxury Kaftan with Waistband [nv_aserai_civil_a] | Lab ID: cilab_nv_aserai_civil_a
+[Armor | BUA | Asset Test] bb_gambeson_tabard_2 [asset_bb_gambeson_tabard_2] | Lab ID: cilab_asset_bb_gambeson_tabard_2
+[Armor | NV] Light Long Padded Armor [nv_desert_padded_cloth] | Lab ID: cilab_nv_desert_padded_cloth
+[Armor | NV] Heavy Aketon [nv_gambeson_b] | Lab ID: cilab_nv_gambeson_b
+[Armor | NV] Short Gambeson over Tunic [nv_sturgia_costume_c] | Lab ID: cilab_nv_sturgia_costume_c
+[Armor | NV] Sloven Leather [nv_nordic_sloven_leather] | Lab ID: cilab_nv_nordic_sloven_leather
+
+BOOTS
+[Boots | NV] Curved Boots [nv_khuzait_leather_boots] | Lab ID: cilab_nv_khuzait_leather_boots
+[Boots | NV] Leather Cavalier Boots [nv_cav_boots_test] | Lab ID: cilab_nv_cav_boots_test
+[Boots | VL] Black Town Boots [vl_black_town_boots] | Lab ID: cilab_vl_black_town_boots
+[Boots | VL] Shoes With Legwraps [vl_tied_boots] | Lab ID: cilab_vl_tied_boots
+[Boots | CI] Pantalones [ci_arq_pantalones] | Lab ID: cilab_ci_arq_pantalones
+[Boots | CI] CI boots leather [cts_spanish_leather_boots] | Lab ID: cilab_cts_spanish_leather_boots
+[Boots | NV] Tied Boots [nv_sturgia_boots_c] | Lab ID: cilab_nv_sturgia_boots_c
+[Boots | NV] Ragged Boots [nv_ragged_boots] | Lab ID: cilab_nv_ragged_boots
+
+HELMET
+[Helmet | VL] Elegant Chaperon [vl_chaperon] | Lab ID: cilab_vl_chaperon
+[Helmet | NV] Hijab [nv_headscarf_d] | Lab ID: cilab_nv_headscarf_d
+[Helmet | NV] Turban [nv_aserai_helmet_i] | Lab ID: cilab_nv_aserai_helmet_i
+[Helmet | NV] Tight Head Scarf [nv_aserai_helmet_f] | Lab ID: cilab_nv_aserai_helmet_f
+[Helmet | NV] Thinhide Coif [nv_thinhide_coif] | Lab ID: cilab_nv_thinhide_coif
+[Helmet | NV] Pilgrim Hood [nv_sneak_costume_head] | Lab ID: cilab_nv_sneak_costume_head
+[Helmet | NV] Pilgrim Hood [nv_pilgrim_hood] | Lab ID: cilab_nv_pilgrim_hood
+[Helmet | NV] Leather Coif [nv_empire_helmet_d] | Lab ID: cilab_nv_empire_helmet_d
+[Helmet | NV] Leather Coif [nv_vlandia_helmet_f] | Lab ID: cilab_nv_vlandia_helmet_f
+[Helmet | NV] Kettle Helmet with Leather [nv_kettle_helmet_leather] | Lab ID: cilab_nv_kettle_helmet_leather
+[Helmet | NV] Fur Rimmed Cap [nv_sturgia_helmet_m] | Lab ID: cilab_nv_sturgia_helmet_m
+[Helmet | NV] Cloth Hood [nv_battania_civil_hood] | Lab ID: cilab_nv_battania_civil_hood
+[Helmet | NV] Bandit Leather Hood [nv_aserai_civil_f_cape] | Lab ID: cilab_nv_aserai_civil_f_cape
+[Helmet | NV] Leather Studded Helm [nv_leather_studdedhelm] | Lab ID: cilab_nv_leather_studdedhelm
+[Helmet | BUA | Asset Test] bb_skullcap [asset_bb_skullcap] | Lab ID: cilab_asset_bb_skullcap
+
+SHOULDERS
+[Shoulders | NV] Scarf [nv_scarf] | Lab ID: cilab_nv_scarf
+[Shoulders | VL] Tawny Fur Cloak [vl_fur_cloakb] | Lab ID: cilab_vl_fur_cloakb
+[Shoulders | VL] Checkered Quilted Colletin [vl_quilted_colletinb] | Lab ID: cilab_vl_quilted_colletinb
+[Shoulders | VL] Leather Colletin With Hood [vl_leather_colletin] | Lab ID: cilab_vl_leather_colletin
+[Shoulders | NV] Cotton Hood [nv_female_hood] | Lab ID: cilab_nv_female_hood
+[Shoulders | NV] Simple Cape [nv_battania_cloak_a] | Lab ID: cilab_nv_battania_cloak_a
+[Shoulders | CI] Rosario [os_collar_inquisidor] | Lab ID: cilab_os_collar_inquisidor
+[Shoulders | NV] Padded Leather Shoulders [nv_padded_leather_shoulders] | Lab ID: cilab_nv_padded_leather_shoulders
+[Shoulders | NV] Highland Cape [nv_battania_civil_cape] | Lab ID: cilab_nv_battania_civil_cape
+[Shoulders | NV] Wrapped Scarf [nv_wrapped_scarf] | Lab ID: cilab_nv_wrapped_scarf
+

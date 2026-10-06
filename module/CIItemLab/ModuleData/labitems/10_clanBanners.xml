@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_45e_banner" name="[Axe | CI] Clan Banner [45e_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="45e_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_pndr_banner" name="[Axe | CI] Clan Banner [pndr_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="pndr_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_tfsn_banner" name="[Axe | CI] Clan Banner [tfsn_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="tfsn_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_vale_banner" name="[Axe | CI] Clan Banner [vale_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="vale_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kofh_banner" name="[Axe | CI] Clan Banner [kofh_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kofh_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_pt_banner" name="[Axe | CI] Clan Banner [pt_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="toledo_new_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_pt_banner_2" name="[Axe | CI] Clan Banner [pt_banner_2]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="toledo_small_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ala_banner" name="[Axe | CI] Clan Banner [ala_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="ala_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_almo_banner" name="[Axe | CI] Clan Banner [almo_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="almo_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_asta_banner" name="[Axe | CI] Clan Banner [asta_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="asta_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_bd_banner" name="[Axe | CI] Clan Banner [bd_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="bd_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_bre_banner" name="[Axe | CI] Clan Banner [bre_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="bre_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_old_ci_banner" name="[Axe | CI] CI Banner [old_ci_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="ci_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_clrd_banner" name="[Axe | CI] Clan Banner [clrd_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="clrd_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_comb_banner" name="[Axe | CI] Clan Banner [comb_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="comb_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_dr_banner" name="[Axe | CI] Clan Banner [dr_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="dr_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_fog_banner" name="[Axe | CI] Clan Banner [fog_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="fog_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_frnc_banner" name="[Axe | CI] Clan Banner [frnc_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="frnc_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_goh_banner" name="[Axe | CI] Clan Banner [goh_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="goh_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_hbw_banner" name="[Axe | CI] Clan Banner [hbw_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="hbw_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_hdne_banner" name="[Axe | CI] Clan Banner [hdne_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="hdne_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_host_banner" name="[Axe | CI] Clan Banner [host_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="host_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ipl_banner" name="[Axe | CI] Clan Banner [ipl_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="ipl_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_jorvik_banner" name="[Axe | CI] Clan Banner [jorvik_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="jorvik_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_koh_banner" name="[Axe | CI] Clan Banner [koh_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="koh_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kol_banner" name="[Axe | CI] Clan Banner [kol_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kol_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kopl_banner" name="[Axe | CI] Clan Banner [kopl_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kopl_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kotf_banner" name="[Axe | CI] Clan Banner [kotf_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kotf_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kt_banner" name="[Axe | CI] Clan Banner [kt_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kt_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_kzy_banner" name="[Axe | CI] Clan Banner [kzy_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="kzy_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_leon_banner" name="[Axe | CI] Clan Banner [leon_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="leon_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_lion_banner" name="[Axe | CI] Clan Banner [lion_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="lion_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_mofc_banner" name="[Axe | CI] Clan Banner [mofc_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="mofc_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_nold_banner" name="[Axe | CI] Clan Banner [nold_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="nold_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_nors_banner" name="[Axe | CI] Clan Banner [nors_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="nors_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_nuln_banner" name="[Axe | CI] Clan Banner [nuln_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="nuln_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_rdll_banner" name="[Axe | CI] Clan Banner [rdll_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="rdll_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_rhod_banner" name="[Axe | CI] Clan Banner [rhod_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="rhod_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_rusd_banner" name="[Axe | CI] Clan Banner [rusd_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="rusd_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_sklg_banner" name="[Axe | CI] Clan Banner [sklg_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="sklg_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_skzn_banner" name="[Axe | CI] Clan Banner [skzn_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="skzn_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_sparta_banner" name="[Axe | CI] Clan Banner [sparta_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="sparta_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_svci_banner" name="[Axe | CI] Clan Banner [svci_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="svci_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_vd_banner" name="[Axe | CI] Clan Banner [vd_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="vd_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_vlnd_banner" name="[Axe | CI] Clan Banner [vlnd_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="vlnd_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_xiii_banner" name="[Axe | CI] Clan Banner [xiii_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="xiii_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_onyx_banner" name="[Axe | CI] Clan Banner [onyx_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="onyx_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_vsc_banner" name="[Axe | CI] Clan Banner [vsc_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="vsc_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_exb_banner" name="[Axe | CI] Clan Banner [exb_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="exb_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_cfr_banner" name="[Axe | CI] Clan Banner [cfr_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="cfr_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_arv_banner" name="[Axe | CI] Clan Banner [arv_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="arv_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_os_banner" name="[Axe | CI] Clan Banner [os_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="santiago_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_os_cruz_banner" name="[Axe | CI] Cruz de Santiago [os_cruz_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="estandartesantiago" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ktar_banner" name="[Axe | CI] Clan Banner [ktar_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="ktar_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_13_banner_1" name="[Axe | CI] Standard of Duty [13_banner_1]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="13_banner_1" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_egrf_banner" name="[Axe | CI] Clan Banner [egrf_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="egrf_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_preo_banner" name="[Axe | CI] Clan Banner [preo_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="preo_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_old_dc_banner" name="[Axe | CI] Clan Banner [old_dc_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="castile_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ie_banner" name="[Axe | CI] Clan Banner [ie_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="ie_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" position="0, 0.0, -0.4" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="65" swing_damage="6" swing_damage_type="Blunt" item_usage="torch" physics_material="metal_weapon">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_vemo_banner" name="[Axe | CI] Vemo Banner [vemo_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="grei_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="65" swing_damage="6" swing_damage_type="Blunt" item_usage="torch" physics_material="metal_weapon">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="false" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" />
+  </Item>
+  <Item id="cilab_gib_banner" name="[Axe | CI] Gibraltar Banner [gib_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="gibraltar_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_dnlr_banner" name="[Axe | CI] Clan Banner [dnlr_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="dnlr_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_hinq_banner" name="[Axe | CI] Clan Banner [hinq_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="hinq_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_navarre_banner" name="[Axe | CI] Clan Banner [navarre_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="navarre_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_lga_banner" name="[Axe | CI] Clan Banner [lga_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="lga_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, 0">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ci_banner" name="[Axe | CI] Estandarte Real [ci_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="cts_spain_flag_b" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_ci_triangular_banner" name="[Axe | CI] Estandarte Vieja Guardia [ci_triangular_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="cts_spanish_triangle_flag" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_dc_banner" name="[Axe | CI] Clan Banner [dc_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="cast_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_mf_banner" name="[Axe | CI] MF Banner [mf_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="mf_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_da_banner" name="[Axe | CI] Alcántara Banner [da_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="alcantara_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item id="cilab_val_banner" name="[Axe | CI] Valencia Banner [val_banner]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="valencia_banner" culture="Culture.empire" value="4" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" />
+  </Item>
+</Items>

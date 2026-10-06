@@ -1,0 +1,136 @@
+CI ITEM LAB v0.3 - SINGLEPLAYER TEST ENVIRONMENT
+
+Project: BannerlordMod\mods\CIItemLab
+Installed game module: Mount & Blade II Bannerlord\Modules\CIItemLab
+Built against your installed Bannerlord v1.4.8 and local CI Modpack v1.8.2.0.
+
+QUICK START
+1. Close Bannerlord and double-click Launch CI Item Lab.cmd in this folder.
+2. Load your CI Item Lab sandbox save, or create a new Sandbox test character.
+3. Press F8 on the campaign map to open the normal inventory/equipment view.
+4. All 1,894 CI and Asset Test items appear on the LEFT, with ten copies of each.
+5. Use the LEFT search box, category icons, and Type/Name sort buttons. Transfer
+   items to your party or equip them directly. Press Done to keep your changes.
+6. Press F9 on the map, choose an arena and a mode, and test your battle gear.
+
+ITEM CATALOG
+The left-hand catalog is regenerated every time you press F8. It includes the
+entire CI collection at once: no result pages and no preliminary search dialog.
+Transfers are free. Normal item tooltips, previews and equipment slots work.
+Lab-only display labels make the native inventory search useful:
+  [Shield | CI] ... [original_item_id]
+  [Helmet | BRE] ... [original_item_id]
+  [Sword | CI] ... [original_item_id]
+Search by category (shield, helmet, shoulders, armor, gloves, boots, horse,
+harness, sword, axe, mace, polearm, bow, crossbow, arrows, bolts), pack label
+(CI, BRE, OSA, BUA, SW, VL, NV, etc.), original name, or original item ID.
+Search labels apply only to isolated lab copies; original CI files are intact.
+Make sure the category filter is All if a search appears to miss an item.
+
+ARENA CONTROLS
+F9 on the campaign map opens a picker for six native arenas:
+Imperial, Vlandian, Battanian, Sturgian, Aserai and Khuzait.
+Then choose:
+  Explore        Free movement, with your equipped horse if present; no opponent
+  Spar on foot   Fight an Imperial recruit using your current battle equipment
+  Mounted spar   Bring your equipped horse and fight a Vlandian champion
+In the arena:
+  F8    Leave the arena and reopen the catalog to swap gear
+  F9    Restart the same arena and mode
+  F10   Return to the campaign map
+You can also use the normal leave controls. Press Done after changing gear,
+then F9 on the map to choose the next arena. Horse mode requires a horse and
+appropriate harness equipped in your battle slots. Civilian slots are separate.
+The arena is a standalone mission. Your campaign party stays in place. There
+are no rewards, tournament entries, or campaign party casualties. Test-agent
+callbacks do not persist health changes, hero deaths, or combat XP. Sparring
+uses a nonlethal agent-state decider. Agents begin each round at 100 health.
+
+OPTIONAL ADVANCED SEARCH
+Ctrl+F8 on the map retains the earlier dialog search. It can search vanilla and
+other loaded items with all: prefixes, or remove unused lab gear with clear.
+The default F8 catalog shows CI items and the additional Asset Test entries.
+  all: sword    Dialog search across all loaded item sources
+  inventory     Open your party's inventory without the catalog
+  clear         Remove unequipped CI lab items from your party's inventory
+
+SAVE AND LAUNCHER
+Use a dedicated test save named CI Item Lab. Keep this module enabled while
+lab gear is stored or equipped in that save. A new setup save must be created
+in the actual game; this workspace does not include a fabricated save file.
+The launch command selects Native, SandBoxCore, CustomBattle, Sandbox,
+StoryMode, and CIItemLab without changing your saved launcher selections.
+Alternatively enable those modules on the Singleplayer Mods tab and put
+CIItemLab after Sandbox/StoryMode. Restart the game after updating the DLL.
+
+LOCAL CI ASSET DEPENDENCY
+The installed module's AssetPackages, Assets, ModuleSounds and Prefabs are
+junctions to the original Workshop folder:
+C:\Program Files (x86)\Steam\steamapps\workshop\content\261550\3245522442
+Keep CI Modpack installed. Its original files have not been modified.
+This avoids copying 11 GB of assets. The workspace package is not a standalone
+redistributable copy of the CI art. Refresh after CI/game updates by running:
+  .\tools\Build-Lab.ps1
+  .\tools\Install-Lab.ps1
+
+COMPATIBILITY
+Lab item/crafting IDs use a cilab_ prefix to avoid replacing vanilla definitions.
+Necessary native multiplayer crafting pieces are included as isolated copies.
+Multiplayer flags and campaign-incompatible neutral culture references have
+been adapted. Duplicate definitions and stale optional smithing references
+are omitted. Explicit item difficulty attributes are zero for easier testing.
+Original equipment stats are otherwise preserved. Search labels are literal
+English category/pack labels followed by the source item's original name/ID.
+CI multiplayer DLLs, game modes and scripts are not loaded. Script-dependent
+special effects may therefore behave differently from the multiplayer mod.
+
+VERIFICATION
+C# compilation and XML/item/crafting reference checks pass. Arena scene files
+are checked against the installed game. Actual in-game loading, rendering,
+catalog transfers, arena spawning, combat and returning remain unverified.
+
+FILES
+src\CIItemLab\             Mod C# source
+module\CIItemLab\          Generated module and DLL
+tools\                     Conversion, validation, build, install and launch
+ docs\item-catalog.json     Every searchable name, category, pack and ID
+ docs\validation-report.json  Latest static checks
+build\                     Compiler output
+
+UNINSTALL
+Close the game. Remove the four asset junctions themselves before deleting
+Modules\CIItemLab. Do not delete the Workshop folders they point to.
+
+v0.3: COLORS AND UNUSED EQUIPMENT
+F7 on the campaign map selects a CI clan color profile for shared/team-colored
+items. The default is Gibraltar. Dedicated items use their own identified clan
+palette. After changing profiles, close and reopen the F8 inventory. Profiles
+are session settings and reset to Gibraltar on game restart.
+Clothing colors are applied using the native masked cloth-color helper, which
+respects no_team_color mesh tags and preserves uncolored metal/texture detail.
+The inventory color hooks affect only cilab_ items. Arena player spawning uses
+the equipped dedicated item's palette, or the selected shared-item profile.
+
+The catalog now contains 1,894 entries: 1,459 original CI definitions plus 435
+Asset Test entries. Extras include 110 assembled crafting-component weapons,
+4 complete polearm meshes, 1 other weapon, and 320 armor/mount/shield entries.
+Search Asset Test to show the new entries, or a package label such as BUA,
+OpenSourceArmory, 3Swadian, 4Vlandian1, 5Vlandian2, or Crafting.
+Asset Test entries use inferred types and copied test stats. They are for visual
+and equipment testing, not an authoritative recreation of upstream item stats.
+Some component test weapons combine a new component with a native recipe.
+Their scale, collisions and balancing require in-game checks. Other raw meshes
+are props, cloth helpers, variants, attachments or unclassified components;
+they are recorded in docs/asset-expansion-report.json. This is not a claim that
+every raw mesh is a complete, usable weapon or armor item.
+AssetInventory indexes all TPAC files in the locally installed CI folder.
+The TpacTool metadata reader and its license live under shared/tools/TpacTool.
+Harmony is bundled with the lab DLL; no separate Harmony module selection is
+needed. Source CI assets and multiplayer module files remain unchanged.
+
+Color appearance, generated equipment and test weapons still need in-game QA.
+
+Photo destinations: F9 now includes six cultural taverns and four keep halls. These open on foot without opponents, using your battle equipment. F8 returns to the catalog; F9 restarts the scene; F10 returns to the campaign map. The scene provides the native photo-mode view. Interiors use their sp_player spawn point. Scene files and spawn prefabs were checked; in-game lighting and photo controls still need a visual check.
+Catalog diagnostics: Opening F8 records loaded item IDs/types and displayed row counts under Documents\Mount and Blade II Bannerlord\CIItemLab\diagnostics. The launcher installs the current workspace build before starting the game.
+
+Inventory search now matches visible names without case sensitivity (BUA/bua), including one-character searches, within the lab catalog only. Confirmed runtime catalog before quarantine: 1890 items. Four generated crafting tests currently fail initialization (res_flamberg_blade_b and res.zweihander guard/grip/pommel .b). Known native equip crash: BRE bre_kettlehelm_2 is quarantined from F8 and Ctrl+F8 catalogs; its definition is retained for save compatibility. Cause unconfirmed without a native crash stack. Other raw asset tests remain unverified in-game.

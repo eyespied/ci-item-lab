@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_bre_b2_flattop_cap" name="[Helmet | BRE] Flat-Top Helmet over Padded Cap [bre_b2_flattop_cap]" mesh="bre_flattop_cap" culture="Culture.empire" weight="0" appearance="1.4" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_kettle_0_cap" name="[Helmet | BRE] Kettle Helmet over Padded Cap [bre_b2_kettle_0_cap]" mesh="bre_kettle_0_cap" culture="Culture.empire" weight="0" appearance="0.6" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_dizinier_flattop_painted" name="[Helmet | BRE] Painted Flat-Top Helmet with Flag [bre_b3_dizinier_flattop_painted]" subtype="head_armor" mesh="b3_sergeant_flattop_helmet_painted" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_kettle_mail_2" name="[Helmet | BRE] Hettle Hat over Mail [bre_b2_kettle_mail_2]" mesh="bre_kettle_mail_2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_sergeant_noflag_flattop_helmet_painted" name="[Helmet | BRE] Painted Flat-Top Helmet [bre_b3_sergeant_noflag_flattop_helmet_painted]" subtype="head_armor" mesh="b3_sergeant_noflag_flattop_helmet_painted" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_sergeants_helmet" name="[Helmet | BRE] Liohelm Sergeants Helmet [bre_b3_lionhelm_sergeants_helmet]" mesh="lionhelm_sergeant_helmet" subtype="head_armor" culture="Culture.empire" weight="0" appearance="3" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_captains_helmet" name="[Helmet | BRE] Liohelm Captains Helmet [bre_b3_lionhelm_captains_helmet]" mesh="lionhelm_captain_helmet" subtype="head_armor" culture="Culture.empire" weight="0" appearance="3" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_head_gis" name="[Helmet | BRE] Knight Greathelm [bre_b3_grail_head_gis]" subtype="head_armor" mesh="b3_gisoreux_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_head_fro" name="[Helmet | BRE] Knight Helm [bre_b3_head_fro]" subtype="head_armor" mesh="b3_kotr_helmet_alaron" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_head_bri" name="[Helmet | BRE] Knight Greathelm [bre_b3_grail_head_bri]" subtype="head_armor" mesh="b3_brionne_grail_head" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kerrant_head_2" name="[Helmet | BRE] Greathelm [bre_b3_kerrant_head_2]" subtype="head_armor" mesh="kerrant_helm_v2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_head_mou" name="[Helmet | BRE] Knight Greathelm [bre_b3_grail_head_mou]" subtype="head_armor" mesh="b3_moussillon_grail_head" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_head_cas" name="[Helmet | BRE] Knight Greathelm [bre_b3_grail_head_cas]" subtype="head_armor" mesh="b3_castagne_grail_head" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_sergeant_shoulders" name="[Shoulders | BRE] Lionhelm Sergeant Shoulders [bre_b3_lionhelm_sergeant_shoulders]" mesh="lionhelm_sergeant_shoulders" culture="Culture.empire" weight="0" appearance="7" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_captain_shoulders" name="[Shoulders | BRE] Lionhelm Captains Shoulders [bre_b3_lionhelm_captain_shoulders]" mesh="lionhelm_captain_shoulders" culture="Culture.empire" weight="0" appearance="7" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_cape_gis" name="[Shoulders | BRE] Knight Cape [bre_b3_grail_cape_gis]" mesh="b3_gisoreux_shoulders" culture="Culture.empire" weight="0" appearance="7" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_crest_fro" name="[Shoulders | BRE] Frontiere Crest [bre_b3_crest_fro]" mesh="b3_kotr_headornament_alaron" culture="Culture.empire" weight="0" appearance="4" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_cape_mou" name="[Shoulders | BRE] Knight Pauldrons with Cape [bre_b3_grail_cape_mou]" mesh="b3_moussillon_grail_cape" culture="Culture.empire" weight="0" appearance="7" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_cape_cas" name="[Shoulders | BRE] Knight Cape [bre_b3_grail_cape_cas]" mesh="b3_castagne_grail_cape" culture="Culture.empire" weight="0" appearance="7" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_bandit_0" name="[Armor | BRE] Patched Gambeson [bre_b2_bandit_0]" mesh="bre_bandit_0" culture="Culture.empire" weight="0" appearance="0.2" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_padded_coat_0" name="[Armor | BRE] Padded Footman Coat [bre_b2_padded_coat_0]" subtype="body_armor" mesh="bre_padded_coat_0" culture="Culture.empire" weight="0" appearance="0.5" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_templar_2" name="[Armor | BRE] Tabard over Mail Hauberk [bre_b2_templar_2]" subtype="body_armor" mesh="bre_templar_2" culture="Culture.empire" weight="0" appearance="1.2" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" has_gender_variations="false" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_templar_3" name="[Armor | BRE] Tabard over Mail Hauberk [bre_b2_templar_3]" subtype="body_armor" mesh="bre_templar_3" culture="Culture.empire" weight="0" appearance="1.2" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" has_gender_variations="false" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_sergeant_torso" name="[Armor | BRE] Lionhelm Sergeant Torso [bre_b3_lionhelm_sergeant_torso]" mesh="lionhelm_sergeant_torso" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_captain_torso" name="[Armor | BRE] Lionhelm Captain Torso [bre_b3_lionhelm_captain_torso]" mesh="lionhelm_captain_torso" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_body_gis" name="[Armor | BRE] Knight Armor [bre_b3_grail_body_gis]" mesh="b3_gisoreux_torso" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kotr_body_v1_fro" name="[Armor | BRE] Knight Armor [bre_b3_kotr_body_v1_fro]" mesh="b3_kotr_torso_alaron" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_body_bri" name="[Armor | BRE] Knight Armor [bre_b3_grail_body_bri]" mesh="b3_brionne_grail_body" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kotr_body_fer" name="[Armor | BRE] Knight Armor [bre_b3_kotr_body_fer]" mesh="bre_kotr_torso_new_v01_fer" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_body_mou" name="[Armor | BRE] Knight Armor [bre_b3_grail_body_mou]" mesh="b3_moussillon_grail_body" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_body_cas" name="[Armor | BRE] Knight Armor [bre_b3_grail_body_cas]" mesh="b3_castagne_grail_body" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b2_crossbow_armor_hand_dark" name="[Gloves | BRE] Dark Leather Gloves [bre_b2_crossbow_armor_hand_dark]" mesh="bre_crossbow_armor_hand_dark" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_sergeants_gauntlets" name="[Gloves | BRE] Lionhelm Sergeants Gauntlets [bre_b3_lionhelm_sergeants_gauntlets]" mesh="lionhelm_sergeant_gauntlets" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_captain_gauntlets" name="[Gloves | BRE] Lionhelm Captains Gauntlets [bre_b3_lionhelm_captain_gauntlets]" mesh="lionhelm_captain_gauntlets" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_gloves_gis" name="[Gloves | BRE] Knight Gauntlets [bre_b3_grail_gloves_gis]" mesh="b3_gisoreux_gauntlets" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kotr_gloves_1" name="[Gloves | BRE] Knight Gauntlets [bre_b3_kotr_gloves_1]" mesh="kotr_gauntlets" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_gloves_bri" name="[Gloves | BRE] Knight Gauntlets [bre_b3_grail_gloves_bri]" mesh="b3_brionne_grail_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kerrant_gloves" name="[Gloves | BRE] Knight Mittens [bre_b3_kerrant_gloves]" mesh="kerrant_gauntlets" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_gloves_mou" name="[Gloves | BRE] Corrupted Knight Gauntlets [bre_b3_grail_gloves_mou]" mesh="b3_moussillon_grail_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_gloves_cas" name="[Gloves | BRE] Corrupted Knight Gauntlets [bre_b3_grail_gloves_cas]" mesh="b3_castagne_grail_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_sergeant_boots" name="[Boots | BRE] Lionhelm Sergeants Boots [bre_b3_lionhelm_sergeant_boots]" mesh="lionhelm_sergeant_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_lionhelm_captain_boots" name="[Boots | BRE] Lionhelm Captains Boots [bre_b3_lionhelm_captain_boots]" mesh="lionhelm_captain_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_leg_gis" name="[Boots | BRE] Knight Boots [bre_b3_grail_leg_gis]" mesh="b3_gisoreux_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kotr_leg_1" name="[Boots | BRE] Knight Boots [bre_b3_kotr_leg_1]" mesh="kotr_boots_v1" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_leg_bri" name="[Boots | BRE] Knight Boots [bre_b3_grail_leg_bri]" mesh="b3_brionne_grail_leg" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_kerrant_leg" name="[Boots | BRE] Knight Boots [bre_b3_kerrant_leg]" mesh="kerrant_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_leg_mou" name="[Boots | BRE] Corrupted Knight Boots [bre_b3_grail_leg_mou]" mesh="b3_moussillon_grail_leg" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_grail_leg_cas" name="[Boots | BRE] Corrupted Knight Boots [bre_b3_grail_leg_cas]" mesh="b3_castagne_grail_leg" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_gis" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_gis]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_gisoreux_knight_shield" culture="Culture.empire" using_tableau="false" weight="0" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_ala" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_ala]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_alaron_knight_shield" culture="Culture.empire" using_tableau="false" weight="0" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_bri" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_bri]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_brionne_knight_shield" culture="Culture.empire" using_tableau="false" weight="0" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_fer" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_fer]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_ferignac_knight_shield" culture="Culture.empire" using_tableau="false" weight="0" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_mou" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_mou]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_moussillon_knight_shield" culture="Culture.empire" using_tableau="false" weight="0" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="cilab_bre_b3_knight_shield_cas" name="[Shield | BRE] Heater Shield [bre_b3_knight_shield_cas]" body_name="bo_cap_b3_couronne_grail_shield" shield_body_name="bo_b3_couronne_grail_shield" recalculate_body="false" mesh="b3_castagne_knight_shield" culture="Culture.empire" using_tableau="false" weight="2.1" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.0" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="80" center_of_mass="0.0,0.1,0.8" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+</Items>

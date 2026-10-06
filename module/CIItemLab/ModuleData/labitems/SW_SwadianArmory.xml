@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_sw_armet" name="[Helmet | SW] Featherd Armet [sw_armet]" subtype="head_armor" mesh="armet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_armet2" name="[Helmet | SW] Armet [sw_armet2]" subtype="head_armor" mesh="armet2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_crowned_helm_with_brass_faceplate" name="[Helmet | SW] Crowned Helm With Brass Faceplate [sw_crowned_helm_with_brass_faceplate]" subtype="head_armor" mesh="crowned_helm_with_brass_faceplate" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_crowned_helm_with_faceplate" name="[Helmet | SW] Crowned Helm With Faceplate [sw_crowned_helm_with_faceplate]" subtype="head_armor" mesh="crowned_helm_with_faceplate" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_crowned_royal_vlandian_helm_with_visor" name="[Helmet | SW] Ornate Western Helmet With Visor [sw_crowned_royal_vlandian_helm_with_visor]" subtype="head_armor" mesh="crowned_royal_vlandian_helm_with_visor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_crowned_vlandian_helm_with_visor" name="[Helmet | SW] Crowned Western Helmet With Visor [sw_crowned_vlandian_helm_with_visor]" subtype="head_armor" mesh="crowned_vlandian_helm_with_visor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_engraved_vlandian_helm_with_visor" name="[Helmet | SW] Ornate Western Helmet With Visor [sw_engraved_vlandian_helm_with_visor]" subtype="head_armor" mesh="engraved_vlandian_helm_with_visor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_fluted_helm_with_brass_faceplate" name="[Helmet | SW] Fluted Helm With Brass Faceplate [sw_fluted_helm_with_brass_faceplate]" subtype="head_armor" mesh="fluted_helm_with_brass_faceplate" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_fluted_helm_with_faceplate" name="[Helmet | SW] Fluted Helm With Faceplate [sw_fluted_helm_with_faceplate]" subtype="head_armor" mesh="fluted_helm_with_faceplate" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_helm_base" name="[Helmet | SW] Great Helmet [sw_great_helm_base]" subtype="head_armor" mesh="great_helm_base" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_helm_brass" name="[Helmet | SW] Brass Great Helmet [sw_great_helm_brass]" subtype="head_armor" mesh="great_helm_brass" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_helm_dark" name="[Helmet | SW] Blackened Great Helmet [sw_great_helm_dark]" subtype="head_armor" mesh="great_helm_dark" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_helm_paint" name="[Helmet | SW] Painted Great Helmet [sw_great_helm_paint]" subtype="head_armor" mesh="great_helm_paint" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_helm_paint2" name="[Helmet | SW] Painted Great Helmet with Diamond Pattern [sw_great_helm_paint2]" subtype="head_armor" mesh="great_helm_paint2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_prankh_helm" name="[Helmet | SW] Round Top Great Helmet [sw_great_prankh_helm]" subtype="head_armor" mesh="great_prankh_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_prankh_helm_crest" name="[Helmet | SW] Round Top Great Helmet with crest [sw_great_prankh_helm_crest]" subtype="head_armor" mesh="great_prankh_helm_crest" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_prankh_helm_horns" name="[Helmet | SW] Round Top Great Helmet with horns [sw_great_prankh_helm_horns]" subtype="head_armor" mesh="great_prankh_helm_horns" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_prankh_helm_royal" name="[Helmet | SW] Royal Round Top Great Helmet [sw_great_prankh_helm_royal]" subtype="head_armor" mesh="great_prankh_helm_royal" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_great_prankh_helm_winged" name="[Helmet | SW] Round Top Great Helmet with wings [sw_great_prankh_helm_winged]" subtype="head_armor" mesh="great_prankh_helm_winged" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_italio_norman_helm" name="[Helmet | SW] Western Helm With Faceplate [sw_italio_norman_helm]" subtype="head_armor" mesh="italio_norman_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_italio_norman_helm_bronze" name="[Helmet | SW] Western Helm With brass Faceplate [sw_italio_norman_helm_bronze]" subtype="head_armor" mesh="italio_norman_helm_bronze" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_italio_norman_helm_crown" name="[Helmet | SW] Western Crowned Helmet with Faceplate [sw_italio_norman_helm_crown]" subtype="head_armor" mesh="italio_norman_helm_crown" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_italio_norman_helm_crown2" name="[Helmet | SW] Western Crowned Helmet [sw_italio_norman_helm_crown2]" subtype="head_armor" mesh="italio_norman_helm_crown2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_pigface_bascinet" name="[Helmet | SW] Western Bascinet [sw_pigface_bascinet]" subtype="head_armor" mesh="pigface_bascinet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_pigface_bascinet_feather" name="[Helmet | SW] Western Bascinet with Plumes [sw_pigface_bascinet_feather]" subtype="head_armor" mesh="pigface_bascinet_feather" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_pigface_bascinet_tail" name="[Helmet | SW] Western Bascinet with Plumes [sw_pigface_bascinet_tail]" subtype="head_armor" mesh="pigface_bascinet_tail" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_pothelm" name="[Helmet | SW] Roundtop Full Helm [sw_pothelm]" subtype="head_armor" mesh="pothelm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_pothelm2" name="[Helmet | SW] Painted Roundtop Full Helm [sw_pothelm2]" subtype="head_armor" mesh="pothelm2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_royal_great_helm" name="[Helmet | SW] Ornate Great Helmet [sw_royal_great_helm]" subtype="head_armor" mesh="royal_great_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_royal_great_helm_brass" name="[Helmet | SW] Ornate Brass Great Helmet [sw_royal_great_helm_brass]" subtype="head_armor" mesh="royal_great_helm_brass" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_1churburghhelm" name="[Helmet | SW] Hounskull Bascinet [sw_1churburghhelm]" subtype="head_armor" mesh="sa_1churburghhelm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_2churburghhelm" name="[Helmet | SW] Blackend Hounskull Bascinet [sw_2churburghhelm]" subtype="head_armor" mesh="sa_2churburghhelm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_bacinet_with_facemask" name="[Helmet | SW] Bascinet with Facemask [sw_bacinet_with_facemask]" subtype="head_armor" mesh="sa_bacinet_with_facemask" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_barbute1" name="[Helmet | SW] Western Barbute [sw_barbute1]" subtype="head_armor" mesh="sa_barbute1" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_barbute2" name="[Helmet | SW] Western Painted Barbute [sw_barbute2]" subtype="head_armor" mesh="sa_barbute2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_barbute3" name="[Helmet | SW] Western Barbute with Plume [sw_barbute3]" subtype="head_armor" mesh="sa_barbute3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_barbute4" name="[Helmet | SW] Western Painted Barbute with Plume [sw_barbute4]" subtype="head_armor" mesh="sa_barbute4" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord1" name="[Helmet | SW] Great Helmet with Antler Crest [sw_butterlord1]" subtype="head_armor" mesh="sa_butterlord1" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord2" name="[Helmet | SW] Great Helmet with Eagle Crest [sw_butterlord2]" subtype="head_armor" mesh="sa_butterlord2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord3" name="[Helmet | SW] Great Helmet with Grail Crest [sw_butterlord3]" subtype="head_armor" mesh="sa_butterlord3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord4" name="[Helmet | SW] Great Helmet [sw_butterlord4]" subtype="head_armor" mesh="sa_butterlord4" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord5" name="[Helmet | SW] Ornate Great Helmet with Antler Crest [sw_butterlord5]" subtype="head_armor" mesh="sa_butterlord5" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord6" name="[Helmet | SW] Ornate Great Helmet with Eagle Crest [sw_butterlord6]" subtype="head_armor" mesh="sa_butterlord6" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_butterlord7" name="[Helmet | SW] Ornate Great Helmet with Grail Crest [sw_butterlord7]" subtype="head_armor" mesh="sa_butterlord7" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghhelm" name="[Helmet | SW] Adorned Veteran's Hounskull Bascinet [sw_churburghhelm]" subtype="head_armor" mesh="sa_churburghhelm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghhelm_black_trimmed_feather" name="[Helmet | SW] Trimmed Hounskull Bascinet With plume [sw_churburghhelm_black_trimmed_feather]" subtype="head_armor" mesh="sa_churburghhelm_black_trimmed_feather" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghhelm_feather" name="[Helmet | SW] Hounskull Bascinet With plume [sw_churburghhelm_feather]" subtype="head_armor" mesh="sa_churburghhelm_feather" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghhelm_trimmed_feather" name="[Helmet | SW] Hounskull Bascinet With plume [sw_churburghhelm_trimmed_feather]" subtype="head_armor" mesh="sa_churburghhelm_trimmed_feather" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_visoredkettlehelmet" name="[Helmet | SW] Visored Kettle Helmet [sw_visoredkettlehelmet]" subtype="head_armor" mesh="sa_visoredkettlehelmet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_visoredkettlehelmet1" name="[Helmet | SW] Painted Visored Kettle Helmet [sw_visoredkettlehelmet1]" subtype="head_armor" mesh="sa_visoredkettlehelmet1" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sallet_base" name="[Helmet | SW] Western Sallet [sw_sallet_base]" subtype="head_armor" mesh="sallet_base" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sallet_crowned" name="[Helmet | SW] Western Crowned Sallet [sw_sallet_crowned]" subtype="head_armor" mesh="sallet_crowned" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sallet_no_visor" name="[Helmet | SW] Western Open Sallet [sw_sallet_no_visor]" subtype="head_armor" mesh="sallet_no_visor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sallet_winged" name="[Helmet | SW] Western Winged Sallet [sw_sallet_winged]" subtype="head_armor" mesh="sallet_winged" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sugarloaf_helm" name="[Helmet | SW] Banded Sugarloaf Greathelm [sw_sugarloaf_helm]" subtype="head_armor" mesh="sugarloaf_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sugarloaf_helm2" name="[Helmet | SW] Banded Sugarloaf Greathelm [sw_sugarloaf_helm2]" subtype="head_armor" mesh="sugarloaf_helm2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sugarloaf_helm3" name="[Helmet | SW] Sugarloaf Greathelm [sw_sugarloaf_helm3]" subtype="head_armor" mesh="sugarloaf_helm3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_sugarloaf_helm4" name="[Helmet | SW] Sugarloaf Greathelm [sw_sugarloaf_helm4]" subtype="head_armor" mesh="sugarloaf_helm4" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_vlandian_helm_with_faceplate" name="[Helmet | SW] Western Full Plate Helmet [sw_vlandian_helm_with_faceplate]" subtype="head_armor" mesh="vlandian_helm_with_faceplate" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_vlandian_helm_with_faceplate_black" name="[Helmet | SW] Western Ornate Full Plate Helmet [sw_vlandian_helm_with_faceplate_black]" subtype="head_armor" mesh="vlandian_helm_with_faceplate_black" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_vlandian_helm_with_faceplate_brass" name="[Helmet | SW] Western Ornate Full Plate Helmet [sw_vlandian_helm_with_faceplate_brass]" subtype="head_armor" mesh="vlandian_helm_with_faceplate_brass" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_vlandian_helm_with_faceplate_paint" name="[Helmet | SW] Western Painted Full Plate Helmet [sw_vlandian_helm_with_faceplate_paint]" subtype="head_armor" mesh="vlandian_helm_with_faceplate_paint" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_vlandian_helm_with_visor" name="[Helmet | SW] Western Helmet With Visor [sw_vlandian_helm_with_visor]" subtype="head_armor" mesh="vlandian_helm_with_visor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_winged_great_helm_base" name="[Helmet | SW] Winged Great Helmet [sw_winged_great_helm_base]" subtype="head_armor" mesh="winged_great_helm_base" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_winged_great_helm_brass" name="[Helmet | SW] Winged Brass Great Helmet [sw_winged_great_helm_brass]" subtype="head_armor" mesh="winged_great_helm_brass" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_winged_great_helm_dark" name="[Helmet | SW] Winged Blackened Great Helmet [sw_winged_great_helm_dark]" subtype="head_armor" mesh="winged_great_helm_dark" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_winged_great_helm_order" name="[Helmet | SW] Winged Order Great Helmet [sw_winged_great_helm_order]" subtype="head_armor" mesh="winged_great_helm_order" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_winged_great_helm_painted" name="[Helmet | SW] Winged Painted Great Helmet [sw_winged_great_helm_painted]" subtype="head_armor" mesh="winged_great_helm_painted" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_chain_shoulders" name="[Shoulders | SW] Western chain shoulders [sw_chain_shoulders]" mesh="chain_shoulders" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_engraved_swadian_shoulders" name="[Shoulders | SW] Western Ornate Shoulder Plates [sw_engraved_swadian_shoulders]" mesh="engraved_swadian_shoulders" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_swadian_shoulders" name="[Shoulders | SW] Western Shoulder Plates [sw_swadian_shoulders]" mesh="swadian_shoulders" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates1_c" name="[Armor | SW] Coat of Plates [sw_coat_of_plates1_c]" mesh="coat_of_plates1_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates2_c" name="[Armor | SW] Coat of Plates Royal Pattern [sw_coat_of_plates2_c]" mesh="coat_of_plates2_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates3_c" name="[Armor | SW] Coat of Plates Lys Pattern [sw_coat_of_plates3_c]" mesh="coat_of_plates3_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates4_c" name="[Armor | SW] Coat of Plates Checker Pattern [sw_coat_of_plates4_c]" mesh="coat_of_plates4_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates5_c" name="[Armor | SW] Coat of Plates Cross Pattern [sw_coat_of_plates5_c]" mesh="coat_of_plates5_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates6_c" name="[Armor | SW] Trimmed Armoured Coat of Plates [sw_coat_of_plates6_c]" mesh="coat_of_plates6_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates7_c" name="[Armor | SW] Trimmed Armoured Coat of Plates [sw_coat_of_plates7_c]" mesh="coat_of_plates7_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates8_c" name="[Armor | SW] Trimmed Armoured Coat of Plates [sw_coat_of_plates8_c]" mesh="coat_of_plates8_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates9_c" name="[Armor | SW] Armoured Coat of Plates [sw_coat_of_plates9_c]" mesh="coat_of_plates9_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates10_c" name="[Armor | SW] Armoured Coat of Plates [sw_coat_of_plates10_c]" mesh="coat_of_plates10_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates11_c" name="[Armor | SW] Blackened Armoured Coat of Plates [sw_coat_of_plates11_c]" mesh="coat_of_plates11_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat_of_plates12_c" name="[Armor | SW] Blackened Armoured Coat of Plates [sw_coat_of_plates12_c]" mesh="coat_of_plates12_c" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat1" name="[Armor | SW] Tabbard over Coat of plate [sw_coat1]" mesh="coat1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat2" name="[Armor | SW] Tabbard over Coat of plate [sw_coat2]" mesh="coat2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_coat3" name="[Armor | SW] Tabbard over Coat of plate [sw_coat3]" mesh="coat3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_mail_with_tabbard1" name="[Armor | SW] Mail With Tabbard [sw_mail_with_tabbard1]" mesh="mail_with_tabbard1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_mail_with_tabbard2" name="[Armor | SW] Mail With Tabbard [sw_mail_with_tabbard2]" mesh="mail_with_tabbard2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_mail_with_tabbard3" name="[Armor | SW] Mail With Tabbard [sw_mail_with_tabbard3]" mesh="mail_with_tabbard3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_mail_with_tabbard4" name="[Armor | SW] Mail With Tabbard [sw_mail_with_tabbard4]" mesh="mail_with_tabbard4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_mail_with_tabbard5" name="[Armor | SW] Mail With Tabbard [sw_mail_with_tabbard5]" mesh="mail_with_tabbard5" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_1churburghtorso" name="[Armor | SW] Plate Cuirass [sw_1churburghtorso]" mesh="sa_1churburghtorso" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_2churburghtorso" name="[Armor | SW] Blackened Plate Cuirass [sw_2churburghtorso]" mesh="sa_2churburghtorso" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine_plate1" name="[Armor | SW] Reinforced red Brigandine with mail [sw_brigandine_plate1]" mesh="sa_brigandine_plate1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine_plate2" name="[Armor | SW] Reinforced blue Brigandine with mail [sw_brigandine_plate2]" mesh="sa_brigandine_plate2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine_plate3" name="[Armor | SW] Reinforced black Brigandine with mail [sw_brigandine_plate3]" mesh="sa_brigandine_plate3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine1" name="[Armor | SW] Red Brigandine with armpads [sw_brigandine1]" mesh="sa_brigandine1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine2" name="[Armor | SW] Blue Brigandine with armpads [sw_brigandine2]" mesh="sa_brigandine2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine3" name="[Armor | SW] Blue Brigandine [sw_brigandine3]" mesh="sa_brigandine3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine4" name="[Armor | SW] Red Brigandine [sw_brigandine4]" mesh="sa_brigandine4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine5" name="[Armor | SW] Black Brigandine with armpads [sw_brigandine5]" mesh="sa_brigandine5" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_brigandine6" name="[Armor | SW] Black Brigandine [sw_brigandine6]" mesh="sa_brigandine6" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghtorso" name="[Armor | SW] Trimmed Plate Cuirass [sw_churburghtorso]" mesh="sa_churburghtorso" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_surcoatplate" name="[Armor | SW] Western Plate Armor With skirt [sw_surcoatplate]" mesh="sa_surcoatplate" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_brass_plate_armor" name="[Armor | SW] Western Brass Plate Armor [sw_swadian_brass_plate_armor]" mesh="swadian_brass_plate_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_cuirass" name="[Armor | SW] Plate Armor over Mail [sw_swadian_cuirass]" mesh="swadian_cuirass" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_leather_plate_armor" name="[Armor | SW] Western Leather Plate Armor [sw_swadian_leather_plate_armor]" mesh="swadian_leather_plate_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_leather_plate_with_armguards" name="[Armor | SW] Western Leather Plate Armor With Armguards [sw_swadian_leather_plate_with_armguards]" mesh="swadian_leather_plate_with_armguards" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_plate_armor" name="[Armor | SW] Western Plate Armor [sw_swadian_plate_armor]" mesh="swadian_plate_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_plate_with_armguards" name="[Armor | SW] Western Cuirass With Armguards [sw_swadian_plate_with_armguards]" mesh="swadian_plate_with_armguards" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_striped_cuirass" name="[Armor | SW] Western Cuirass [sw_swadian_striped_cuirass]" mesh="swadian_striped_cuirass" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_swadian_striped_plate_armor" name="[Armor | SW] Western Plate Armor [sw_swadian_striped_plate_armor]" mesh="swadian_striped_plate_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_1churburghgauntlet" name="[Gloves | SW] Plate Mittens [sw_1churburghgauntlet]" mesh="sa_1churburghgauntlet" subtype="body_armor" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_2churburghgauntlet" name="[Gloves | SW] Blackened Plate Mittens [sw_2churburghgauntlet]" mesh="sa_2churburghgauntlet" subtype="body_armor" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghgauntlet" name="[Gloves | SW] Trimmed Plate Mittens [sw_churburghgauntlet]" mesh="sa_churburghgauntlet" subtype="body_armor" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_plateboot" name="[Boots | SW] Plate Boots [sw_plateboot]" mesh="plateboot" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_plateboot2" name="[Boots | SW] Brass Plate Boots [sw_plateboot2]" mesh="plateboot2" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_sw_1churburghboots" name="[Boots | SW] Plate Boots [sw_1churburghboots]" mesh="sa_1churburghboots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_2churburghboots" name="[Boots | SW] Blackened Plate Boots [sw_2churburghboots]" mesh="sa_2churburghboots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_sw_churburghboots" name="[Boots | SW] Trimmed Plate Boots [sw_churburghboots]" mesh="sa_churburghboots" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

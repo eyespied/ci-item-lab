@@ -1,0 +1,807 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_ci_armet" name="[Helmet | CI] Helmet Hispano 01 [ci_armet]" subtype="head_armor" mesh="armet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_battania_crown" name="[Helmet | CI] Helmet Hispano 02 [ci_battania_crown]" subtype="head_armor" mesh="battania_crown" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_filipogh" name="[Helmet | CI] Helmet Hispano 03 [ci_filipogh]" subtype="head_armor" mesh="filipogh" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_nolicus" name="[Helmet | CI] Helmet Nolicus [ci_casco_nolicus]" subtype="head_armor" mesh="casco_nolicus" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_sutrupa" name="[Helmet | CI] Helmet Sutrupa [ci_casco_sutrupa]" subtype="head_armor" mesh="casco_sutrupa" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_askz2" name="[Helmet | CI] Helmet Askz [ci_askz2]" subtype="head_armor" mesh="hp_askz2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_butterlord1" name="[Helmet | CI] Helmet Rey 01 [ci_butterlord1]" subtype="head_armor" mesh="sa_butterlord1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_corona_alecks" name="[Helmet | CI] Helmet Rey 02 [ci_corona_alecks]" subtype="head_armor" mesh="coronasiralecks" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_corona_alecks" name="[Helmet | CI] Helmet Rey 03 [ci_casco_corona_alecks]" subtype="head_armor" mesh="casco_siralecks" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_dralion" name="[Helmet | CI] Helmet Dralion [ci_casco_dralion]" subtype="head_armor" mesh="dralionhelmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_sallet_base" name="[Helmet | CI] Sallet base [ci_sallet_base]" subtype="head_armor" mesh="sallet_base" is_merchandise="false" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_zurco" name="[Helmet | CI] Helmet Zurco [ci_casco_zurco]" subtype="head_armor" mesh="casco_zurco" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_crowned_vlandian_helm_with_visor" name="[Helmet | CI] Helmet Dume [ci_crowned_vlandian_helm_with_visor]" subtype="head_armor" mesh="crowned_vlandian_helm_with_visor" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_butterlord3" name="[Helmet | CI] Helmet Traese [ci_butterlord3]" subtype="head_armor" mesh="sa_butterlord3" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_sallet_winged" name="[Helmet | CI] Helmet Nova [ci_sallet_winged]" subtype="head_armor" mesh="sallet_winged" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_antonito" name="[Helmet | CI] Chaperón Antoñito el terrorista [ci_antonito]" subtype="head_armor" mesh="antoñito" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_antonio" name="[Helmet | CI] Casco Antoñito [ci_antonio]" subtype="head_armor" mesh="antonio" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_pacocasco" name="[Helmet | CI] Casco Paco [ci_pacocasco]" subtype="head_armor" mesh="pacocasco" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_greathelmetjoanisi_cloth_1" name="[Helmet | CI] Casco Joanisi [ci_greathelmetjoanisi_cloth_1]" subtype="head_armor" mesh="greathelmetjoanisi_cloth_1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_arqueros_mecenas" name="[Helmet | CI] Helmet Arquero Mecenas [ci_casco_arqueros_mecenas]" subtype="head_armor" mesh="casco_arquerito" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_inf_mecenas" name="[Helmet | CI] Helmet Inf Mecenas 01 [ci_casco_inf_mecenas]" subtype="head_armor" mesh="casco_inf" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_inf_mecenas_2" name="[Helmet | CI] Helmet Inf Mecenas 02 [ci_casco_inf_mecenas_2]" subtype="head_armor" mesh="casco_inf_nor1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_cav_mecenas" name="[Helmet | CI] Helmet Cav Mecenas [ci_casco_cav_mecenas]" subtype="head_armor" mesh="corona" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_lishman_helmet" name="[Helmet | CI] Helmet Lishman [ci_lishman_helmet]" subtype="head_armor" mesh="lishman_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" covers_head="true" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_manu_helmet" name="[Helmet | CI] Casco Manu [ci_manu_helmet]" subtype="head_armor" mesh="casco_manu" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" covers_head="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_camarada" name="[Helmet | CI] Capacete Camarada [ci_casco_camarada]" subtype="head_armor" mesh="casco_camarada" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_shushe" name="[Helmet | CI] Shushe's helmet [ci_casco_shushe]" subtype="head_armor" mesh="shushehelmet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_dume" name="[Helmet | CI] Casco Rey Emérito [ci_casco_dume]" subtype="head_armor" mesh="dumecasco" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_Snipercasco" name="[Helmet | CI] Casco Sniper [ci_Snipercasco]" subtype="head_armor" mesh="Snipercasco" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_claus" name="[Helmet | CI] Casco Claus [ci_casco_claus]" subtype="head_armor" mesh="casco_claus" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_sturg_hat" name="[Helmet | CI] Witch of Castile hat [ci_sturg_hat]" subtype="head_armor" mesh="witchhat" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_closed_helmet_rose" name="[Helmet | CI] Dukes Rose [cts_spanish_closed_helmet_rose]" subtype="head_armor" mesh="cts_spanish_closed_helmet_rose" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gyro_castile_helmet" name="[Helmet | CI] Gyro helmet [ci_gyro_castile_helmet]" subtype="head_armor" mesh="cts_castile_closed_helmet_simple_a" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_carltemple_helmet" name="[Helmet | CI] Casco CarlTemple [ci_carltemple_helmet]" subtype="head_armor" mesh="carltemple_casco" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_kevfz_helmet" name="[Helmet | CI] Kevfz helmet [ci_kevfz_helmet]" subtype="head_armor" mesh="ci_gibraltarcasco_subof_kevfz" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_hugoboss_helmet" name="[Helmet | CI] Hugoboss helmet [ci_hugoboss_helmet]" subtype="head_armor" mesh="casco_hugoboss" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_bascinete_con_visor" name="[Helmet | CI] Bascinete con visor [ci_bascinete_con_visor]" subtype="head_armor" mesh="bascinete_con_visor" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_sloth_helmet" name="[Helmet | CI] Sloth helmet [ci_sloth_helmet]" subtype="head_armor" mesh="sloth_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_saka" name="[Helmet | CI] Sakarraterrum helmet [ci_casco_saka]" subtype="head_armor" mesh="casco_saka" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_bear_helmet" name="[Helmet | CI] Bear helmet [ci_bear_helmet]" subtype="head_armor" mesh="bear_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_bowzer_helmet" name="[Helmet | CI] Bowzer helmet [ci_bowzer_helmet]" subtype="head_armor" mesh="bowzer_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_butanero_helmet" name="[Helmet | CI] Casco Butanero [ci_butanero_helmet]" subtype="head_armor" mesh="casco_butanero_dragon" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_dredd_helmet" name="[Helmet | CI] Casco Dredd [ci_dredd_helmet]" subtype="head_armor" mesh="base_casco_dred" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_carnicero" name="[Helmet | CI] Casco Carnicero [ci_casco_carnicero]" subtype="head_armor" mesh="casco_carnicero" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_azuki_hood" name="[Helmet | CI] Azuki Hood [ci_azuki_hood]" subtype="head_armor" mesh="azuki_hood" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_brithelment_gib" name="[Helmet | CI] Gibraltar count Brit helmet [cts_brithelment_gib]" subtype="head_armor" mesh="brithelment_gib" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_toni" name="[Helmet | CI] Tonicasco [ci_casco_toni]" subtype="head_armor" mesh="casco_toni" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_zurcohelmet" name="[Helmet | CI] Sallet de Fuelle abierto [ci_zurcohelmet]" subtype="head_armor" mesh="zurcohelmet_open" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_zurcohelmet_closed" name="[Helmet | CI] Sallet de Fuelle [ci_zurcohelmet_closed]" subtype="head_armor" mesh="zurcohelmet_close" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_mimi_helmet" name="[Helmet | CI] Maiden of the Moon [ci_mimi_helmet]" subtype="head_armor" mesh="mimihelmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_slim_circlet" name="[Helmet | CI] Circlet [ci_slim_circlet]" subtype="head_armor" mesh="circle" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_kutherion_helmet" name="[Helmet | CI] Coroza [ci_kutherion_helmet]" subtype="head_armor" mesh="kutherion_helmet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_luisa_helmet" name="[Helmet | CI] Luisas helmet [ci_luisa_helmet]" subtype="head_armor" mesh="luisa_helmet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_john_bascinet" name="[Helmet | CI] John's Western Bascinet [ci_john_bascinet]" subtype="head_armor" mesh="pigface_bascinet" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_helmet_b_closed" name="[Helmet | CI] Mameluco Helmet 1 [omey_helmet_b_closed]" mesh="omey_helmet_b_closed" culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_helmet_b_leather" name="[Helmet | CI] Mameluco Helmet 2 [omey_helmet_b_leather]" mesh="omey_helmet_b_leather" culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_helmet_b_open" name="[Helmet | CI] Mameluco Helmet 3 [omey_helmet_b_open]" mesh="omey_helmet_b_open" culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet1" name="[Helmet | CI] Casco CI 1 [cts_spanish_helmet1]" subtype="head_armor" mesh="cts_spanish_helmet1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet2" name="[Helmet | CI] Casco CI 2 [cts_spanish_helmet2]" subtype="head_armor" mesh="cts_spanish_helmet2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet3" name="[Helmet | CI] Casco CI 3 [cts_spanish_helmet3]" subtype="head_armor" mesh="cts_spanish_helmet3" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet4" name="[Helmet | CI] Casco CI 4 [cts_spanish_helmet4]" subtype="head_armor" mesh="cts_spanish_helmet4" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet5" name="[Helmet | CI] Casco CI 5 [cts_spanish_helmet5]" subtype="head_armor" mesh="cts_spanish_helmet5" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_6" name="[Helmet | CI] Casco CI 6 [cts_spanish_helmet_6]" subtype="head_armor" mesh="cts_spanish_helmet_6" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_7" name="[Helmet | CI] Casco CI 7 [cts_spanish_helmet_7]" subtype="head_armor" mesh="cts_spanish_helmet_7" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_8" name="[Helmet | CI] Casco CI 8 [cts_spanish_helmet_8]" subtype="head_armor" mesh="cts_spanish_helmet_8" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_9" name="[Helmet | CI] Casco CI 9 [cts_spanish_helmet_9]" subtype="head_armor" mesh="cts_spanish_helmet_9" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_10" name="[Helmet | CI] Casco CI 10 [cts_spanish_helmet_10]" subtype="head_armor" mesh="cts_spanish_helmet_10" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_officer" name="[Helmet | CI] Casco oficial Vieja Guardia [cts_spanish_helmet_officer]" subtype="head_armor" mesh="cts_spanish_helmet_officer" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_veteran" name="[Helmet | CI] Casco Vieja Guardia [cts_spanish_helmet_veteran]" subtype="head_armor" mesh="cts_spanish_helmet_veteran" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_helmet_veteran_skull" name="[Helmet | CI] Casco calavera Vieja Guardia [cts_spanish_helmet_veteran_skull]" subtype="head_armor" mesh="cts_spanish_helmet_veteran_skull" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_mario_helmet" name="[Helmet | CI] Casco Mario [os_mario_helmet]" subtype="head_armor" mesh="mh" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capucha_santiago" name="[Helmet | CI] Capucha Fraile [os_capucha_santiago]" subtype="head_armor" mesh="os_capucha_santiago" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_pacocasco" name="[Helmet | CI] Casco de la Cabra Paco [pacocasco]" subtype="head_armor" mesh="pacocasco" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_casco_cruzado" name="[Helmet | CI] Casco Cruzado [os_casco_cruzado]" subtype="head_armor" mesh="casco_cruzado" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capuchamallabajada" name="[Helmet | CI] Capucha malla bajada [os_capuchamallabajada]" subtype="head_armor" mesh="os_capuchamallabajada" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capuchamalla_benda" name="[Helmet | CI] Capucha malla con benda [os_capuchamalla_benda]" subtype="head_armor" mesh="os_capuchamalla-benda" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_cotamalla" name="[Helmet | CI] Capucha malla [os_cotamalla]" subtype="head_armor" mesh="os_cotamalla" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_sombrero_inquisidor" name="[Helmet | CI] Sombrero inquisidor [os_sombrero_inquisidor]" subtype="head_armor" mesh="sombrero_inquisidor" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_norman_helmet" name="[Helmet | CI] Casco normando Santiago [os_norman_helmet]" subtype="head_armor" mesh="os_casco_normando" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_santiago_capucha_monje" name="[Helmet | CI] Capucha Monje [os_santiago_capucha_monje]" subtype="head_armor" mesh="santiago_capucha_monje" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_santiago_capucha_pelo_monje" name="[Helmet | CI] Capucha bajada Monje [os_santiago_capucha_pelo_monje]" subtype="head_armor" mesh="santiago_capucha_pelo_monje" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_helmet1" name="[Helmet | CI] Casco Toledo 1 [cts_toledo_spanish_helmet1]" subtype="head_armor" mesh="cts_toledo_spanish_helmet1" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_helmet2" name="[Helmet | CI] Casco Toledo 2 [cts_toledo_spanish_helmet2]" subtype="head_armor" mesh="cts_toledo_spanish_helmet2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_helmet3" name="[Helmet | CI] Casco Toledo 3 [cts_toledo_spanish_helmet3]" subtype="head_armor" mesh="cts_toledo_spanish_helmet3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_helmet4" name="[Helmet | CI] Casco Toledo 4 [cts_toledo_spanish_helmet4]" subtype="head_armor" mesh="cts_toledo_spanish_helmet4" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_helmet5" name="[Helmet | CI] Casco Toledo 5 [cts_toledo_spanish_helmet5]" subtype="head_armor" mesh="cts_toledo_spanish_helmet5" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_peon" name="[Helmet | CI] Capacete Peon Toledo [casco_toledo_peon]" subtype="head_armor" mesh="casco_toledo_peon" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_espadero" name="[Helmet | CI] Capacete Espadero Toledo [casco_toledo_espadero]" subtype="head_armor" mesh="casco_toledo_espadero" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_espadero_gorjal" name="[Helmet | CI] Capacete Espadero Gorjal bajado Toledo [casco_toledo_espadero_gorjal]" subtype="head_armor" mesh="casco_toledo_espadero_gorjal" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_custodio" name="[Helmet | CI] Capacete Custodio Toledo [casco_toledo_custodio]" subtype="head_armor" mesh="casco_toledo_custodio" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_custodio_gorjal" name="[Helmet | CI] Capacete Custodio Gorjal bajado Toledo [casco_toledo_custodio_gorjal]" subtype="head_armor" mesh="casco_toledo_custodio_gorjal" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_suboficial" name="[Helmet | CI] Capacete Suboficial Toledo [casco_toledo_suboficial]" subtype="head_armor" mesh="casco_toledo_suboficial" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_suboficial_gorjal" name="[Helmet | CI] Capacete Suboficial Gorjal bajado Toledo [casco_toledo_suboficial_gorjal]" subtype="head_armor" mesh="casco_toledo_suboficial_gorjal" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_oficial" name="[Helmet | CI] Capacete Oficial Toledo [casco_toledo_oficial]" subtype="head_armor" mesh="casco_toledo_oficial" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_oficial_gorjal" name="[Helmet | CI] Capacete Oficial Gorjal bajado Toledo [casco_toledo_oficial_gorjal]" subtype="head_armor" mesh="casco_toledo_oficial_gorjal" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_casco_toledo_oficial_2" name="[Helmet | CI] Capacete Oficial Toledo 2 [casco_toledo_oficial_2]" subtype="head_armor" mesh="casco_toledo_oficial_v2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_bascinet" name="[Helmet | CI] Bascinet Guardia Real [cts_spanish_kinguard_bascinet]" subtype="head_armor" mesh="cts_spanish_kinguard_bascinet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_bascinet1" name="[Helmet | CI] Bascinet Guardia Real 2 [cts_spanish_kinguard_bascinet1]" subtype="head_armor" mesh="cts_spanish_kinguard_bascinet1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_bascinet1" name="[Helmet | CI] Capucha malla caballería [ci_cav_bascinet1]" subtype="head_armor" mesh="ci_cav_bascinet1" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_bascinet2" name="[Helmet | CI] Bascinet medio caballería [ci_cav_bascinet2]" subtype="head_armor" mesh="ci_cav_bascinet2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_bascinet3" name="[Helmet | CI] Bascinet cerrado caballería [ci_cav_bascinet3]" subtype="head_armor" mesh="ci_cav_bascinet3" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_sallet_scout" name="[Helmet | CI] Cavalry sallet scout [ci_cav_sallet_scout]" subtype="head_armor" mesh="cts_spanish_guard_helmet_levy" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_sallet_horseman" name="[Helmet | CI] Cavalry sallet horseman [ci_cav_sallet_horseman]" subtype="head_armor" mesh="cts_spanish_guard_helmet_b" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_sallet_knight" name="[Helmet | CI] Cavalry sallet knight [ci_cav_sallet_knight]" subtype="head_armor" mesh="cts_spanish_guard_medium_elite_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_sallet_officer" name="[Helmet | CI] Cavalry sallet officer [ci_cav_sallet_officer]" subtype="head_armor" mesh="cts_spanish_guard_helmet_elite" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_capucha_verdugo" name="[Helmet | CI] Capucha verdugo [ci_capucha_verdugo]" subtype="head_armor" mesh="capucha_verdugo" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_arq_bascinete" name="[Helmet | CI] Bascinete ligero [ci_arq_bascinete]" subtype="head_armor" mesh="ci_arq_bascinete" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_subarq_bascinete" name="[Helmet | CI] Bascinete con malla [ci_subarq_bascinete]" subtype="head_armor" mesh="ci_subarq_bascinete" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_infpes_casco" name="[Helmet | CI] Bascinete pesado [ci_infpes_casco]" subtype="head_armor" mesh="ci_infpes_casco" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_king_helm" name="[Helmet | CI] Yelmo astado real [cts_spanish_king_helm]" subtype="head_armor" mesh="cts_spanish_king_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_helmet3" name="[Helmet | CI] Gibraltar veteran helmet 1 [cts_gibraltar_spanish_helmet3]" subtype="head_armor" mesh="cts_gibraltar_spanish_helmet3" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_helmet4" name="[Helmet | CI] Gibraltar veteran helmet 2 [cts_gibraltar_spanish_helmet4]" subtype="head_armor" mesh="cts_gibraltar_spanish_helmet4" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_helmet5" name="[Helmet | CI] Gibraltar levy helmet 1 [cts_gibraltar_spanish_helmet5]" subtype="head_armor" mesh="cts_gibraltar_spanish_helmet5" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_helmet_7" name="[Helmet | CI] Gibraltar levy helmet 2 [cts_gibraltar_spanish_helmet_7]" subtype="head_armor" mesh="cts_gibraltar_spanish_helmet_7" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_leva" name="[Helmet | CI] Gibraltar levy helmet [ci_gibraltarcasco_leva]" subtype="head_armor" mesh="ci_gibraltarcasco_leva" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_militia" name="[Helmet | CI] Gibraltar militia helmet [ci_gibraltarcasco_militia]" subtype="head_armor" mesh="ci_gibraltarcasco_militia" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_vanguard" name="[Helmet | CI] Gibraltar vanguard helmet [ci_gibraltarcasco_vanguard]" subtype="head_armor" mesh="ci_gibraltarcasco_vanguard" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_vanguard2" name="[Helmet | CI] Gibraltar open vanguard helmet [ci_gibraltarcasco_vanguard2]" subtype="head_armor" mesh="ci_gibraltarcasco_vanguard2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_maa" name="[Helmet | CI] Gibraltar man at Arms helmet [ci_gibraltarcasco_maa]" subtype="head_armor" mesh="ci_gibraltarcasco_maa" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_maa2" name="[Helmet | CI] Gibraltar open man at Arms helmet [ci_gibraltarcasco_maa2]" subtype="head_armor" mesh="ci_gibraltarcasco_maa2" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_subof" name="[Helmet | CI] Gibraltar officer helmet [ci_gibraltarcasco_subof]" subtype="head_armor" mesh="ci_gibraltarcasco_subof" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_gibraltarcasco_of" name="[Helmet | CI] Gibraltar leadership helmet [ci_gibraltarcasco_of]" subtype="head_armor" mesh="ci_gibraltarcasco_of" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_helmet_barbute_nasal_cloth" name="[Helmet | CI] Castile nasal Barbute with cloth [cts_castile_helmet_barbute_nasal_cloth]" subtype="head_armor" mesh="cts_castile_helmet_barbute_nasal_cloth" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_helmet_barbute_nasal_chainmail" name="[Helmet | CI] Castile nasal Barbute with chainmail [cts_castile_helmet_barbute_nasal_chainmail]" subtype="head_armor" mesh="cts_castile_helmet_barbute_nasal_chainmail" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_helmet_barbute_cloth_square" name="[Helmet | CI] Castile square Barbute with cloth [cts_castile_helmet_barbute_cloth_square]" subtype="head_armor" mesh="cts_castile_helmet_barbute_cloth_square" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_helmet_barbute_cloth_simple" name="[Helmet | CI] Castile Barbute with cloth [cts_castile_helmet_barbute_cloth_simple]" subtype="head_armor" mesh="cts_castile_helmet_barbute_cloth_simple" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_helmet_barbute_chainmail" name="[Helmet | CI] Castile Barbute with chainmail [cts_castile_helmet_barbute_chainmail]" subtype="head_armor" mesh="cts_castile_helmet_barbute_chainmail" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_white_tower" name="[Helmet | CI] Castile closed helmet white tower [cts_castile_closed_helmet_white_tower]" subtype="head_armor" mesh="cts_castile_closed_helmet_white_tower" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_simple_a" name="[Helmet | CI] Castile closed helmet [cts_castile_closed_helmet_simple_a]" subtype="head_armor" mesh="cts_castile_closed_helmet_simple_a" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_simple" name="[Helmet | CI] Castile closed helmet with cloth [cts_castile_closed_helmet_simple]" subtype="head_armor" mesh="cts_castile_closed_helmet_simple" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_redline" name="[Helmet | CI] Castile closed helmet with cloth and red line [cts_castile_closed_helmet_redline]" subtype="head_armor" mesh="cts_castile_closed_helmet_redline" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_red_tower" name="[Helmet | CI] Castile closed helmet with cloth and red tower [cts_castile_closed_helmet_red_tower]" subtype="head_armor" mesh="cts_castile_closed_helmet_red_tower" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_closed_helmet_colored_tower" name="[Helmet | CI] Castile closed helmet with cloth and colored tower [cts_castile_closed_helmet_colored_tower]" subtype="head_armor" mesh="cts_castile_closed_helmet_colored_tower" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_casco_navarra" name="[Helmet | CI] Navarre closed helmet [ci_casco_navarra]" subtype="head_armor" mesh="ci_casco_navarra" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

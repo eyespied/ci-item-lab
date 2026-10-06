@@ -1,0 +1,1247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ItemColors>
+  <Clan id="DU" name="Default Units" color1="FFFFFFFF" color2="FF4A100C" />
+  <Clan id="SP" name="Special Classes" color1="FFFFFFFF" color2="FF4A100C" />
+  <Clan id="CI" name="[CI] Coronas Ibéricas" color1="FF4A100C" color2="FFA88220" />
+  <Clan id="CISP" name="[CI] Clases especiales" color1="FF4A100C" color2="FFA88220" />
+  <Clan id="OMEY" name="[CI] Guardia Omeya" color1="FF4A100C" color2="FFA88220" />
+  <Clan id="OS" name="[CI] Orden de Santiago" color1="FFFFFFFF" color2="FFFFFFFF" />
+  <Clan id="PT" name="[CI] Principado de Toledo" color1="FFA88220" color2="FF0C0C0C" />
+  <Clan id="DC" name="[CI] Dukedom of Castile" color1="FF4A100C" color2="FFFFFFFF" />
+  <Clan id="GIB" name="[CI] Dukedom of Gibraltar" color1="FF0A5B77" color2="FFF4F4F4" />
+  <Clan id="NAV" name="[CI] Dukedom of Navarre" color1="FF61241B" color2="FF007336" />
+  <Clan id="VAL" name="[CI] Dukedom of Valencia" color1="FF6A1716" color2="FF101D5A" />
+  <Clan id="DA" name="[CI] Dukedom of Alcántara" color1="FFE3E4E5" color2="FF226A11" />
+  <Clan id="CT" name="Default Classes Rebellion" color1="FF5860A8" color2="FFffffff" />
+  <Clan id="SP2" name="Special Classes Rebellion" color1="FF5860A8" color2="FFffffff" />
+  <Clan id="BRE" name="[BRE] Royaume de Bretonnie" color1="FFbb2a19" color2="FF14364b" />
+  <Clan id="BD" name="[BD] Blood Diamond" color1="FF000000" color2="FF4A100C" />
+  <Clan id="KOTF" name="[KOTF] Kingdom of the Franks" color1="FF1C5ABD" color2="FFE8DF33" />
+  <Clan id="IPL" name="[IPL] Imperium Polskie" color1="FFFFFFFF" color2="FFC50100" />
+  <Clan id="SVCI" name="[SVCI] Štvanci" color1="FF78000A" color2="FFEAEEEF" />
+  <Clan id="CFR" name="[CFR] Couronne Française" color1="FF0A1D66" color2="FFFFFFFF" />
+  <Clan id="DR" name="[DR] Deutschritter" color1="FFF3F6F4" color2="FF2E2D2D" />
+  <Clan id="VSC" name="[VSC] The Völsung Clan" color1="FF050505" color2="FFBDBDBD" />
+  <Clan id="GREI" name="[VEMØ] Velmore Company" color1="FF00280F" color2="FFF8C625" />
+  <Clan id="KTAR" name="[KTAR] Kael`thar" color1="FF000000" color2="FFFFDE3E" />
+  <Clan id="RGA" name="[RGA] Regnum Aeternum" color1="FFCF7E08" color2="FF292823" />
+  <Clan id="KOPL" name="[KoPL] Kingdom of Poland" color1="FF830808" color2="FFFFFFFF" />
+  <Clan id="HOST" name="[HOST] Knights Hospitaller" color1="FF000000" color2="FFF4F4F4" />
+  <Clan id="HINQ" name="[HINQ] The Holy Inquisition" color1="FFEB6414" color2="FFEB6414" />
+  <Clan id="DNLR" name="[DNLR] The Duchy of Dunlar" color1="FF7738A7" color2="FFD9D9D9" />
+  <Clan id="LGA" name="[LGA] La Garde de l'Aube" color1="FF2C2D25" color2="FFFFA200" />
+  <Clan id="KOM" name="[KOM] Kingdom of Mercia" color1="FF445B89" color2="FFC8AF55" />
+  <Clan id="MF" name="[MF] Milites Fortunae" color1="FF6D0603" color2="FF8E6828" />
+  <Clan id="IZPP" name="[IZpp] IZpp" color1="FF7738A7" color2="FF000000" />
+  <SharedItem id="cilab_ci_armet" />
+  <SharedItem id="cilab_ci_battania_crown" />
+  <SharedItem id="cilab_ci_filipogh" />
+  <SharedItem id="cilab_ci_casco_nolicus" />
+  <Item id="cilab_ci_casco_sutrupa" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_ci_askz2" />
+  <SharedItem id="cilab_ci_butterlord1" />
+  <Item id="cilab_ci_corona_alecks" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <Item id="cilab_ci_casco_corona_alecks" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <SharedItem id="cilab_ci_casco_dralion" />
+  <SharedItem id="cilab_ci_sallet_base" />
+  <SharedItem id="cilab_ci_casco_zurco" />
+  <SharedItem id="cilab_ci_crowned_vlandian_helm_with_visor" />
+  <SharedItem id="cilab_ci_butterlord3" />
+  <Item id="cilab_ci_sallet_winged" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_antonito" color1="FF4A100C" color2="FFA88220" clan="CI" />
+  <SharedItem id="cilab_ci_antonio" />
+  <SharedItem id="cilab_ci_pacocasco" />
+  <Item id="cilab_ci_greathelmetjoanisi_cloth_1" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_casco_arqueros_mecenas" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_casco_inf_mecenas" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_ci_casco_cav_mecenas" />
+  <SharedItem id="cilab_ci_lishman_helmet" />
+  <SharedItem id="cilab_ci_manu_helmet" />
+  <Item id="cilab_ci_casco_camarada" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_ci_casco_dume" />
+  <Item id="cilab_ci_Snipercasco" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_casco_claus" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_sturg_hat" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <SharedItem id="cilab_cts_spanish_closed_helmet_rose" />
+  <Item id="cilab_ci_gyro_castile_helmet" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_ci_carltemple_helmet" color1="FF4A100C" color2="FFA88220" clan="CI" />
+  <Item id="cilab_ci_kevfz_helmet" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <SharedItem id="cilab_ci_hugoboss_helmet" />
+  <SharedItem id="cilab_ci_bascinete_con_visor" />
+  <Item id="cilab_ci_sloth_helmet" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_ci_casco_saka" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_ci_bear_helmet" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_ci_bowzer_helmet" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_butanero_helmet" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_ci_dredd_helmet" />
+  <Item id="cilab_ci_casco_carnicero" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_azuki_hood" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_brithelment_gib" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <SharedItem id="cilab_ci_casco_toni" />
+  <SharedItem id="cilab_ci_zurcohelmet" />
+  <Item id="cilab_ci_zurcohelmet_closed" color1="FF4A100C" color2="FFA88220" clan="CI" />
+  <Item id="cilab_ci_mimi_helmet" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <SharedItem id="cilab_ci_slim_circlet" />
+  <Item id="cilab_ci_kutherion_helmet" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_luisa_helmet" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_ci_john_bascinet" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_omey_helmet_b_closed" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_omey_helmet_b_leather" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_omey_helmet_b_open" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_cts_spanish_helmet1" />
+  <SharedItem id="cilab_cts_spanish_helmet2" />
+  <SharedItem id="cilab_cts_spanish_helmet3" />
+  <SharedItem id="cilab_cts_spanish_helmet4" />
+  <SharedItem id="cilab_cts_spanish_helmet5" />
+  <SharedItem id="cilab_cts_spanish_helmet_6" />
+  <SharedItem id="cilab_cts_spanish_helmet_7" />
+  <SharedItem id="cilab_cts_spanish_helmet_8" />
+  <SharedItem id="cilab_cts_spanish_helmet_9" />
+  <SharedItem id="cilab_cts_spanish_helmet_10" />
+  <SharedItem id="cilab_cts_spanish_helmet_officer" />
+  <SharedItem id="cilab_cts_spanish_helmet_veteran" />
+  <SharedItem id="cilab_cts_spanish_helmet_veteran_skull" />
+  <SharedItem id="cilab_os_mario_helmet" />
+  <Item id="cilab_os_capucha_santiago" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_casco_cruzado" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capuchamallabajada" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capuchamalla_benda" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_cotamalla" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_sombrero_inquisidor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_norman_helmet" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_santiago_capucha_monje" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_santiago_capucha_pelo_monje" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_toledo_spanish_helmet1" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_helmet2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_helmet3" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_helmet4" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_helmet5" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_peon" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_espadero" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_espadero_gorjal" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_custodio" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_custodio_gorjal" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_suboficial" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_suboficial_gorjal" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_oficial" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_oficial_gorjal" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_casco_toledo_oficial_2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_cts_spanish_kinguard_bascinet" />
+  <SharedItem id="cilab_cts_spanish_kinguard_bascinet1" />
+  <SharedItem id="cilab_ci_cav_bascinet1" />
+  <SharedItem id="cilab_ci_cav_bascinet2" />
+  <SharedItem id="cilab_ci_cav_bascinet3" />
+  <Item id="cilab_ci_cav_sallet_scout" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_sallet_horseman" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_sallet_knight" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_sallet_officer" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_infpes_casco" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_cts_spanish_king_helm" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <Item id="cilab_cts_gibraltar_spanish_helmet3" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_helmet4" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_helmet5" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_helmet_7" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_leva" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_militia" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_vanguard" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_vanguard2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_maa" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_maa2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_subof" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_ci_gibraltarcasco_of" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_castile_helmet_barbute_nasal_cloth" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_helmet_barbute_nasal_chainmail" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_helmet_barbute_cloth_square" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_helmet_barbute_cloth_simple" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_helmet_barbute_chainmail" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_white_tower" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_simple_a" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_simple" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_redline" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_red_tower" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_closed_helmet_colored_tower" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_ci_casco_navarra" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_os_capasantiago" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capasantiago2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_nueva_capasantiago" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_nueva_capasantiago2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capa_santiago_inquisidor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capa_santiago_corta_inquisidor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capa_santiago_negra" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_capa_santiago_negra_corta" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_collar_inquisidor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_santiago_hombros_monje" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_ci_capa_mecenas_arqueros" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_long_cape_azuki" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth1" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth2" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth3" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth4" />
+  <SharedItem id="cilab_cts_spain_shoulder_cloth5" />
+  <SharedItem id="cilab_cts_spain_shoulder_metal_cloth" />
+  <SharedItem id="cilab_cts_spain_shoulder_metal_cloth1" />
+  <SharedItem id="cilab_cts_spain_shoulder_metal_cloth2" />
+  <SharedItem id="cilab_cts_spain_shoulder_metal_cloth3" />
+  <SharedItem id="cilab_cts_spain_shoulder_metal_cloth4" />
+  <SharedItem id="cilab_cts_spanish_plated_shoulder_ptrotection" />
+  <SharedItem id="cilab_cts_spanish_plated_shoulder_ptrotection1" />
+  <SharedItem id="cilab_cts_spanish_square_shoulder_protection" />
+  <SharedItem id="cilab_cts_spanish_square_shoulder_protection_1" />
+  <SharedItem id="cilab_cts_spanish_square_shoulder_protection_2" />
+  <SharedItem id="cilab_cts_spanish_square_shoulder_protection_3" />
+  <SharedItem id="cilab_cts_spanish_square_shoulder_protection_4" />
+  <Item id="cilab_ci_cav_pauldrons_horseman" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_pauldrons_knight" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_pauldrons_officer" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection3" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection4" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection5" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_collar" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth3" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth4" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth1" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth3" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_plated_shoulder_ptrotection" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_square_shoulder_protection" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_toledo_capa_hispano" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_castile_spanish_shoulder_cloth" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_shoulder_cloth2" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_shoulder_metal_cloth" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_shoulder_metal_cloth1" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_shoulder_protection" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <SharedItem id="cilab_cts_spanish_kinguard_cape_omey" />
+  <Item id="cilab_cts_spanish_kinguard_cape_santiago" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_cts_spanish_kinguard_cape_termito" />
+  <Item id="cilab_cts_spanish_kinguard_cape_toledo" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_spanish_kinguard_cape_castile" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_spanish_kinguard_cape_gibraltar" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_spanish_kinguard_cape_navarra" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <SharedItem id="cilab_cts_spanish_kinguard_cape_ci" />
+  <SharedItem id="cilab_cts_spanish_kinguard_cape_capitangr" />
+  <SharedItem id="cilab_ci_arq_capucha" />
+  <Item id="cilab_ci_infpes_hombros" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_ci_mochila_escudero" />
+  <Item id="cilab_cts_shoulder_spanish_king" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <Item id="cilab_cts_shoulder_spanish_king1" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_cloth" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_cloth2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_metal_cloth" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_metal_cloth1" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_protection" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_navarra_spanish_shoulder_cloth" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_shoulder_cloth2" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_shoulder_metal_cloth" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_shoulder_metal_cloth1" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_shoulder_protection" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <SharedItem id="cilab_cts_spain_lion_shoulder" />
+  <Item id="cilab_os_vlandia_leather_armor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_mail_with_tabbard2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_ci_of_plates1_c_slim" />
+  <Item id="cilab_pt_armadura_toledo_slim" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_pt_armadura_toledo_cuadros_slim" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_pt_tabard_with_platea" />
+  <SharedItem id="cilab_ci_vlandian_noble_woman_dress" />
+  <SharedItem id="cilab_ci_female_khuzait_dress" />
+  <Item id="cilab_omey_civil_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_omey_chain_plate_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_omey_chain_plate_b" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_omey_plate_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_cts_spanish_levi" />
+  <SharedItem id="cilab_cts_spanish_levi_1" />
+  <SharedItem id="cilab_cts_spanish_levi_2" />
+  <SharedItem id="cilab_cts_spanish_armor_tier2" />
+  <SharedItem id="cilab_cts_spanish_armor_tier2_1" />
+  <SharedItem id="cilab_cts_spanish_armor_tier2_2" />
+  <SharedItem id="cilab_cts_spanish_armor_tier2_3" />
+  <Item id="cilab_host_brigandine" color1="FF000000" color2="FFF4F4F4" clan="HOST" />
+  <SharedItem id="cilab_cts_spanish_armor_tier3_1" />
+  <SharedItem id="cilab_cts_spanish_armor_tier3_2" />
+  <SharedItem id="cilab_cts_spanish_armor_tier3_3" />
+  <SharedItem id="cilab_cts_spanish_armor_tier3_4" />
+  <SharedItem id="cilab_cts_spanish_armor_tier3" />
+  <SharedItem id="cilab_cts_spanish_armor_tier4" />
+  <SharedItem id="cilab_cts_spanish_armor_tier5" />
+  <SharedItem id="cilab_cts_aguila_spanish_armor_tier5_2" />
+  <Item id="cilab_mp_battania_woodland_chainmail" color1="FF000000" color2="FFF4F4F4" clan="HOST" />
+  <SharedItem id="cilab_cts_patron3_spanish_armor_tier5_2" />
+  <SharedItem id="cilab_mp_coat_of_plates_over_mail" />
+  <SharedItem id="cilab_cts_patron4_spanish_armor_tier5_2" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran1" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran2" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran3" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran4" />
+  <SharedItem id="cilab_cts_armor_spanish_veteran5" />
+  <SharedItem id="cilab_cts_spanish_armor_tier4_alvaro" />
+  <Item id="cilab_cts_santiago_spanish_levi" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_tier2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_tier3" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_tier4" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_tier5_2" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_tier5_3" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_santiago_spanish_armor_inquisidor" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_os_santiago_habito_vendas_monje" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_cts_toledo_spanish_levi" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier3" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier3_2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier4" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier4_2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_spanish_armor_tier5_2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_ofi_spanish_armor_tier5_2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_peon_spanish_armor_tier2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_espadero_spanish_armor_tier2" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_custodio_armor" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_suboficial_armor" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_toledo_suboficial_armor1" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <Item id="cilab_cts_castile_spanish_levi" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_armor_tier2" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_armor_tier3" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_armor_tier4" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_armor_tier5" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <Item id="cilab_cts_castile_spanish_armor_tier5_2" color1="FF4A100C" color2="FFFFFFFF" clan="DC" />
+  <SharedItem id="cilab_cts_spanish_kinguard_armor" />
+  <Item id="cilab_ci_cav_gambeson1" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_ci_cav_gambeson2" />
+  <SharedItem id="cilab_ci_cav_gambeson3" />
+  <Item id="cilab_ci_cav_armor_scout" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_armor_horseman" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_armor_knight" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_armor_officer" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_ci_arq_gambeson" />
+  <SharedItem id="cilab_ci_tir_gambeson" />
+  <SharedItem id="cilab_ci_subarq_gambeson" />
+  <Item id="cilab_ci_infpes_pecho" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_cts_spanish_king_armor" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <Item id="cilab_cts_gibraltar_spanish_levi" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_milicia" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier3" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier4" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier5" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier5_2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier6" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier6_2" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_navarra_spanish_levi" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_armor_tier2" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_armor_tier3" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_armor_tier4" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_navarra_spanish_armor_tier4_1" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <SharedItem id="cilab_cts_navarra_spanish_armor_tier5" />
+  <Item id="cilab_cts_spanish_armor_royal_color1" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_spanish_armor_royal_color2" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_spanish_armor_royal_color3" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_color4" />
+  <Item id="cilab_cts_spanish_armor_royal_color5" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_color6" />
+  <Item id="cilab_cts_spanish_armor_royal_color7" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_color8" />
+  <Item id="cilab_cts_spanish_armor_royal" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_spanish_armor_royal_full" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_spanish_armor_royal_full_color1" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <Item id="cilab_cts_spanish_armor_royal_full_color2" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <Item id="cilab_cts_spanish_armor_royal_full_color3" color1="FF61241B" color2="FF007336" clan="NAV" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_full_color4" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_full_color5" />
+  <Item id="cilab_cts_spanish_armor_royal_full_color6" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_cts_spanish_armor_royal_full_color7" />
+  <Item id="cilab_cts_spanish_armor_royal_full_color8" color1="FFA88220" color2="FF0C0C0C" clan="PT" />
+  <SharedItem id="cilab_nv_leopard_pelt" />
+  <Item id="cilab_ci_spud_gib_armour" color1="FF0A5B77" color2="FFF4F4F4" clan="GIB" />
+  <SharedItem id="cilab_cts_spanish_chainmail_glove" />
+  <SharedItem id="cilab_cts_spanish_leather_glove" />
+  <SharedItem id="cilab_cts_spanish_plated_gloves" />
+  <Item id="cilab_cts_spanish_king_gloves" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <SharedItem id="cilab_cts_spanish_gloves_royal" />
+  <SharedItem id="cilab_cts_spanish_chainmail_boots" />
+  <SharedItem id="cilab_cts_spanish_leather_boots" />
+  <SharedItem id="cilab_cts_spanish_plated_boots" />
+  <SharedItem id="cilab_cts_spanish_kinguard_boots" />
+  <SharedItem id="cilab_ci_cav_pantalones1" />
+  <SharedItem id="cilab_ci_cav_pantalones2" />
+  <Item id="cilab_ci_cav_boots_scout" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_boots_horseman" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_boots_knight" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_cav_boots_officer" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_ci_infpes_pants" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_cts_spanish_king_boots" color1="FF7A1912" color2="FF7A1912" clan="CI" />
+  <SharedItem id="cilab_cts_spanish_boots_royal_full" />
+  <SharedItem id="cilab_horse_harness_a_new" />
+  <SharedItem id="cilab_AR_horse_armor_zg" />
+  <SharedItem id="cilab_ar_horse_armor_zaj" />
+  <SharedItem id="cilab_jinetesarnes2" />
+  <SharedItem id="cilab_jinetesarnes3" />
+  <SharedItem id="cilab_jinetesarnes4" />
+  <SharedItem id="cilab_jinetesarnes5" />
+  <SharedItem id="cilab_ci_gen_AR_horse_armor_k2" />
+  <Item id="cilab_bre_b2_flattop_cap" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_kettle_0_cap" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_dizinier_flattop_painted" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_kettle_mail_2" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_sergeant_noflag_flattop_helmet_painted" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_sergeants_helmet" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_captains_helmet" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_head_gis" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_head_fro" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_head_bri" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kerrant_head_2" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_head_mou" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_head_cas" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_sergeant_shoulders" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_captain_shoulders" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_cape_gis" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_crest_fro" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_cape_mou" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_cape_cas" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_bandit_0" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_padded_coat_0" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_templar_2" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_templar_3" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_sergeant_torso" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_captain_torso" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_body_gis" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kotr_body_v1_fro" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_body_bri" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kotr_body_fer" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_body_mou" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_body_cas" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b2_crossbow_armor_hand_dark" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_sergeants_gauntlets" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_captain_gauntlets" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_gloves_gis" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kotr_gloves_1" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_gloves_bri" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kerrant_gloves" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_gloves_mou" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_gloves_cas" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_sergeant_boots" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_lionhelm_captain_boots" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_leg_gis" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kotr_leg_1" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_leg_bri" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_kerrant_leg" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_leg_mou" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bre_b3_grail_leg_cas" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_bua_horse_barding_1" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_2" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_3" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_4" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_5" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_2_1" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_2_2" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_2_3" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_bua_horse_barding_2_4" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_bua_horse_barding_2_5" />
+  <Item id="cilab_ipl_cape_v2" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_ipl_archer_coat_slim" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_ipl_tabard_slim_ci_v2" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_ipl_plate_tabard_slim_ci_v2" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_kt_sergeant_tunic" />
+  <SharedItem id="cilab_kt_sergeant_tunic_white" />
+  <SharedItem id="cilab_kt_ktemplar_a_white" />
+  <SharedItem id="cilab_kt_ktmail_with_tabbard1" />
+  <SharedItem id="cilab_nv_vlandia_helmet_r_b_test" />
+  <SharedItem id="cilab_nv_vlandia_helmet_r_b" />
+  <SharedItem id="cilab_nv_vlandia_helmet_h_y" />
+  <SharedItem id="cilab_nv_vlandia_helmet_e" />
+  <SharedItem id="cilab_nv_vlandia_helmet_o_c" />
+  <SharedItem id="cilab_nv_vlandia_helmet_r_a" />
+  <Item id="cilab_nv_battania_earmuff_helmet_c" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_nv_vlandia_helmet_n_d" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_nv_vlandia_helmet_i_a" color1="FF000000" color2="FFF4F4F4" clan="HOST" />
+  <SharedItem id="cilab_nv_vlandia_helmet_h_v" />
+  <SharedItem id="cilab_nv_aserai_civil_f_cape" />
+  <SharedItem id="cilab_nv_sturgia_masked_helm_a" />
+  <SharedItem id="cilab_nv_empire_helmet_h_da" />
+  <SharedItem id="cilab_nv_vlandia_helmet_f" />
+  <SharedItem id="cilab_nv_vlandia_helmet_n_e" />
+  <Item id="cilab_nv_sturgia_helmet_a" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_nv_vlandia_helmet_h_c" />
+  <SharedItem id="cilab_nv_sturgian_helmet_b_open" />
+  <SharedItem id="cilab_nv_sneak_costume_head" />
+  <SharedItem id="cilab_nv_empire_helmet_d" />
+  <SharedItem id="cilab_nv_vlandia_helmet_u_a" />
+  <SharedItem id="cilab_nv_kettle_helmet_leather" />
+  <Item id="cilab_nv_vlandia_helmet_o_a" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <SharedItem id="cilab_nv_vlandia_helmet_t_c" />
+  <Item id="cilab_nv_vlandia_helmet_j_c" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_vlandia_helmet_l_c" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_nv_vlandia_helmet_t_v" />
+  <SharedItem id="cilab_nv_vlandia_helmet_t_a" />
+  <SharedItem id="cilab_nv_vlandia_helmet_j_a" />
+  <SharedItem id="cilab_nv_vlandia_helmet_l_v" />
+  <SharedItem id="cilab_nv_khuzait_helmet_f" />
+  <Item id="cilab_nv_aserai_lord_helmet_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_aserai_battle_crown" />
+  <Item id="cilab_nv_aserai_lord_helmet_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_aserai_lord_helmet_b" />
+  <SharedItem id="cilab_nv_aserai_helmet_a" />
+  <Item id="cilab_nv_aserai_helmet_b" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <Item id="cilab_nv_aserai_helmet_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_aserai_helmet_d" />
+  <SharedItem id="cilab_nv_aserai_helmet_f" />
+  <Item id="cilab_nv_aserai_helmet_i" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_battania_civil_hood" />
+  <SharedItem id="cilab_nv_thinhide_coif" />
+  <Item id="cilab_nv_segmented_skullcap_over_padded_cloth" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_nv_kettle_helmet_over_padded_cap" />
+  <SharedItem id="cilab_nv_nasal_helmet_with_mail" />
+  <Item id="cilab_nv_pilgrim_hood" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_nv_nasal_helmet_over_mail" />
+  <SharedItem id="cilab_nv_nasal_helmet" />
+  <Item id="cilab_nv_nasal_helmet_neckguard" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_nv_laced_coif" />
+  <SharedItem id="cilab_nv_open_mail_coif" />
+  <SharedItem id="cilab_nv_leather_cap" />
+  <SharedItem id="cilab_nv_imperial_mail_coif" />
+  <Item id="cilab_nv_vlandian_faceguard_helmet_a" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_vlandian_faceguard_helmet_b" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_kettle_helmet_over_mail" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <SharedItem id="cilab_nv_hood" />
+  <Item id="cilab_nv_nasal_cervelliere_over_mail_coif" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_southern_lord_helmet" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_leather_studdedhelm" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_segmented_skullcap_over_laced_coif" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_nv_headscarf_d" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_assassin_hood" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_nv_aserai_shoulder_a_test" />
+  <SharedItem id="cilab_nv_aserai_shoulder_a" />
+  <SharedItem id="cilab_nv_battania_scarf_a" />
+  <SharedItem id="cilab_nv_battania_civil_cloak" />
+  <SharedItem id="cilab_nv_shoulder_cape_multicolor" />
+  <SharedItem id="cilab_nv_empire_cape_a" />
+  <SharedItem id="cilab_nv_empire_cape_a_white" />
+  <SharedItem id="cilab_nv_pauldron_with_cape" />
+  <Item id="cilab_nv_fur_cloak_b" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <SharedItem id="cilab_nv_varangian_bra_royal" />
+  <SharedItem id="cilab_nv_pauldron_cape_a" />
+  <SharedItem id="cilab_nv_cloak_fur_c" />
+  <Item id="cilab_nv_battania_cloak_a" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <Item id="cilab_nv_battania_cloak_b" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_nv_shoulder_chain_a" />
+  <Item id="cilab_nv_battanian_chainmail_shoulder_b" color1="FFFFFFFF" color2="FF4A100C" clan="DU" />
+  <Item id="cilab_nv_brass_lamellar_shoulder_white" color1="FFFFFFFF" color2="FF4A100C" clan="DU" />
+  <SharedItem id="cilab_nv_battania_shoulder_strap_cloak" />
+  <Item id="cilab_nv_empire_plate_armor_shoulder_a" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_nv_shoulder_cape_a" />
+  <SharedItem id="cilab_nv_noble_pauldron_with_scarf" />
+  <SharedItem id="cilab_nv_chainmail_shoulder_armor" />
+  <Item id="cilab_nv_aserai_scale_shoulder_e" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_nv_aserai_scale_shoulder_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_aserai_scale_b_shoulder_b" />
+  <SharedItem id="cilab_nv_aserai_scale_b_shoulder_a" />
+  <Item id="cilab_nv_aserai_scale_b_shoulder" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_nv_battanian_chainmail_shoulder_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_nv_battania_woodland_cloak" />
+  <SharedItem id="cilab_nv_battania_cloak" />
+  <SharedItem id="cilab_nv_scarf" />
+  <Item id="cilab_nv_varangian_bra_padded" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_wrapped_scarf" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_battania_civil_cape" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_nv_empire_warrior_padded_armor_shoulder" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_nv_padded_leather_shoulders" />
+  <Item id="cilab_nv_varangian_bra_basic" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_nv_gambeson_b_test" />
+  <SharedItem id="cilab_nv_gambeson_b" />
+  <SharedItem id="cilab_nv_vlandia_bandit_a" />
+  <SharedItem id="cilab_nv_empire_warrior_padded_armor_a" />
+  <SharedItem id="cilab_nv_templar_a_white" />
+  <SharedItem id="cilab_nv_empire_armor_c" />
+  <Item id="cilab_nv_armor_leather_iron_plate_a" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_nv_mail_hauberk" />
+  <Item id="cilab_nv_sturgia_costume_m" color1="FFFFFFFF" color2="FF4A100C" clan="DU" />
+  <Item id="cilab_nv_brass_lamellar_white" color1="FFFFFFFF" color2="FF4A100C" clan="DU" />
+  <SharedItem id="cilab_nv_sturgian_lamellar_base" />
+  <SharedItem id="cilab_nv_sturgia_costume_i" />
+  <SharedItem id="cilab_nv_vlandia_leather_armor" />
+  <SharedItem id="cilab_nv_sturgian_chainmale_shortsleeve" />
+  <SharedItem id="cilab_nv_sturgian_lamellar_gambeson_heavy" />
+  <SharedItem id="cilab_nv_leather_tunic_2" />
+  <Item id="cilab_nv_empire_fabric_armor" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_nv_vlandia_leather_stripes" />
+  <Item id="cilab_nv_sturgia_costume_b" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_armor_roman_mail_shirt" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_sturgia_costume_c" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_vlandia_chainmail_a" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_nordic_sloven_a" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_battania_woodland_chainmail" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_templar_a_red" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_empire_armor_e" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_nv_sturgian_chainmale_longsleeve" />
+  <SharedItem id="cilab_nv_battanian_chainmail_armor_a" />
+  <SharedItem id="cilab_nv_aserai_full_scale_armor_on_chain" />
+  <SharedItem id="cilab_nv_aserai_scale_armor_b" />
+  <SharedItem id="cilab_nv_aserai_bigchain_armor" />
+  <SharedItem id="cilab_nv_aserai_armor_02" />
+  <SharedItem id="cilab_nv_aserai_armor_02_b" />
+  <Item id="cilab_nv_aserai_civil_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_nv_aserai_chain_plate_armor_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_nv_monk_robe" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_nv_khuzait_leather_armor_b" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <SharedItem id="cilab_nv_battanian_savage_armor" />
+  <Item id="cilab_nv_eastern_studded_leather" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_nv_decorated_nordic_hauberk" />
+  <SharedItem id="cilab_nv_sturgian_lamellar_fortified" />
+  <SharedItem id="cilab_nv_imperial_lamellar" />
+  <SharedItem id="cilab_nv_desert_scale_armor" />
+  <SharedItem id="cilab_nv_northern_brass_lamellar_over_mail" />
+  <SharedItem id="cilab_nv_lamellar_with_scale_skirt" />
+  <SharedItem id="cilab_nv_empire_warrior_padded_armor_e" />
+  <SharedItem id="cilab_nv_nordic_sloven_leather" />
+  <Item id="cilab_nv_female_hood" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_desert_fabric_shoulderpad" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_patched_gambeson" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_northern_coat_of_plates" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_imperial_lamellar_over_leather" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_empire_horseman_armor" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_aketon" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_imperial_padded_cloth" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_desert_padded_cloth" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_aserai_archer_armor" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_empire_warrior_padded_armor_f" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_nv_studded_leather_coat" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_sackcloth_tunic" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_nv_long_woolen_tunic" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_long_hemp_tunic" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_ragged_armwraps" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_eastern_wrapped_armguards" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_nv_battania_armwraps_a" />
+  <SharedItem id="cilab_nv_crossbow_armor_hand" />
+  <SharedItem id="cilab_nv_padded_vambrace_a_handguard" />
+  <SharedItem id="cilab_nv_mail_mitten_c" />
+  <SharedItem id="cilab_nv_padded_vambrace_a" />
+  <SharedItem id="cilab_nv_empire_plated_gauntlets" />
+  <Item id="cilab_nv_vlandia_leather_stripes_bracers" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <Item id="cilab_nv_plated_leather_armor_glove_b" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_nv_padded_vambrace_a_reinforced" />
+  <SharedItem id="cilab_nv_mail_mitten_b" />
+  <Item id="cilab_nv_mail_mitten_a" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_nv_battania_noble_bracers" />
+  <SharedItem id="cilab_nv_highland_gloves" />
+  <Item id="cilab_nv_guarded_padded_vambrace" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_nv_strapped_leather_bracers" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <SharedItem id="cilab_nv_leather_gloves" />
+  <Item id="cilab_nv_studded_vambraces" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_nv_banded_leather_over_mail" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <Item id="cilab_nv_lamellar_plate_gauntlets" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_nv_reinforced_leather_vambraces" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_nv_armwraps" />
+  <Item id="cilab_nv_padded_mitten" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_nv_mail_mitten" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <SharedItem id="cilab_nv_cav_boots" />
+  <SharedItem id="cilab_nv_battania_boot_a" />
+  <SharedItem id="cilab_nv_mail_chausses_a" />
+  <SharedItem id="cilab_nv_mail_chausses_b" />
+  <Item id="cilab_nv_bandit_leather_boots" color1="FF0A1D66" color2="FFFFFFFF" clan="CFR" />
+  <SharedItem id="cilab_nv_empire_plated_boots" />
+  <SharedItem id="cilab_nv_empire_horseman_boots" />
+  <SharedItem id="cilab_nv_sturgia_boots_c" />
+  <SharedItem id="cilab_nv_casual_02_boots" />
+  <Item id="cilab_nv_pict_armor_boot" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <SharedItem id="cilab_nv_battania_leather_boots_a" />
+  <Item id="cilab_nv_khuzait_leather_armor_foot" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_nv_cav_boots_reinforced" />
+  <SharedItem id="cilab_nv_sturgia_boots_a" />
+  <SharedItem id="cilab_nv_wrapped_shoes" />
+  <Item id="cilab_nv_bandit_3_boot" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_nv_plated_strip_boots" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <Item id="cilab_nv_folded_town_boots" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_leather_shoes" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <Item id="cilab_nv_ragged_boots" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <SharedItem id="cilab_nv_eastern_leather_boots" />
+  <Item id="cilab_nv_strapped_mail_chausses" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_nv_mail_chausses" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <Item id="cilab_nv_chain_horse_harness" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <Item id="cilab_nv_sturgia_boots_b" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_osa_tv_aserai_guard_helmet_b2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_guard_helmet_d2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_guard_helmet_d3" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_guard_helmet_f2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_guard_helmet_f3" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_d" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_f" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_g" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_i" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_k" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_m" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_n" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_o" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_p" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_q" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_helmet_s" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lord_helmet_b" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lord_helmet_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lord_helmet_g" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lord_helmet_i" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_osa_tv_battania_cloak_r" />
+  <Item id="cilab_osa_tv_battania_cloak_s" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lamellar_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lamellar_c2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lamellar_h" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_lamellar_h2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_robe_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_vlandia_armor_s" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_vlandia_armor_t" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_vlandia_armor_t2" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_osa_tv_aserai_gloves_a" />
+  <Item id="cilab_osa_tv_aserai_gloves_b" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_sturgia_gloves_c" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_boots_a" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_aserai_boots_b" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_osa_tv_aserai_boots_f" />
+  <Item id="cilab_osa_tv_aserai_boots_g" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <Item id="cilab_osa_tv_battania_boots_f" color1="FF4A100C" color2="FFA88220" clan="OMEY" />
+  <SharedItem id="cilab_sw_armet" />
+  <SharedItem id="cilab_sw_armet2" />
+  <Item id="cilab_sw_crowned_vlandian_helm_with_visor" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <SharedItem id="cilab_sw_engraved_vlandian_helm_with_visor" />
+  <SharedItem id="cilab_sw_fluted_helm_with_faceplate" />
+  <SharedItem id="cilab_sw_great_helm_base" />
+  <Item id="cilab_sw_great_helm_brass" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_sw_great_helm_dark" />
+  <SharedItem id="cilab_sw_great_helm_paint" />
+  <Item id="cilab_sw_great_helm_paint2" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_sw_great_prankh_helm" />
+  <SharedItem id="cilab_sw_great_prankh_helm_crest" />
+  <Item id="cilab_sw_great_prankh_helm_horns" color1="FF0A1D66" color2="FFFFFFFF" clan="CFR" />
+  <Item id="cilab_sw_great_prankh_helm_winged" color1="FF0A1D66" color2="FFFFFFFF" clan="CFR" />
+  <SharedItem id="cilab_sw_italio_norman_helm" />
+  <Item id="cilab_sw_italio_norman_helm_bronze" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <SharedItem id="cilab_sw_pigface_bascinet" />
+  <SharedItem id="cilab_sw_pigface_bascinet_feather" />
+  <SharedItem id="cilab_sw_pigface_bascinet_tail" />
+  <SharedItem id="cilab_sw_pothelm" />
+  <Item id="cilab_sw_pothelm2" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <Item id="cilab_sw_royal_great_helm" color1="FF000000" color2="FFF4F4F4" clan="HOST" />
+  <Item id="cilab_sw_1churburghhelm" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_sw_bacinet_with_facemask" />
+  <SharedItem id="cilab_sw_barbute1" />
+  <Item id="cilab_sw_barbute2" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_sw_barbute3" />
+  <SharedItem id="cilab_sw_barbute4" />
+  <SharedItem id="cilab_sw_butterlord1" />
+  <Item id="cilab_sw_butterlord2" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_sw_butterlord3" />
+  <SharedItem id="cilab_sw_butterlord4" />
+  <Item id="cilab_sw_butterlord5" color1="FF0A1D66" color2="FFFFFFFF" clan="CFR" />
+  <Item id="cilab_sw_butterlord6" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_sw_butterlord7" />
+  <Item id="cilab_sw_churburghhelm" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_sw_churburghhelm_black_trimmed_feather" />
+  <SharedItem id="cilab_sw_churburghhelm_feather" />
+  <SharedItem id="cilab_sw_churburghhelm_trimmed_feather" />
+  <SharedItem id="cilab_sw_visoredkettlehelmet" />
+  <SharedItem id="cilab_sw_visoredkettlehelmet1" />
+  <SharedItem id="cilab_sw_sallet_base" />
+  <SharedItem id="cilab_sw_sallet_crowned" />
+  <SharedItem id="cilab_sw_sallet_no_visor" />
+  <SharedItem id="cilab_sw_sallet_winged" />
+  <SharedItem id="cilab_sw_sugarloaf_helm" />
+  <SharedItem id="cilab_sw_sugarloaf_helm2" />
+  <SharedItem id="cilab_sw_sugarloaf_helm3" />
+  <SharedItem id="cilab_sw_sugarloaf_helm4" />
+  <SharedItem id="cilab_sw_vlandian_helm_with_faceplate" />
+  <SharedItem id="cilab_sw_vlandian_helm_with_faceplate_black" />
+  <Item id="cilab_sw_vlandian_helm_with_faceplate_brass" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_sw_vlandian_helm_with_faceplate_paint" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <SharedItem id="cilab_sw_vlandian_helm_with_visor" />
+  <SharedItem id="cilab_sw_winged_great_helm_base" />
+  <Item id="cilab_sw_winged_great_helm_brass" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_sw_winged_great_helm_dark" />
+  <SharedItem id="cilab_sw_winged_great_helm_order" />
+  <SharedItem id="cilab_sw_winged_great_helm_painted" />
+  <SharedItem id="cilab_sw_chain_shoulders" />
+  <SharedItem id="cilab_sw_swadian_shoulders" />
+  <SharedItem id="cilab_sw_coat_of_plates1_c" />
+  <Item id="cilab_sw_coat_of_plates2_c" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_sw_coat_of_plates3_c" />
+  <SharedItem id="cilab_sw_coat_of_plates4_c" />
+  <Item id="cilab_sw_coat_of_plates5_c" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_sw_coat_of_plates6_c" />
+  <SharedItem id="cilab_sw_coat_of_plates7_c" />
+  <Item id="cilab_sw_coat_of_plates8_c" color1="FF0A1D66" color2="FFFFFFFF" clan="CFR" />
+  <SharedItem id="cilab_sw_coat_of_plates9_c" />
+  <SharedItem id="cilab_sw_coat_of_plates10_c" />
+  <SharedItem id="cilab_sw_coat_of_plates11_c" />
+  <SharedItem id="cilab_sw_coat_of_plates12_c" />
+  <SharedItem id="cilab_sw_coat1" />
+  <SharedItem id="cilab_sw_coat2" />
+  <Item id="cilab_sw_coat3" color1="FF78000A" color2="FFEAEEEF" clan="SVCI" />
+  <SharedItem id="cilab_sw_mail_with_tabbard1" />
+  <SharedItem id="cilab_sw_mail_with_tabbard2" />
+  <SharedItem id="cilab_sw_mail_with_tabbard3" />
+  <Item id="cilab_sw_mail_with_tabbard4" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <Item id="cilab_sw_mail_with_tabbard5" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_sw_1churburghtorso" />
+  <SharedItem id="cilab_sw_2churburghtorso" />
+  <SharedItem id="cilab_sw_brigandine_plate1" />
+  <SharedItem id="cilab_sw_brigandine_plate2" />
+  <SharedItem id="cilab_sw_brigandine_plate3" />
+  <Item id="cilab_sw_brigandine3" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_sw_brigandine4" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_sw_brigandine5" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_sw_brigandine6" />
+  <SharedItem id="cilab_sw_churburghtorso" />
+  <SharedItem id="cilab_sw_surcoatplate" />
+  <SharedItem id="cilab_sw_swadian_brass_plate_armor" />
+  <SharedItem id="cilab_sw_swadian_cuirass" />
+  <Item id="cilab_sw_swadian_leather_plate_armor" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_sw_swadian_leather_plate_with_armguards" />
+  <SharedItem id="cilab_sw_swadian_plate_armor" />
+  <Item id="cilab_sw_swadian_plate_with_armguards" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_sw_swadian_striped_cuirass" />
+  <SharedItem id="cilab_sw_swadian_striped_plate_armor" />
+  <SharedItem id="cilab_sw_1churburghgauntlet" />
+  <Item id="cilab_sw_2churburghgauntlet" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_sw_churburghgauntlet" />
+  <SharedItem id="cilab_sw_plateboot" />
+  <SharedItem id="cilab_sw_1churburghboots" />
+  <SharedItem id="cilab_sw_2churburghboots" />
+  <SharedItem id="cilab_sw_churburghboots" />
+  <Item id="cilab_va_helm_regular" color1="FFFFFFFF" color2="FF4A100C" clan="DU" />
+  <SharedItem id="cilab_va_armour" />
+  <SharedItem id="cilab_va_armour1" />
+  <SharedItem id="cilab_va_armour2" />
+  <SharedItem id="cilab_vd_kume_helmet" />
+  <Item id="cilab_vl_engraved_plate_armor2" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_vl_blackened_plate_pauldrons" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_vl_blackened_plate_bracers" />
+  <Item id="cilab_vl_engraved_bascinet" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_vl_engraved_bascinet_with_open_visor" />
+  <SharedItem id="cilab_vl_engraved_sallet" />
+  <SharedItem id="cilab_vl_engraved_sallet_open_visor" />
+  <SharedItem id="cilab_vl_engraved_plate_armor1" />
+  <Item id="cilab_vl_engraved_plate_pauldrons" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_vl_engraved_plate_shoulders" />
+  <SharedItem id="cilab_vl_bascinet_with_open_visor2" />
+  <SharedItem id="cilab_vl_bascinet_with_visor2" />
+  <Item id="cilab_vl_ornate_plate_shoulder1" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_vl_ornate_plate_shoulder_with_cape1" />
+  <Item id="cilab_vl_ornate_plate_armor_with_skirt1" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_ornate_plate_armor1" />
+  <SharedItem id="cilab_vl_bascinet_with_open_visor3" />
+  <SharedItem id="cilab_vl_bascinet_with_visor3" />
+  <Item id="cilab_vl_ornate_plate_shoulder2" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_vl_ornate_plate_shoulder_with_cape2" />
+  <SharedItem id="cilab_vl_ornate_plate_armor_with_skirt2" />
+  <SharedItem id="cilab_vl_ornate_plate_armor2" />
+  <SharedItem id="cilab_vl_bascinet_with_open_visor4" />
+  <Item id="cilab_vl_bascinet_with_visor4" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_vl_ornate_plate_shoulder3" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_vl_ornate_plate_shoulder_with_cape3" />
+  <SharedItem id="cilab_vl_ornate_plate_armor_with_skirt3" />
+  <SharedItem id="cilab_vl_ornate_plate_armor3" />
+  <Item id="cilab_vl_ornate_plate_gauntlets3" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_vl_ornate_plate_boots3" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <Item id="cilab_vl_sloppy_bascinet_with_open_dog_face_visor" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_sloppy_bascinet_with_dog_face_visor" />
+  <Item id="cilab_vl_sloppy_plate_shoulder_with_cape" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_sloppy_plate_armor" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_sloppy_plate_gauntlets" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_sloppy_plateboots" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_merchant_windcheater" />
+  <SharedItem id="cilab_vl_long_leather_coat" />
+  <SharedItem id="cilab_vl_mercenary_brigandine" />
+  <SharedItem id="cilab_vl_broigne" />
+  <SharedItem id="cilab_vl_elegant_tunic1" />
+  <SharedItem id="cilab_vl_elegant_tunic2" />
+  <SharedItem id="cilab_vl_cuirassa" />
+  <SharedItem id="cilab_vl_cuirassb" />
+  <SharedItem id="cilab_vl_cuirassc" />
+  <SharedItem id="cilab_vl_cuirass_over_gambesona" />
+  <SharedItem id="cilab_vl_cuirass_over_gambesonb" />
+  <SharedItem id="cilab_vl_cuirass_over_gambesonc" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_mailA" />
+  <Item id="cilab_vl_leather_cuirass_with_mailB" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_mailC" />
+  <Item id="cilab_vl_leather_cuirass_with_mailD" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_mailE" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_mailF" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsA" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsB" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsC" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsD" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsE" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_armguardsF" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_pauldronsA" />
+  <Item id="cilab_vl_leather_cuirass_with_pauldronsB" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_pauldronsC" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_pauldronsD" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_pauldronsE" />
+  <SharedItem id="cilab_vl_leather_cuirass_with_pauldronsF" />
+  <Item id="cilab_vl_lys_cuirass_with_skirt" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <SharedItem id="cilab_vl_plate_armor_with_mail" />
+  <Item id="cilab_vl_plate_armor_with_mail2" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_plate_armor_with_armguards" />
+  <SharedItem id="cilab_vl_plate_armor_with_armguardsb" />
+  <SharedItem id="cilab_vl_plate_armor_with_pauldrons" />
+  <Item id="cilab_vl_striped_plate_armor_with_pauldrons" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_tabbartplate" />
+  <Item id="cilab_vl_coat_of_plates1" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates2" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates3" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates4" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates5" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates7" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_coat_of_plates6" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_coat_of_plates6_c" />
+  <SharedItem id="cilab_vl_coat_of_plates8_c" />
+  <Item id="cilab_vl_coat_of_plates10_c" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_leather_coat_of_plates" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <Item id="cilab_vl_tabard1" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_tabard2" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_tabard3" />
+  <Item id="cilab_vl_tabard4" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_tabard_with_platea" />
+  <SharedItem id="cilab_vl_tabard_with_plateb" />
+  <SharedItem id="cilab_vl_tabard_over_coat_of_plate1" />
+  <Item id="cilab_vl_tabard_over_coat_of_plate2" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_tabard_over_coat_of_plate3" />
+  <SharedItem id="cilab_vl_aketona" />
+  <Item id="cilab_vl_aketonb" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_vl_aketonc" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_long_pourpointa" />
+  <SharedItem id="cilab_vl_long_pourpointb" />
+  <Item id="cilab_vl_long_pourpointc" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_guard_gambesona" />
+  <SharedItem id="cilab_vl_guard_gambesonb" />
+  <Item id="cilab_vl_leather_cuirass_over_gambesona" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_leather_cuirass_over_gambesonb" />
+  <Item id="cilab_vl_leather_scale_cuirass" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <SharedItem id="cilab_vl_leather_scales_coat" />
+  <SharedItem id="cilab_vl_steel_scales_coat" />
+  <SharedItem id="cilab_vl_decorated_leather_tabard" />
+  <SharedItem id="cilab_vl_gambeson_over_maila" />
+  <SharedItem id="cilab_vl_gambeson_over_mailb" />
+  <SharedItem id="cilab_vl_gambeson_over_mailc" />
+  <SharedItem id="cilab_vl_gambeson_over_maild" />
+  <SharedItem id="cilab_vl_hauberk_with_surcoata" />
+  <Item id="cilab_vl_hauberk_with_surcoatb" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <SharedItem id="cilab_vl_hauberk_with_surcoatc" />
+  <SharedItem id="cilab_vl_hauberk_with_surcoatd" />
+  <Item id="cilab_vl_1ChurburghTorso" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_vl_ChurburghTorso" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <Item id="cilab_vl_brigandine1b" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_brigandine2b" />
+  <Item id="cilab_vl_brigandine3b" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_brigandine1a" />
+  <Item id="cilab_vl_brigandine2a" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_brigandine3a" />
+  <Item id="cilab_vl_brigandine_over_hauberk1" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <Item id="cilab_vl_brigandine_over_hauberk2" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_brigandine_over_hauberk3" />
+  <Item id="cilab_vl_brigandine1c" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_brigandine2c" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_brigandine3c" />
+  <SharedItem id="cilab_vl_gambesona" />
+  <SharedItem id="cilab_vl_gambesonb" />
+  <SharedItem id="cilab_vl_quilted_vesta" />
+  <SharedItem id="cilab_vl_quilted_vestb" />
+  <SharedItem id="cilab_vl_disciple_hood" />
+  <SharedItem id="cilab_vl_calros_novice_soulder" />
+  <Item id="cilab_vl_calros_pauldrons_with_cape_and_fur3" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <SharedItem id="cilab_vl_fringed_hooda" />
+  <SharedItem id="cilab_vl_fringed_hoodb" />
+  <SharedItem id="cilab_vl_chain_shoulders" />
+  <SharedItem id="cilab_vl_colletin_with_camail" />
+  <SharedItem id="cilab_vl_old_mail_colletin" />
+  <SharedItem id="cilab_vl_old_mail_colletin_with_leather" />
+  <SharedItem id="cilab_vl_heavy_pauldrons" />
+  <SharedItem id="cilab_vl_heavy_pauldrons_with_cape_and_fur" />
+  <SharedItem id="cilab_vl_knight_pauldrons" />
+  <SharedItem id="cilab_vl_shoulders" />
+  <SharedItem id="cilab_vl_plate_shoulder_with_cape" />
+  <SharedItem id="cilab_vl_knight_plate_shoulder" />
+  <SharedItem id="cilab_vl_long_cape" />
+  <SharedItem id="cilab_vl_long_noble_cape" />
+  <Item id="cilab_vl_cape_with_fura" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_cape_with_furb" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <Item id="cilab_vl_woven_leather_shoulders" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <SharedItem id="cilab_vl_quilted_colletina" />
+  <SharedItem id="cilab_vl_quilted_colletinb" />
+  <SharedItem id="cilab_vl_plate_gauntlets" />
+  <SharedItem id="cilab_vl_plate_bracers1" />
+  <SharedItem id="cilab_vl_plate_bracers2" />
+  <SharedItem id="cilab_vl_visby_gauntlets1" />
+  <Item id="cilab_vl_visby_gauntlets2" color1="FF2C2D25" color2="FFFFA200" clan="LGA" />
+  <SharedItem id="cilab_vl_plated_striped_gauntlets1" />
+  <Item id="cilab_vl_plated_striped_gauntlets2" color1="FFbb2a19" color2="FF14364b" clan="BRE" />
+  <SharedItem id="cilab_vl_studded_leather_bracers1" />
+  <Item id="cilab_vl_studded_leather_bracers2" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_reinforced_leather_bracers1" />
+  <SharedItem id="cilab_vl_reinforced_leather_bracers2" />
+  <Item id="cilab_vl_woven_leather_bracers1" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <Item id="cilab_vl_woven_leather_bracers2" color1="FF7738A7" color2="FFD9D9D9" clan="DNLR" />
+  <SharedItem id="cilab_vl_1ChurburghGauntlet" />
+  <Item id="cilab_vl_ChurburghGauntlet" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_black_leather_gloves" />
+  <SharedItem id="cilab_vl_plate_boots" />
+  <SharedItem id="cilab_vl_greaves" />
+  <SharedItem id="cilab_vl_blackened_greaves" />
+  <SharedItem id="cilab_vl_tied_boots" />
+  <Item id="cilab_vl_black_travel_boots" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_black_cavalier_boots" />
+  <Item id="cilab_vl_calros_boots2" color1="FFCF7E08" color2="FF292823" clan="RGA" />
+  <Item id="cilab_vl_calros_boots1" color1="FFFFFFFF" color2="FFFFFFFF" clan="OS" />
+  <Item id="cilab_vl_ChurburghBoots" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_great_helmet_base" />
+  <SharedItem id="cilab_vl_great_helmet_brass" />
+  <SharedItem id="cilab_vl_winged_great_helm_brass" />
+  <Item id="cilab_vl_winged_great_helm_base" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_vl_great_helmet_with_antler_crest" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <Item id="cilab_vl_great_helmet_with_eagle_crest" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_great_helmet_with_grail_crest" />
+  <SharedItem id="cilab_vl_ornate_great_helmet_with_antler_crest" />
+  <SharedItem id="cilab_vl_ornate_great_helmet_with_eagle_crest" />
+  <SharedItem id="cilab_vl_ornate_great_helmet_with_grail_crest" />
+  <SharedItem id="cilab_vl_sallet_base" />
+  <SharedItem id="cilab_vl_sallet_wings" />
+  <Item id="cilab_vl_sallet_no_visor" color1="FF7738A7" color2="FF000000" clan="IZPP" />
+  <SharedItem id="cilab_vl_sallet_open_visor" />
+  <SharedItem id="cilab_vl_sallet_open_visor_with_camail" />
+  <SharedItem id="cilab_vl_sallet_open_visor_with_coif" />
+  <SharedItem id="cilab_vl_sallet_with_camail" />
+  <SharedItem id="cilab_vl_sallet_with_coif" />
+  <SharedItem id="cilab_vl_pigface_bascinet" />
+  <Item id="cilab_vl_pigface_bascinet_feather" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_pigface_bascinet_tail" />
+  <SharedItem id="cilab_vl_bacinet_with_klappvisor" />
+  <SharedItem id="cilab_vl_bascinet_with_open_klappvisor" />
+  <SharedItem id="cilab_vl_bascinet_with_camail" />
+  <SharedItem id="cilab_vl_bascinet_with_open_dog_face_visor" />
+  <SharedItem id="cilab_vl_helmet_with_faceplate_painted" />
+  <SharedItem id="cilab_vl_helmet_with_visor" />
+  <SharedItem id="cilab_vl_bascinet_with_open_visor1" />
+  <SharedItem id="cilab_vl_feathered_armet" />
+  <SharedItem id="cilab_vl_armet" />
+  <Item id="cilab_vl_great_prankh_helm_crest" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <Item id="cilab_vl_great_prankh_helm_horns" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <SharedItem id="cilab_vl_great_prankh_helm_winged" />
+  <SharedItem id="cilab_vl_fluted_cervellierea" />
+  <SharedItem id="cilab_vl_fluted_cervelliereb" />
+  <SharedItem id="cilab_vl_painted_cervellierea" />
+  <Item id="cilab_vl_painted_cervelliereb" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <Item id="cilab_vl_painted_cervellierec" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_vl_painted_cervelliered" />
+  <Item id="cilab_vl_pothelm" color1="FFEB6414" color2="FFEB6414" clan="HINQ" />
+  <SharedItem id="cilab_vl_pothelm2" />
+  <Item id="cilab_vl_pothelm_with_facemask" color1="FFFFFFFF" color2="FFC50100" clan="IPL" />
+  <SharedItem id="cilab_vl_sugarloaf_helm" />
+  <SharedItem id="cilab_vl_sugarloaf_helm2" />
+  <SharedItem id="cilab_vl_watchman_helmet" />
+  <SharedItem id="cilab_vl_open_knight_helmeta" />
+  <SharedItem id="cilab_vl_open_knight_helmetb" />
+  <SharedItem id="cilab_vl_open_knight_helmetc" />
+  <Item id="cilab_vl_flat_helmeta" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_vl_flat_helmetc" />
+  <Item id="cilab_vl_flat_fluted_helmeta" color1="FF4A100C" color2="FFA88220" clan="CISP" />
+  <SharedItem id="cilab_vl_flat_fluted_helmetb" />
+  <Item id="cilab_vl_kettle_flat_fluted_helmeta" color1="FF00280F" color2="FFF8C625" clan="GREI" />
+  <SharedItem id="cilab_vl_kettle_flat_fluted_helmetb" />
+  <Item id="cilab_vl_kettle_helmeta" color1="FFF3F6F4" color2="FF2E2D2D" clan="DR" />
+  <SharedItem id="cilab_vl_kettle_helmetb" />
+  <SharedItem id="cilab_vl_kettle_helmetc" />
+  <Item id="cilab_vl_visored_kettle_helmet_with_mail1" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_visored_kettle_helmet_with_mail2" />
+  <SharedItem id="cilab_vl_visored_kettle_helmet_with_padded_coif1" />
+  <Item id="cilab_vl_visored_kettle_helmet_with_padded_coif2" color1="FF000000" color2="FF4A100C" clan="BD" />
+  <Item id="cilab_vl_1ChurburghHelm" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_churburghHelm_feather" />
+  <SharedItem id="cilab_vl_churburghHelm_trimmed_feather" />
+  <Item id="cilab_vl_barbute1" color1="FF6D0603" color2="FF8E6828" clan="MF" />
+  <SharedItem id="cilab_vl_barbute2" />
+  <Item id="cilab_vl_barbute3" color1="FF000000" color2="FFFFDE3E" clan="KTAR" />
+  <SharedItem id="cilab_vl_barbute4" />
+  <SharedItem id="cilab_vl_ornate_barbute" />
+  <SharedItem id="cilab_vl_chaperon" />
+  <Item id="cilab_vsc_infantry_armour" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_archer_armour" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_cavalry_armour" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_infantry_helmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_infantry_lshelmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_archer_helmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_archer_lshelmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_cavalry_helmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_cavalry_lshelmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_lightcavalry_helmet" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_infantry_shoulder1" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_infantry_shoulder2" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_infantry_lsshoulder" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_archer_shoulder" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_cavalry_shoulder" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_cavalry_lsshoulder" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <Item id="cilab_vsc_lightcavalry_shoulder" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <SharedItem id="cilab_vsc_infantry_gloves" />
+  <Item id="cilab_vsc_infantry_legs" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <SharedItem id="cilab_asset_sacoat1cloth" />
+  <SharedItem id="cilab_asset_sacoatcloth" />
+  <SharedItem id="cilab_asset_sacoat1" />
+  <SharedItem id="cilab_asset_coat_of_platesclothry_c" />
+  <SharedItem id="cilab_asset_sacoat3" />
+  <SharedItem id="cilab_asset_sacoat2" />
+  <SharedItem id="cilab_asset_vs_heavy_brigandine1" />
+  <SharedItem id="cilab_asset_vs_ornate_great_helmet_with_grail_crest" />
+  <SharedItem id="cilab_asset_vs_leather_plate_armor_with_harness1" />
+  <SharedItem id="cilab_asset_vs_bascinet_with_rounded_klappvisor" />
+  <SharedItem id="cilab_asset_swadian_leather_plate_armorc" />
+  <SharedItem id="cilab_asset_vs_ornate_great_helmet_with_antler_crest" />
+  <SharedItem id="cilab_asset_vs_leather_plate_armor_with_harness2" />
+  <SharedItem id="cilab_asset_vs_painted_asymmetrical_pauldrons" />
+  <SharedItem id="cilab_asset_swadian_leather_plate_armore" />
+  <SharedItem id="cilab_asset_vs_broigne_with_armpads" />
+  <SharedItem id="cilab_asset_vs_ornate_great_helmet_with_eagle_crest" />
+  <SharedItem id="cilab_asset_swadian_leather_plate_armora" />
+  <SharedItem id="cilab_asset_vs_leather_plate_armor_with_harness3" />
+  <SharedItem id="cilab_asset_swadian_leather_plate_armorf" />
+  <SharedItem id="cilab_asset_swadian_leather_plate_armord" />
+  <SharedItem id="cilab_asset_vs_heavy_brigandine2" />
+  <SharedItem id="cilab_asset_vs_heavy_brigandine3" />
+  <SharedItem id="cilab_asset_vs_tabard_with_platec" />
+  <SharedItem id="cilab_asset_vs_plate_spaulders_with_cape" />
+  <SharedItem id="cilab_asset_vs_tabard_over_coat_of_plate2" />
+  <SharedItem id="cilab_asset_vs_studded_leather_armor" />
+  <SharedItem id="cilab_asset_vs_plate_spaulders" />
+  <SharedItem id="cilab_asset_vs_tabard_with_plated" />
+  <SharedItem id="cilab_asset_vs_tabard_over_coat_of_plate4" />
+  <SharedItem id="cilab_asset_bre_kettlehelm_2" />
+  <SharedItem id="cilab_asset_kerrant_helm_v2_dark" />
+  <SharedItem id="cilab_asset_bb_kettle_hat_3" />
+  <SharedItem id="cilab_asset_bb_coat_plates_t2_royal" />
+  <SharedItem id="cilab_asset_bb_overcoat_2" />
+  <SharedItem id="cilab_asset_bb_jupon_royal_2_breastplate" />
+  <SharedItem id="cilab_asset_bb_tabard_t2_tc" />
+  <SharedItem id="cilab_asset_bb_bascinet_spoleto_1" />
+  <SharedItem id="cilab_asset_bb_bascinet_bretache" />
+  <SharedItem id="cilab_asset_bb_zizka_armor" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson" />
+  <SharedItem id="cilab_asset_bb_bascinet_bretache_1_torse" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_3_torse" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_5_raised" />
+  <SharedItem id="cilab_asset_bb_sugarloaf_greathelm_gold" />
+  <SharedItem id="cilab_asset_bb_overcoat_heraldry_2" />
+  <SharedItem id="cilab_asset_bb_cuirass_leather_t2_tc" />
+  <SharedItem id="cilab_asset_bb_jupon" />
+  <SharedItem id="cilab_asset_bb_bascinet_klappvisor_3" />
+  <SharedItem id="cilab_asset_bb_kastenbrust_t3" />
+  <SharedItem id="cilab_asset_bb_civ_garment_1_royal_alt" />
+  <SharedItem id="cilab_asset_bb_tegulated_helmet_padded" />
+  <SharedItem id="cilab_asset_bb_hood_lowered" />
+  <SharedItem id="cilab_asset_bb_gambeson_1" />
+  <SharedItem id="cilab_asset_bb_bascinet_open_1_torse" />
+  <SharedItem id="cilab_asset_bb_gambeson_breastplate_tc" />
+  <SharedItem id="cilab_asset_bb_covered_cuirass_t3" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_5_raised_plumed" />
+  <SharedItem id="cilab_asset_bb_kettle_hat_3_bare" />
+  <SharedItem id="cilab_asset_bb_gambeson_tabard_2" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_1" />
+  <SharedItem id="cilab_asset_bb_jupon_short" />
+  <SharedItem id="cilab_asset_bb_plate_breastplate_mail" />
+  <SharedItem id="cilab_asset_bb_overcoat_1" />
+  <SharedItem id="cilab_asset_bb_kastenbrust_t2" />
+  <SharedItem id="cilab_asset_bb_bascinet_klappvisor_2_torse" />
+  <SharedItem id="cilab_asset_bb_waffenrock_plate" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_1" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_5_plumed" />
+  <SharedItem id="cilab_asset_bb_breastplate_leather" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_2_plume" />
+  <SharedItem id="cilab_asset_bb_cuirass" />
+  <SharedItem id="cilab_asset_bb_covered_cuirass_t2_tc" />
+  <SharedItem id="cilab_asset_bb_jupon_sleeved_t2" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_t2" />
+  <SharedItem id="cilab_asset_bb_bascinet_visor" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_t2_heraldry" />
+  <SharedItem id="cilab_asset_bb_kettle_2_padded" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_heraldry" />
+  <SharedItem id="cilab_asset_bb_cuirass_coat_trim" />
+  <SharedItem id="cilab_asset_bb_jupon_breastplate" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_alt" />
+  <SharedItem id="cilab_asset_bb_tabard_belt" />
+  <SharedItem id="cilab_asset_bb_dagged_hood_1_wide" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_4_torse" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_4" />
+  <SharedItem id="cilab_asset_bb_kettle_1_bare" />
+  <SharedItem id="cilab_asset_bb_greathelm_mitre" />
+  <SharedItem id="cilab_asset_bb_gambeson_tc_2" />
+  <SharedItem id="cilab_asset_bb_dagged_hood_1" />
+  <SharedItem id="cilab_asset_bb_barbute_1" />
+  <SharedItem id="cilab_asset_bb_hood_lowered_wide" />
+  <SharedItem id="cilab_asset_bb_gambeson_tabard_heraldry" />
+  <SharedItem id="cilab_asset_bb_kettle_1" />
+  <SharedItem id="cilab_asset_bb_civ_garment_1" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_1_heraldry" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_alt_heraldry" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_3" />
+  <SharedItem id="cilab_asset_bb_dagged_hood_1_wide_alt" />
+  <SharedItem id="cilab_asset_bb_tegulated_helmet_maille" />
+  <SharedItem id="cilab_asset_bb_coat_plates_t2" />
+  <SharedItem id="cilab_asset_bb_gambeson_tc" />
+  <SharedItem id="cilab_asset_bb_sugarloaf_greathelm" />
+  <SharedItem id="cilab_asset_bb_scale_cap" />
+  <SharedItem id="cilab_asset_bb_tabard_t2" />
+  <SharedItem id="cilab_asset_bb_cuirass_coat" />
+  <SharedItem id="cilab_asset_bb_bascinet_klappvisor_1" />
+  <SharedItem id="cilab_asset_bb_tabard_t3" />
+  <SharedItem id="cilab_asset_bb_coat_plates_tc" />
+  <SharedItem id="cilab_asset_bb_dagged_hood_1_alt" />
+  <SharedItem id="cilab_asset_bb_kettle_1_torse" />
+  <SharedItem id="cilab_asset_bb_cuirass_t2" />
+  <SharedItem id="cilab_asset_bb_overcoat_3" />
+  <SharedItem id="cilab_asset_bb_covered_cuirass_t2" />
+  <SharedItem id="cilab_asset_bb_kettle_1_padded" />
+  <SharedItem id="cilab_asset_bb_kettle_2_bare" />
+  <SharedItem id="cilab_asset_bb_jupon_sleeved" />
+  <SharedItem id="cilab_asset_bb_bascinet_open_2" />
+  <SharedItem id="cilab_asset_bb_civ_garment_1_alt" />
+  <SharedItem id="cilab_asset_bb_bascinet_open_1" />
+  <SharedItem id="cilab_asset_bb_cuirass_leather_t2" />
+  <SharedItem id="cilab_asset_bb_cuirass_t2_trim" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_2_gold" />
+  <SharedItem id="cilab_asset_bb_gambeson_tabard_1" />
+  <SharedItem id="cilab_asset_bb_jupon_royal" />
+  <SharedItem id="cilab_asset_bb_breastplate_leather_tc" />
+  <SharedItem id="cilab_asset_bb_covered_cuirass_t3_trim" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_5" />
+  <SharedItem id="cilab_asset_bb_kettle_2" />
+  <SharedItem id="cilab_asset_bb_tabard_t1" />
+  <SharedItem id="cilab_asset_bb_jupon_royal_2" />
+  <SharedItem id="cilab_asset_bb_bascinet_open_1_bare" />
+  <SharedItem id="cilab_asset_bb_surcoat_gambeson_t2_tc" />
+  <SharedItem id="cilab_asset_bb_overcoat_heraldry" />
+  <SharedItem id="cilab_asset_bb_cuirass_skirt" />
+  <SharedItem id="cilab_asset_bb_kastenbrust_t1" />
+  <SharedItem id="cilab_asset_bb_gambeson_breastplate" />
+  <SharedItem id="cilab_asset_bb_civ_garment_1_royal" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_5_torse" />
+  <SharedItem id="cilab_asset_bb_skullcap" />
+  <SharedItem id="cilab_asset_bb_bascinet_klappvisor_2_strapless" />
+  <SharedItem id="cilab_asset_bb_jupon_long" />
+  <SharedItem id="cilab_asset_bb_tegulated_helmet" />
+  <SharedItem id="cilab_asset_bb_kettle_hat_3_mail" />
+  <SharedItem id="cilab_asset_bb_covered_cuirass_t1" />
+  <SharedItem id="cilab_asset_bb_sugarloaf_greathelm_torse" />
+  <SharedItem id="cilab_asset_bb_bascinet_hounskull_2" />
+  <SharedItem id="cilab_asset_bb_coat_plates" />
+  <SharedItem id="cilab_asset_bb_sugarloaf_greathelm_gold_torse" />
+  <SharedItem id="cilab_asset_casco" />
+  <SharedItem id="cilab_asset_cts_spanish_armor_tier5_2" />
+  <SharedItem id="cilab_asset_cts_spanish_kinguard_shoulder" />
+  <SharedItem id="cilab_asset_cts_spanish_kinguard_cape_ci_prueba" />
+  <SharedItem id="cilab_asset_snipercasco" />
+  <Item id="cilab_asset_host_chest_armor" color1="FF050505" color2="FFBDBDBD" clan="VSC" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_w" />
+  <SharedItem id="cilab_asset_tv_aserai_lord_helmet_h" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_v2" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_y2" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_a" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_l" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_y" />
+  <SharedItem id="cilab_asset_tv_aserai_helmet_x" />
+  <SharedItem id="cilab_asset_norsehelm" />
+</ItemColors>

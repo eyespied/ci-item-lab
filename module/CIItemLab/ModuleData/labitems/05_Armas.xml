@@ -1,0 +1,704 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_ci_flail" name="[Mace | CI] Spiked Flail [ci_flail]" is_merchandise="false" body_name="bo_mace_a" holster_body_name="bo_axe_short" skeleton_name="flail_skeleton" recalculate_body="true" mesh="flail_a" holster_mesh_with_weapon="flail_a_holster_2" culture="Culture.empire" value="4" weight="4.0" Type="OneHandedWeapon" item_holsters="mace_right_hip" holster_position_shift="0.15,0.0,-0.35">
+    <ItemComponent>
+      <Weapon weapon_class="Mace" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="120" swing_damage="12" swing_damage_type="Blunt" item_usage="flail_block_shield_swing" physics_material="metal_weapon">
+        <WeaponFlags CanKnockDown="true" BonusAgainstShield="true" MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_ci_flail_b" name="[Mace | CI] War Flail [ci_flail_b]" is_merchandise="false" body_name="bo_mace_a" skeleton_name="flail_skeleton" recalculate_body="true" mesh="flail_b" holster_mesh_with_weapon="flail_b_holster_2" culture="Culture.empire" value="4" weight="4.0" Type="OneHandedWeapon" item_holsters="mace_right_hip" holster_position_shift="0.15,0.0,-0.35">
+    <ItemComponent>
+      <Weapon weapon_class="Mace" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="120" swing_damage="12" swing_damage_type="Blunt" item_usage="flail_block_shield_swing" physics_material="metal_weapon">
+        <WeaponFlags CanKnockDown="true" BonusAgainstShield="true" MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_noble_long_bow" name="[Bow | CI] Long Bow [noble_long_bow]" body_name="bo_composite_shotbow_h" mesh="longbow_j" culture="Culture.empire" value="1" is_merchandise="false" weight="1.0" difficulty="0" Type="Bow" item_holsters="bow_hip:bow_hip_2:bow_back:bow_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="90" speed_rating="91" missile_speed="85" weapon_length="118" accuracy="98" thrust_damage="60" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <CraftedItem id="cilab_ci_shishpar_mace_t4" name="[Mace | CI] Iberian king 'special' Mace [ci_shishpar_mace_t4]" crafting_template="cilab_ResMace" culture="Culture.empire" modifier_group="mace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_mace_head_21" Type="Blade" />
+      <Piece id="cilab_mace_handle_10" Type="Handle" />
+      <Piece id="cilab_spear_pommel_5" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_EspadaCeremonial" name="[Sword | CI] Durendal [EspadaCeremonial]" crafting_template="cilab_recipe_template_TwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_vlandian_blade_5" Type="Blade" scale_factor="105" />
+      <Piece id="cilab_empire_guard_5" Type="Guard" scale_factor="98" />
+      <Piece id="cilab_vlandian_grip_7" Type="Handle" scale_factor="106" />
+      <Piece id="cilab_battania_pommel_3" Type="Pommel" scale_factor="95" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_EspadaDralion" name="[Sword | CI] Rompecorazones [EspadaDralion]" crafting_template="cilab_recipe_template_OneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_sturgian_noble_blade_5" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_vlandian_guard_3" Type="Guard" scale_factor="99" />
+      <Piece id="cilab_vlandian_grip_20" Type="Handle" />
+      <Piece id="cilab_battania_pommel_1" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_jackhline_sword" name="[Sword | CI] Espada Jackhline [ci_jackhline_sword]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_battania_noble_blade_1" Type="Blade" scale_factor="105" />
+      <Piece id="cilab_ci_empire_noble_guard_4" Type="Guard" />
+      <Piece id="cilab_ci_sturgian_noble_grip_4" Type="Handle" />
+      <Piece id="cilab_ci_vlandian_noble_pommel_4" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_alaric_sword" name="[Sword | CI] Alaric's sword [ci_alaric_sword]" crafting_template="cilab_ResOneHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_khuzait_noble_blade_1" Type="Blade" scale_factor="105" />
+      <Piece id="cilab_ci_khuzait_noble_guard_2" Type="Guard" scale_factor="90" />
+      <Piece id="cilab_ci_vlandian_noble_grip_4" Type="Handle" scale_factor="90" />
+      <Piece id="cilab_ci_khuzait_noble_pommel_2" Type="Pommel" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_Daga_Dralion" name="[Dagger | CI] Garra De Ninfa [Daga_Dralion]" crafting_template="cilab_recipe_template_Dagger" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_dagger_blade_6" Type="Blade" />
+      <Piece id="cilab_battania_dagger_guard_9" Type="Guard" />
+      <Piece id="cilab_vlandian_grip_4" Type="Handle" />
+      <Piece id="cilab_khuzait_pommel_7" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_vlandian_long_sword" name="[Sword | CI] Long Sword [ci_vlandian_long_sword]" crafting_template="cilab_ResOneHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_vlandian_long_sword_blade" Type="Blade" scale_factor="102" />
+      <Piece id="cilab_mp_vlandian_long_sword_guard" Type="Guard" />
+      <Piece id="cilab_mp_vlandian_long_sword_grip" Type="Handle" scale_factor="90" />
+      <Piece id="cilab_mp_vlandian_long_sword_pommel" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_western_long_spear" name="[Polearm | CI] Western Long Spear [ci_western_long_spear]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_western_long_spear_blade" Type="Blade" />
+      <Piece id="cilab_mp_spear_guard_6" Type="Guard" />
+      <Piece id="cilab_mp_western_long_spear_handle" Type="Handle" scale_factor="102" />
+      <Piece id="cilab_mp_spear_pommel_7" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_Espada_corta" name="[Sword | CI] Short Sword [Espada_corta]" crafting_template="cilab_recipe_template_OneHandedSword" modifier_group="sword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_sturgian_blade_9" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_vlandian_guard_2" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_vlandian_grip_23" Type="Handle" scale_factor="100" />
+      <Piece id="cilab_vlandian_pommel_8" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_Espada_Bastarda" name="[Sword | CI] Bastard Two Handed Sword [Espada_Bastarda]" crafting_template="cilab_recipe_template_TwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_vlandian_blade_2" Type="Blade" scale_factor="105" />
+      <Piece id="cilab_cleaver_guard_1" Type="Guard" />
+      <Piece id="cilab_cleaver_grip_8" Type="Handle" />
+      <Piece id="cilab_khuzait_pommel_2" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_thamaskene_pike_t4" name="[Weapon | CI] Thamaskene Pike [thamaskene_pike_t4]" crafting_template="cilab_recipe_template_Pike" modifier_group="polearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_spear_blade_41" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_spear_handle_7" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_javalina" name="[Throwing | CI] Simple Javelin [javalina]" crafting_template="cilab_ResJavelin" modifier_group="spear_dart_throwing" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_spear_blade_15" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_default_polearm_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_spear_handle_2" Type="Handle" scale_factor="100" />
+      <Piece id="cilab_default_polearm_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_maza_dos_manos" name="[Mace | CI] Mazón [maza_dos_manos]" crafting_template="cilab_recipe_template_TwoHandedMace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_mace_head_31" Type="Blade" />
+      <Piece id="cilab_mace_handle_18" Type="Handle" scale_factor="90" />
+      <Piece id="cilab_default_polearm_pommel" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_vlandian_mace" name="[Mace | CI] Vlandian Mace [ci_vlandian_mace]" crafting_template="cilab_recipe_template_Mace" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_vlandian_mace_head" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_mp_vlandia_mace_handle" Type="Handle" scale_factor="104" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_mp_vlandian_mace_cab" name="[Mace | CI] Maza Caballería [mp_vlandian_mace_cab]" crafting_template="cilab_recipe_template_Mace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_mace_head_15" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_mace_handle_15" Type="Handle" scale_factor="104" />
+      <Piece id="cilab_spear_pommel_9" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_mp_vlandian_axe" name="[Axe | CI] Vlandian Axe [mp_vlandian_axe]" crafting_template="cilab_recipe_template_OneHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_vlandian_axe_head" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_mp_empire_axe_handle" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_empire_heavy_axe" name="[Axe | CI] Imperial Heavy Axe [ci_empire_heavy_axe]" crafting_template="cilab_ResOneHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_empire_heavy_axe_head" Type="Blade" scale_factor="92" />
+      <Piece id="cilab_mp_empire_heavy_axe_handle" Type="Handle" scale_factor="117" />
+      <Piece id="cilab_mp_spear_pommel_8" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_lanza_caballeria_ligera" name="[Polearm | CI] Light Cavalry Lance [lanza_caballeria_ligera]" crafting_template="cilab_recipe_template_TwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_spear_blade_11" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_spear_handle_22" Type="Handle" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sturgia_long_twohanded_axe" name="[Axe | CI] Long Twohanded Axe [ci_sturgia_long_twohanded_axe]" crafting_template="cilab_ResTwoHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_sturgia_long_2haxe_head" Type="Blade" />
+      <Piece id="cilab_ci_sturgia_long_2haxe_handle" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sturgeonlance" name="[Polearm | CI] Sturgeon Lance [ci_sturgeonlance]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_sturgeonlance_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_siraleckslance" name="[Polearm | CI] Sir Alecks Lance [ci_siraleckslance]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_siraleckslance_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_basiclancecastille" name="[Polearm | CI] Basic Lance Castille [ci_basiclancecastille]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_basiclancecastille_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_basiclancegibraltar" name="[Polearm | CI] Basic Lance Gibraltar [ci_basiclancegibraltar]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_basiclancegibraltar_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_basiclanceroyalline" name="[Polearm | CI] Basic Lance Royal Line [ci_basiclanceroyalline]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_basiclanceroyalline_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_basiclancesantiago" name="[Polearm | CI] Basic Lance Santiago [ci_basiclancesantiago]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_basiclancesantiago_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_basiclancetoledo" name="[Polearm | CI] Basic Lance Toledo [ci_basiclancetoledo]" culture="Culture.empire" crafting_template="cilab_B2_OnePieceJoustingLance" value="1" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_basiclancetoledo_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_Maza_zurco" name="[Mace | CI] Constructora  [Maza_zurco]" crafting_template="cilab_ResMace" culture="Culture.empire" modifier_group="mace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_blacksmith_hammer_tip_1" Type="Blade" />
+      <Piece id="cilab_mace_handle_15" Type="Handle" scale_factor="104" />
+      <Piece id="cilab_spear_pommel_12" Type="Pommel" scale_factor="103" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_EspadaCeremonialAloevera" name="[Sword | CI] Espada ceremonias [EspadaCeremonialAloevera]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_aloevera_blade" Type="Blade" scale_factor="135" />
+      <Piece id="cilab_aloevera_guard_low" Type="Guard" scale_factor="110" />
+      <Piece id="cilab_aloevera_grip" Type="Handle" scale_factor="150" />
+      <Piece id="cilab_aloeavera_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_espadon_guardia_real" name="[Sword | CI] Espadón Guardia Real [ci_espadon_guardia_real]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_espada_gr_blade" Type="Blade" scale_factor="120" />
+      <Piece id="cilab_espada_gr_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_espada_gr_grip" Type="Handle" scale_factor="180" />
+      <Piece id="cilab_espada_gr_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_reliquia_guardia_real" name="[Sword | CI] Reliquia Guardia Real [ci_reliquia_guardia_real]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_reliquia_gr_blade" Type="Blade" scale_factor="118" />
+      <Piece id="cilab_reliquia_gr_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_reliquia_gr_grip" Type="Handle" scale_factor="170" />
+      <Piece id="cilab_reliquia_gr_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_santiago_sword" name="[Sword | CI] Espada Santiago [santiago_sword]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_santiago_blade" Type="Blade" scale_factor="102" />
+      <Piece id="cilab_santiago_guard" Type="Guard" />
+      <Piece id="cilab_santiago_grip" Type="Handle" />
+      <Piece id="cilab_santiago_pommel" Type="Pommel" scale_factor="106" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_toledo_inf_sword" name="[Sword | CI] Espada Toledo Two Handed [toledo_inf_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_toledo_inf_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_toledo_inf_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_toledo_inf_grip" Type="Handle" scale_factor="120" />
+      <Piece id="cilab_toledo_inf_pommel" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_toledo_officer_sword" name="[Sword | CI] Espada Toledo Two Handed [toledo_officer_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_toledo_officer_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_toledo_officer_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_toledo_officer_grip" Type="Handle" scale_factor="120" />
+      <Piece id="cilab_toledo_officer_pommel" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_omey_scimitar" name="[Sword | CI] Cimitarra Omeya [omey_scimitar]" crafting_template="cilab_ResOneHandedSword" culture="Culture.empire" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_omeyofi_blade" Type="Blade" scale_factor="101" />
+      <Piece id="cilab_omey_guard" Type="Guard" />
+      <Piece id="cilab_omey_grip" Type="Handle" scale_factor="106" />
+      <Piece id="cilab_omey_pommel" Type="Pommel" scale_factor="102" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_omey_scimitar_elite" name="[Sword | CI] Cimitarra Elite Omeya [omey_scimitar_elite]" crafting_template="cilab_ResOneHandedSword" culture="Culture.empire" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_omeyofi_blade" Type="Blade" scale_factor="101" />
+      <Piece id="cilab_omeyofi_guard" Type="Guard" />
+      <Piece id="cilab_omey_grip" Type="Handle" scale_factor="106" />
+      <Piece id="cilab_omeyofi_pommel" Type="Pommel" scale_factor="102" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_lanza_caballeria_ligera_banner" name="[Polearm | CI] Light Cavalry Lance with banner [lanza_caballeria_ligera_banner]" crafting_template="cilab_ResTwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_spear_blade_11" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_spear_handle_22_banner" Type="Handle" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sturgia_lance_2_banner" name="[Polearm | CI] Sturgian Lance with banner [ci_sturgia_lance_2_banner]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_sturgia_lance_blade" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_ci_sturgia_lance_handle_banner" Type="Handle" scale_factor="107" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_warhammer_real" name="[Mace | CI] Martillo de guerra [ci_warhammer_real]" crafting_template="cilab_ResMace" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_warhammerreal_full" scale_factor="135" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_wp_polehammer" name="[Polearm | CI] Polehammer [ci_wp_polehammer]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_wp_polehammer_blade" Type="Blade" />
+      <Piece id="cilab_ci_wp_polearm_handle" Type="Handle" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_wp_poleaxe" name="[Polearm | CI] Poleaxe [ci_wp_poleaxe]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_wp_poleaxe_blade" Type="Blade" />
+      <Piece id="cilab_ci_wp_polearm_handle" Type="Handle" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_wp_alabarda_toledo" name="[Polearm | CI] Alabarda Toledo [ci_wp_alabarda_toledo]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_alabarda_toledo_blade" Type="Blade" />
+      <Piece id="cilab_ci_alabarda_toledo_handle" Type="Handle" />
+    </Pieces>
+  </CraftedItem>
+  <Item id="cilab_handgonne_ammo" name="[Bolts | CI] Handgonne ammo [handgonne_ammo]" body_name="bo_capsule_bolt" holster_body_name="bo_axe_short" flying_mesh="torch_flame_base" mesh="torch_flame_base" holster_mesh="stone_holster" holster_mesh_with_weapon="stone_holster" weight="0.3" appearance="1.0" Type="Bolts" item_holsters="throwing_stone:throwing_stone_2" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="Bolt" stack_amount="4" thrust_speed="0" speed_rating="1" missile_speed="10" accuracy="1" thrust_damage="48" thrust_damage_type="Pierce" weapon_length="1" item_usage="" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.37,0" sticking_rotation="90,0,0" trail_particle_name="smoke_handcannon_27_psys" passby_sound_code="event:/mission/combat/missile/passby" center_of_mass="0,0,0" modifier_group="bolt">
+        <WeaponFlags Consumable="true" BonusAgainstShield="true" AmmoSticksWhenShot="false" AmmoBreaksOnBounceBack="true" AttachAmmoToVisual="true" CanPenetrateShield="true" LeavesTrail="false" Burning="true" CanDismount="true" CanKnockDown="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cilab_ci_handgonne" name="[Crossbow | CI] Handgonne [ci_handgonne]" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="tronco" weight="4.0" appearance="1" difficulty="0" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="cla_firearms:cla_firearms2" holster_position_shift="0.02,0,-0.4" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="121" accuracy="1" thrust_damage="141" thrust_speed="40" speed_rating="1" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4">
+        <WeaponFlags RangedWeapon="true" BonusAgainstShield="true" AmmoSticksWhenShot="false" CanPenetrateShield="true" AttachAmmoToVisual="false" HasString="true" Burning="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <CraftedItem id="cilab_sushe_2h_sword" name="[Sword | CI] Shushe's Sword [sushe_2h_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_vinces_blade" Type="Blade" scale_factor="120" />
+      <Piece id="cilab_vinces_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_vinces_grip" Type="Handle" scale_factor="120" />
+      <Piece id="cilab_vinces_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_maza_santiago_dorada" name="[Mace | CI] Maza Santiago dorada [maza_santiago_dorada]" crafting_template="cilab_ResMace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_maza_santiago_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_maza_santiago_handle" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_maza_santiago_oscura" name="[Mace | CI] Maza Santiago oscura [maza_santiago_oscura]" crafting_template="cilab_ResMace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_maza_santiago_oscura_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_maza_santiago_oscura_handle" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <Item id="cilab_ci_arrows_steppe_strong" name="[Arrows | CI] Heavy Khuzait Arrow [ci_arrows_steppe_strong]" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="arrow_bl_e" value="1" is_merchandise="false" culture="Culture.khuzait" weight="0.06" appearance="1" flying_mesh="arrow_bl_flying" holster_mesh="arrow_bl_e_quiver" holster_mesh_with_weapon="arrow_bl_e_quiver" Type="Arrows" item_holsters="quiver_back_lower:quiver_back_lower_2" holster_position_shift="0.0,0.0,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow" stack_amount="40" thrust_speed="0" speed_rating="0" physics_material="missile" missile_speed="10" weapon_length="97" thrust_damage="4" thrust_damage_type="Pierce" item_usage="arrow_right" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="-0.00,0.05,-0.00" modifier_group="arrow">
+        <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_ci_heavier_crossbow_faster_draw" name="[Crossbow | CI] Heavy Crossbow [ci_heavier_crossbow_faster_draw]" body_name="bo_cross_bow_heavy" mesh="crossbow_b" culture="Culture.empire" value="1" is_merchandise="false" weight="2.7" difficulty="0" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.24975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+    <ItemComponent>
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="110" accuracy="99" thrust_damage="82" thrust_speed="80" speed_rating="61" weapon_length="95" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4">
+        <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
+      </Weapon>
+    </ItemComponent>
+  </Item>
+  <Item id="cilab_ci_bolts_western" name="[Bolts | CI] Bolt [ci_bolts_western]" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_c" value="1" is_merchandise="false" holster_mesh="bolt_bl_c_quiver" holster_mesh_with_weapon="bolt_bl_c_quiver" flying_mesh="bolt_bl_flying" weight="0.05" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+    <ItemComponent>
+      <Weapon weapon_class="Bolt" stack_amount="30" thrust_speed="0" thrust_damage_type="Pierce" thrust_damage="0" speed_rating="0" missile_speed="10" weapon_length="37" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.37,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
+        <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <CraftedItem id="cilab_ci_wooden_sword_t1" name="[Sword | CI] Espada de entrenamiento [ci_wooden_sword_t1]" is_merchandise="false" crafting_template="cilab_ResOneHandedSword" has_modifier="false">
+    <Pieces>
+      <Piece id="cilab_ci_wood_blade_1" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_wood_guard_1" Type="Guard" />
+      <Piece id="cilab_ci_wood_grip_1" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_ci_wood_pommel_1" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_corazon_elena" name="[Sword | CI] Corazon de Elena [ci_corazon_elena]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_vlandian_noble_blade_8" Type="Blade" scale_factor="95" />
+      <Piece id="cilab_ci_empire_noble_guard_4" Type="Guard" scale_factor="95" />
+      <Piece id="cilab_ci_sturgian_noble_grip_4" Type="Handle" />
+      <Piece id="cilab_ci_empire_noble_pommel_4" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sword_kenny_royalGuard" name="[Sword | CI] Kenny's Royal Guard Sword [ci_sword_kenny_royalGuard]" crafting_template="cilab_ResOneHandedSword" culture="Culture.empire" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_aserai_noble_blade_6" Type="Blade" scale_factor="104" />
+      <Piece id="cilab_ci_khuzait_noble_guard_2" Type="Guard" scale_factor="90" />
+      <Piece id="cilab_ci_sturgian_noble_grip_2" Type="Handle" scale_factor="90" />
+      <Piece id="cilab_ci_khuzait_noble_pommel_2" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_espada_lineareal1" name="[Sword | CI] Bracamarte leva real [ci_espada_lineareal1]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_espada_lineareal1_blade" Type="Blade" scale_factor="88" />
+      <Piece id="cilab_ci_espada_lineareal1_guard" Type="Guard" />
+      <Piece id="cilab_ci_espada_lineareal1_grip" Type="Handle" />
+      <Piece id="cilab_ci_espada_lineareal1_pommel" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_espada_lineareal2" name="[Sword | CI] Bracamarte soldado real [ci_espada_lineareal2]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_espada_lineareal2_blade" Type="Blade" scale_factor="88" />
+      <Piece id="cilab_ci_espada_lineareal2_guard" Type="Guard" />
+      <Piece id="cilab_ci_espada_lineareal2_grip" Type="Handle" />
+      <Piece id="cilab_ci_espada_lineareal2_pommel" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_espada_lineareal3" name="[Sword | CI] Bracamarte oficial real [ci_espada_lineareal3]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_espada_lineareal3_blade" Type="Blade" scale_factor="88" />
+      <Piece id="cilab_ci_espada_lineareal3_guard" Type="Guard" />
+      <Piece id="cilab_ci_espada_lineareal3_grip" Type="Handle" />
+      <Piece id="cilab_ci_espada_lineareal3_pommel" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_messer" name="[Sword | CI] Cuchillo de guerra [ci_messer]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_messer_blade" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_ci_messer_guard" Type="Guard" />
+      <Piece id="cilab_ci_messer_grip" Type="Handle" scale_factor="140" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_warhammer_veterano_real" name="[Mace | CI] Pico de veterano [ci_warhammer_veterano_real]" crafting_template="cilab_ResMace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_warhammereal_blade" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_ci_warhammereal_handle" Type="Handle" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_morningstar_blade" name="[Mace | CI] Morningstar [ci_morningstar_blade]" crafting_template="cilab_ResMace" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_morningstar_blade" Type="Blade" scale_factor="100" />
+      <Piece id="cilab_ci_morningstar_handle" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_gibraltar_sword" name="[Sword | CI] Gibraltar sabre [ci_gibraltar_sword]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_gibraltar_sword_blade" Type="Blade" scale_factor="84" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_knight_billhook" name="[Polearm | CI] Billhook [ci_knight_billhook]" crafting_template="cilab_ResTwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_knight_billhook_blade" Type="Blade" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_knight_billhook_long" name="[Polearm | CI] Long Billhook [ci_knight_billhook_long]" crafting_template="cilab_ResTwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_knight_billhook_long_blade" Type="Blade" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_knight_claymore" name="[Sword | CI] Claymore [ci_knight_claymore]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_knight_claymore_blade" Type="Blade" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <Item id="cilab_ci_mangonel_spawner" name="[Throwing | CI] Mangonel [ci_mangonel_spawner]" is_merchandise="false" body_name="bo_box_a" holster_body_name="bo_axe_short" mesh="box_a" holster_mesh="" subtype="arrows" value="1" weight="30" difficulty="0" appearance="0.5" Type="Thrown" item_holsters="">
+    <ItemComponent>
+      <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="box_a" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="2" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="false" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="false" />
+      </Weapon>
+    </ItemComponent>
+    <Flags QuickFadeOut="false" CannotBePickedUp="false" DropOnWeaponChange="true" DropOnAnyAction="true" />
+  </Item>
+  <Item id="cilab_ci_mangonel_rock_pile_spawner" name="[Throwing | CI] Rock pile [ci_mangonel_rock_pile_spawner]" is_merchandise="false" body_name="bo_box_a" holster_body_name="bo_axe_short" mesh="mangonel_rock_pile_small" holster_mesh="" subtype="arrows" value="1" weight="10" difficulty="0" appearance="0.5" Type="Thrown" item_holsters="">
+    <ItemComponent>
+      <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="box_a" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="2" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="false" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="false" />
+      </Weapon>
+    </ItemComponent>
+    <Flags QuickFadeOut="false" CannotBePickedUp="false" DropOnWeaponChange="true" DropOnAnyAction="true" />
+  </Item>
+  <Item id="cilab_ci_mangonel_pot_pile_spawner" name="[Throwing | CI] Pots pile [ci_mangonel_pot_pile_spawner]" is_merchandise="false" body_name="bo_box_a" holster_body_name="bo_axe_short" mesh="mangonel_pot_pile_small" holster_mesh="" subtype="arrows" value="1" weight="10" difficulty="0" appearance="0.5" Type="Thrown" item_holsters="">
+    <ItemComponent>
+      <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="box_a" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="2" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="false" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="false" />
+      </Weapon>
+    </ItemComponent>
+    <Flags QuickFadeOut="false" CannotBePickedUp="false" DropOnWeaponChange="true" DropOnAnyAction="true" />
+  </Item>
+  <Item id="cilab_ci_mangonel_grapeshot_fire_pile_spawner" name="[Throwing | CI] Fire grapeshot pile [ci_mangonel_grapeshot_fire_pile_spawner]" is_merchandise="false" body_name="bo_box_a" holster_body_name="bo_axe_short" mesh="grapeshot_pile_fire" holster_mesh="" subtype="arrows" value="1" weight="10" difficulty="0" appearance="0.5" Type="Thrown" item_holsters="">
+    <ItemComponent>
+      <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="box_a" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="2" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="false" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="false" />
+      </Weapon>
+    </ItemComponent>
+    <Flags QuickFadeOut="false" CannotBePickedUp="false" DropOnWeaponChange="true" DropOnAnyAction="true" />
+  </Item>
+  <Item id="cilab_ci_mangonel_grapeshot_pile_spawner" name="[Throwing | CI] Grapeshot pile [ci_mangonel_grapeshot_pile_spawner]" is_merchandise="false" body_name="bo_box_a" holster_body_name="bo_axe_short" mesh="grapeshot_pile" holster_mesh="" subtype="arrows" value="1" weight="10" difficulty="0" appearance="0.5" Type="Thrown" item_holsters="">
+    <ItemComponent>
+      <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="box_a" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="2" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="false" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="false" />
+      </Weapon>
+    </ItemComponent>
+    <Flags QuickFadeOut="false" CannotBePickedUp="false" DropOnWeaponChange="true" DropOnAnyAction="true" />
+  </Item>
+  <CraftedItem id="cilab_ci_gibraltar_axe" name="[Axe | CI] Gibraltar Axe [ci_gibraltar_axe]" crafting_template="cilab_ResOneHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_gibraltar_axe_full" Type="Blade" scale_factor="105" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_santiago_halberd" name="[Polearm | CI] La Redentora [ci_santiago_halberd]" crafting_template="cilab_ResTwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_santiago_halberd_full" Type="Blade" scale_factor="95" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_santiago_axe" name="[Axe | CI] Hacha Santiago [ci_santiago_axe]" crafting_template="cilab_ResOneHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_santiago_axe_blade" scale_factor="70" Type="Blade" />
+      <Piece id="cilab_ci_santiago_axe_handle" scale_factor="80" Type="Handle" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_slim_2h_axe" name="[Axe | CI] Double-bit Axe [ci_slim_2h_axe]" crafting_template="cilab_ResTwoHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_slim_2h_axe_full" Type="Blade" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_gyro_falchion" name="[Sword | CI] Antagonista [ci_gyro_falchion]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_cleaver_blade_6" Type="Blade" />
+      <Piece id="cilab_ci_empire_noble_guard_1" Type="Guard" />
+      <Piece id="cilab_ci_empire_grip_1" Type="Handle" />
+      <Piece id="cilab_ci_cleaver_pommel_2" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_kevfz_sword" name="[Sword | CI] Kevfz Sword [ci_kevfz_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_kevfz_sword" Type="Blade" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sword_dukesscotty_gibraltar" name="[Sword | CI] Scotty's great sword [ci_sword_dukesscotty_gibraltar]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_sword_dukesscotty_gibraltar_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_sword_dukesscotty_gibraltar_guard" Type="Guard" />
+      <Piece id="cilab_ci_sword_dukesscotty_gibraltar_grip" Type="Handle" scale_factor="140" />
+      <Piece id="cilab_ci_sword_dukesscotty_gibraltar_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sword_dukesturgeon_castile" name="[Sword | CI] Witch's wings [ci_sword_dukesturgeon_castile]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_sword_dukesturgeon_castile_blade" Type="Blade" scale_factor="115" />
+      <Piece id="cilab_ci_sword_dukesturgeon_castile_guard" Type="Guard" />
+      <Piece id="cilab_ci_sword_dukesturgeon_castile_grip" Type="Handle" scale_factor="160" />
+      <Piece id="cilab_ci_sword_dukesturgeon_castile_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sword_hugoboss_castile" name="[Sword | CI] Hugoboss sword [ci_sword_hugoboss_castile]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_cts_sword_hugo_blade" Type="Blade" scale_factor="130" />
+      <Piece id="cilab_ci_cts_sword_hugo_guard" Type="Guard" />
+      <Piece id="cilab_ci_cts_sword_hugo_grip" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_ci_cts_sword_hugo_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_omey_spear" name="[Polearm | CI] Lansa [ci_omey_spear]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_omey_spear_1_blade" Type="Blade" />
+      <Piece id="cilab_ci_omey_spear_1_handle" Type="Handle" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_toledo_sword" name="[Sword | CI] Toledo sword [ci_toledo_sword]" crafting_template="cilab_ResOneHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_toledo_sword_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_aquilax_sword" name="[Sword | CI] Minaya [ci_aquilax_sword]" crafting_template="cilab_ResOneHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_aquilax_sword_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_camarada_sword" name="[Sword | CI] Camarada Great Sword [ci_camarada_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_camarada_sword_full" scale_factor="105" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_castille_choppa" name="[Sword | CI] Choppa sword [ci_castille_choppa]" crafting_template="cilab_ResOneHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_castille_choppa_full" Type="Blade" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_axe_castille" name="[Axe | CI] Line breaker axe [ci_axe_castille]" crafting_template="cilab_ResTwoHandedAxe" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_cts_axe_spanish" Type="Blade" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_cst_sword_spanish_rose" name="[Sword | CI] castile arming sword [ci_cst_sword_spanish_rose]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_cts_sword_spanish_rose_blade" Type="Blade" scale_factor="130" />
+      <Piece id="cilab_ci_cts_sword_spanish_rose_guard" Type="Guard" />
+      <Piece id="cilab_ci_cts_sword_spanish_rose_grip" Type="Handle" scale_factor="120" />
+      <Piece id="cilab_ci_cts_sword_spanish_rose_pommel" Type="Pommel" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_amyellie_sword" name="[Sword | CI] Zireael [ci_amyellie_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_amyellie_sword_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_amyellie_sword_guard" Type="Guard" scale_factor="110" />
+      <Piece id="cilab_ci_amyellie_sword_grip" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_ci_amyellie_sword_pommel" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_2h_sword_santiago" name="[Sword | CI] Santiago's Great Sword [ci_2h_sword_santiago]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_2h_sword_santiago_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_2h_sword_santiago_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_ci_2h_sword_santiago_grip" Type="Handle" scale_factor="115" />
+      <Piece id="cilab_ci_2h_sword_santiago_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_arma_juvens" name="[Mace | CI] The Cursed Fist [ci_arma_juvens]" crafting_template="cilab_ResMace" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_arma_juvens_blade" Type="Blade" scale_factor="93" />
+      <Piece id="cilab_ci_arma_juvens_handle" Type="Handle" scale_factor="93" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_aserai_two_handed_sword" name="[Sword | CI] Aserai Two Handed Sword [ci_aserai_two_handed_sword]" crafting_template="cilab_recipe_template_TwoHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_aserai_two_handed_sword_blade" Type="Blade" scale_factor="95" />
+      <Piece id="cilab_mp_aserai_two_handed_sword_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_mp_aserai_two_handed_sword_grip" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_mp_empire_pommel_2" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_vlandian_noble_two_handed_sword" name="[Sword | CI] Noble Great Sword [ci_vlandian_noble_two_handed_sword]" crafting_template="cilab_recipe_template_TwoHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_mp_vlandian_noble_two_handed_sword_blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_mp_vlandian_noble_two_handed_sword_guard" Type="Guard" scale_factor="100" />
+      <Piece id="cilab_mp_vlandian_noble_two_handed_sword_grip" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_mp_vlandian_noble_two_handed_sword_pommel" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_navarra_greatsword" name="[Sword | CI] Navarre Greatsword [ci_navarra_greatsword]" crafting_template="cilab_ResTwoHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_2h_navarra_blade" Type="Blade" scale_factor="103" />
+      <Piece id="cilab_ci_2h_navarra_guard" Type="Guard" />
+      <Piece id="cilab_ci_2h_navarra_grip" Type="Handle" />
+      <Piece id="cilab_ci_2h_navarra_pommel" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_navarra_greatsword_champion" name="[Sword | CI] Azken Arnasa [ci_navarra_greatsword_champion]" crafting_template="cilab_ResTwoHandedSword" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_2h_navarra_blade_champion" Type="Blade" scale_factor="103" />
+      <Piece id="cilab_ci_2h_navarra_guard_champion" Type="Guard" />
+      <Piece id="cilab_ci_2h_navarra_grip_champion" Type="Handle" />
+      <Piece id="cilab_ci_2h_navarra_pommel_champion" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_zweihander" name="[Sword | CI] Zweihander [ci_zweihander]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_zw_Champion_Zweihander_Blade" Type="Blade" scale_factor="105" />
+      <Piece id="cilab_zw_Champion_Zweihander_Guard" Type="Guard" />
+      <Piece id="cilab_zw_Champion_Zweihander_Handle" Type="Handle" scale_factor="105" />
+      <Piece id="cilab_zw_Champion_Zweihander_Pommel" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_2h_falchion_espaderos_reales" name="[Sword | CI] Bracamarte a dos manos Espaderos Reales [ci_2h_falchion_espaderos_reales]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_zw_Katzbalger_Blade" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_zw_Lord_Zweihander_Guard" Type="Guard" />
+      <Piece id="cilab_zw_Simple_Zweihander_Handle" Type="Handle" scale_factor="90" />
+      <Piece id="cilab_zw_Knight_Zweihander_Pommel" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_2h_falchion_oficiales_reales" name="[Sword | CI] Bracamarte a dos manos Oficiales Reales [ci_2h_falchion_oficiales_reales]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_zw_Katzbalger_Blade" Type="Blade" scale_factor="120" />
+      <Piece id="cilab_zw_Lord_Zweihander_Guard" Type="Guard" />
+      <Piece id="cilab_zw_Champion_Zweihander_Handle" Type="Handle" />
+      <Piece id="cilab_zw_Knight_Zweihander_Pommel" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_azuki_sword" name="[Sword | CI] Azuki sword [ci_azuki_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_sturgian_blade_14" Type="Blade" scale_factor="140" />
+      <Piece id="cilab_ci_cleaver_guard_3" Type="Guard" scale_factor="90" />
+      <Piece id="cilab_ci_khuzait_grip_13" Type="Handle" scale_factor="115" />
+      <Piece id="cilab_ci_khuzait_pommel_1" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_vesk_two_handed_polearm" name="[Polearm | CI] Vesk's glaive [ci_vesk_two_handed_polearm]" crafting_template="cilab_ResTwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_spear_blade_19" Type="Blade" scale_factor="99" />
+      <Piece id="cilab_ci_spear_guard_11" Type="Guard" scale_factor="95" />
+      <Piece id="cilab_ci_spear_handle_18" Type="Handle" scale_factor="99" />
+      <Piece id="cilab_ci_spear_pommel_9" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_sister_luisa_2h_sword" name="[Sword | CI] Rosa del león [ci_sister_luisa_2h_sword]" crafting_template="cilab_ResTwoHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_sturgian_blade_8" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_battania_guard_9" Type="Guard" scale_factor="110" />
+      <Piece id="cilab_ci_aserai_grip_13" Type="Handle" scale_factor="99" />
+      <Piece id="cilab_ci_battania_pommel_8" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_alvaro_1h_sword" name="[Sword | CI] Rany [ci_alvaro_1h_sword]" crafting_template="cilab_ResOneHandedSword" is_merchandise="false">
+    <Pieces>
+      <Piece id="cilab_ci_khuzait_noble_blade_1" Type="Blade" scale_factor="110" />
+      <Piece id="cilab_ci_aserai_noble_guard_3" Type="Guard" scale_factor="110" />
+      <Piece id="cilab_ci_vlandian_grip_4" Type="Handle" scale_factor="110" />
+      <Piece id="cilab_ci_empire_noble_pommel_4" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="cilab_ci_gibraltar_trident" name="[Polearm | CI] Trident [ci_gibraltar_trident]" crafting_template="cilab_ResTwoHandedPolearm" value="1" is_merchandise="false" culture="Culture.empire">
+    <Pieces>
+      <Piece id="cilab_ci_gibraltar_trident_blade" Type="Blade" />
+      <Piece id="cilab_ci_gibraltar_trident_shaft" Type="Handle" scale_factor="102" />
+      <Piece id="cilab_ci_gibraltar_trident_pommel" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+</Items>

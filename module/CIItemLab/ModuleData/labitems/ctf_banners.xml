@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_ctf_banner_rojo_item" name="[Axe | ctf] Red Banner [ctf_banner_rojo_item]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="red_banner" culture="Culture.empire" value="0" weight="10" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" body_armor="25" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="0" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" UseTeamColor="true" />
+  </Item>
+  <Item id="cilab_ctf_banner_verde_item" name="[Axe | ctf] Green Banner [ctf_banner_verde_item]" is_merchandise="false" body_name="bo_mace_a" recalculate_body="false" mesh="green_banner" culture="Culture.empire" value="0" weight="10" Type="OneHandedWeapon" item_holsters="throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" body_armor="25" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="0" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" UseTeamColor="true" />
+  </Item>
+</Items>

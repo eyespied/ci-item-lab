@@ -1,0 +1,618 @@
+{
+  "name": "Civilian",
+  "saved_date": "2026-10-06",
+  "source": "Five user inventory screenshots",
+  "note": "Selection label only; does not change in-game Civilian flags. Overlapping rows deduplicated; distinct test variants retained.",
+  "count": 60,
+  "items": [
+    {
+      "id": "cilab_nv_sturgia_costume_m",
+      "original_id": "nv_sturgia_costume_m",
+      "name": "[Armor | NV] Tunic with Leather Vest [nv_sturgia_costume_m]",
+      "original_name": "Tunic with Leather Vest",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_imperial_padded_cloth",
+      "original_id": "nv_imperial_padded_cloth",
+      "name": "[Armor | NV] Infantryman Rough Gambeson [nv_imperial_padded_cloth]",
+      "original_name": "Infantryman Rough Gambeson",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_vl_aketona",
+      "original_id": "vl_aketona",
+      "name": "[Armor | VL] Half Aketon [vl_aketona]",
+      "original_name": "Half Aketon",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_long_leather_coat",
+      "original_id": "vl_long_leather_coat",
+      "name": "[Armor | VL] Long Leather Coat [vl_long_leather_coat]",
+      "original_name": "Long Leather Coat",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_merchant_windcheater",
+      "original_id": "vl_merchant_windcheater",
+      "name": "[Armor | VL] Merchant Leather Windcheater [vl_merchant_windcheater]",
+      "original_name": "Merchant Leather Windcheater",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_aketonb",
+      "original_id": "vl_aketonb",
+      "name": "[Armor | VL] Stripped Aketon [vl_aketonb]",
+      "original_name": "Stripped Aketon",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_elegant_tunic1",
+      "original_id": "vl_elegant_tunic1",
+      "name": "[Armor | VL] Elegant Tunic [vl_elegant_tunic1]",
+      "original_name": "Elegant Tunic",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_nv_gambeson_b_test",
+      "original_id": "nv_gambeson_b_test",
+      "name": "[Armor | NV] Heavy Aketon [nv_gambeson_b_test]",
+      "original_name": "Heavy Aketon",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_asset_bb_civ_garment_1_royal",
+      "original_id": "asset_bb_civ_garment_1_royal",
+      "name": "[Armor | BUA | Asset Test] bb_civ_garment_1_royal [asset_bb_civ_garment_1_royal]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_civ_garment_1_royal",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_gambeson_1",
+      "original_id": "asset_bb_gambeson_1",
+      "name": "[Armor | BUA | Asset Test] bb_gambeson_1 [asset_bb_gambeson_1]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_gambeson_1",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_gambeson_tabard_heraldry",
+      "original_id": "asset_bb_gambeson_tabard_heraldry",
+      "name": "[Armor | BUA | Asset Test] bb_gambeson_tabard_heraldry [asset_bb_gambeson_tabard_heraldry]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_gambeson_tabard_heraldry",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_jupon_sleeved_t2",
+      "original_id": "asset_bb_jupon_sleeved_t2",
+      "name": "[Armor | BUA | Asset Test] bb_jupon_sleeved_t2 [asset_bb_jupon_sleeved_t2]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_jupon_sleeved_t2",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_civ_garment_1_royal_alt",
+      "original_id": "asset_bb_civ_garment_1_royal_alt",
+      "name": "[Armor | BUA | Asset Test] bb_civ_garment_1_royal_alt [asset_bb_civ_garment_1_royal_alt]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_civ_garment_1_royal_alt",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_jupon",
+      "original_id": "asset_bb_jupon",
+      "name": "[Armor | BUA | Asset Test] bb_jupon [asset_bb_jupon]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_jupon",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_asset_bb_overcoat_heraldry",
+      "original_id": "asset_bb_overcoat_heraldry",
+      "name": "[Armor | BUA | Asset Test] bb_overcoat_heraldry [asset_bb_overcoat_heraldry]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_overcoat_heraldry",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_nv_long_hemp_tunic",
+      "original_id": "nv_long_hemp_tunic",
+      "name": "[Armor | NV] Long Hemp Tunic [nv_long_hemp_tunic]",
+      "original_name": "Long Hemp Tunic",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_sackcloth_tunic",
+      "original_id": "nv_sackcloth_tunic",
+      "name": "[Armor | NV] Sackcloth Tunic [nv_sackcloth_tunic]",
+      "original_name": "Sackcloth Tunic",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_patched_gambeson",
+      "original_id": "nv_patched_gambeson",
+      "name": "[Armor | NV] Patched Gambeson [nv_patched_gambeson]",
+      "original_name": "Patched Gambeson",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_vl_quilted_vesta",
+      "original_id": "vl_quilted_vesta",
+      "name": "[Armor | VL] Worn Checkered Quilted Vest [vl_quilted_vesta]",
+      "original_name": "Worn Checkered Quilted Vest",
+      "category": "Armor",
+      "pack": "VL",
+      "type": "BodyArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_nv_empire_fabric_armor",
+      "original_id": "nv_empire_fabric_armor",
+      "name": "[Armor | NV] Infantryman Rough Gambeson [nv_empire_fabric_armor]",
+      "original_name": "Infantryman Rough Gambeson",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_nordic_sloven_a",
+      "original_id": "nv_nordic_sloven_a",
+      "name": "[Armor | NV] Leather Tabard over Mail [nv_nordic_sloven_a]",
+      "original_name": "Leather Tabard over Mail",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_aserai_civil_a",
+      "original_id": "nv_aserai_civil_a",
+      "name": "[Armor | NV] Luxury Kaftan with Waistband [nv_aserai_civil_a]",
+      "original_name": "Luxury Kaftan with Waistband",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_asset_bb_gambeson_tabard_2",
+      "original_id": "asset_bb_gambeson_tabard_2",
+      "name": "[Armor | BUA | Asset Test] bb_gambeson_tabard_2 [asset_bb_gambeson_tabard_2]",
+      "category": "Armor",
+      "pack": "BUA",
+      "mesh": "bb_gambeson_tabard_2",
+      "type": "BodyArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_nv_desert_padded_cloth",
+      "original_id": "nv_desert_padded_cloth",
+      "name": "[Armor | NV] Light Long Padded Armor [nv_desert_padded_cloth]",
+      "original_name": "Light Long Padded Armor",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_gambeson_b",
+      "original_id": "nv_gambeson_b",
+      "name": "[Armor | NV] Heavy Aketon [nv_gambeson_b]",
+      "original_name": "Heavy Aketon",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_sturgia_costume_c",
+      "original_id": "nv_sturgia_costume_c",
+      "name": "[Armor | NV] Short Gambeson over Tunic [nv_sturgia_costume_c]",
+      "original_name": "Short Gambeson over Tunic",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_nordic_sloven_leather",
+      "original_id": "nv_nordic_sloven_leather",
+      "name": "[Armor | NV] Sloven Leather [nv_nordic_sloven_leather]",
+      "original_name": "Sloven Leather",
+      "category": "Armor",
+      "pack": "NV",
+      "type": "BodyArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_khuzait_leather_boots",
+      "original_id": "nv_khuzait_leather_boots",
+      "name": "[Boots | NV] Curved Boots [nv_khuzait_leather_boots]",
+      "original_name": "Curved Boots",
+      "category": "Boots",
+      "pack": "NV",
+      "type": "LegArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_cav_boots_test",
+      "original_id": "nv_cav_boots_test",
+      "name": "[Boots | NV] Leather Cavalier Boots [nv_cav_boots_test]",
+      "original_name": "Leather Cavalier Boots",
+      "category": "Boots",
+      "pack": "NV",
+      "type": "LegArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_vl_black_town_boots",
+      "original_id": "vl_black_town_boots",
+      "name": "[Boots | VL] Black Town Boots [vl_black_town_boots]",
+      "original_name": "Black Town Boots",
+      "category": "Boots",
+      "pack": "VL",
+      "type": "LegArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_tied_boots",
+      "original_id": "vl_tied_boots",
+      "name": "[Boots | VL] Shoes With Legwraps [vl_tied_boots]",
+      "original_name": "Shoes With Legwraps",
+      "category": "Boots",
+      "pack": "VL",
+      "type": "LegArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_ci_arq_pantalones",
+      "original_id": "ci_arq_pantalones",
+      "name": "[Boots | CI] Pantalones [ci_arq_pantalones]",
+      "original_name": "Pantalones",
+      "category": "Boots",
+      "pack": "CI",
+      "type": "LegArmor",
+      "file": "07_Botas.xml"
+    },
+    {
+      "id": "cilab_cts_spanish_leather_boots",
+      "original_id": "cts_spanish_leather_boots",
+      "name": "[Boots | CI] CI boots leather [cts_spanish_leather_boots]",
+      "original_name": "CI boots leather",
+      "category": "Boots",
+      "pack": "CI",
+      "type": "LegArmor",
+      "file": "07_Botas.xml"
+    },
+    {
+      "id": "cilab_nv_sturgia_boots_c",
+      "original_id": "nv_sturgia_boots_c",
+      "name": "[Boots | NV] Tied Boots [nv_sturgia_boots_c]",
+      "original_name": "Tied Boots",
+      "category": "Boots",
+      "pack": "NV",
+      "type": "LegArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_ragged_boots",
+      "original_id": "nv_ragged_boots",
+      "name": "[Boots | NV] Ragged Boots [nv_ragged_boots]",
+      "original_name": "Ragged Boots",
+      "category": "Boots",
+      "pack": "NV",
+      "type": "LegArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_scarf",
+      "original_id": "nv_scarf",
+      "name": "[Shoulders | NV] Scarf [nv_scarf]",
+      "original_name": "Scarf",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_vl_fur_cloakb",
+      "original_id": "vl_fur_cloakb",
+      "name": "[Shoulders | VL] Tawny Fur Cloak [vl_fur_cloakb]",
+      "original_name": "Tawny Fur Cloak",
+      "category": "Shoulders",
+      "pack": "VL",
+      "type": "Cape",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_quilted_colletinb",
+      "original_id": "vl_quilted_colletinb",
+      "name": "[Shoulders | VL] Checkered Quilted Colletin [vl_quilted_colletinb]",
+      "original_name": "Checkered Quilted Colletin",
+      "category": "Shoulders",
+      "pack": "VL",
+      "type": "Cape",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_vl_leather_colletin",
+      "original_id": "vl_leather_colletin",
+      "name": "[Shoulders | VL] Leather Colletin With Hood [vl_leather_colletin]",
+      "original_name": "Leather Colletin With Hood",
+      "category": "Shoulders",
+      "pack": "VL",
+      "type": "Cape",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_nv_female_hood",
+      "original_id": "nv_female_hood",
+      "name": "[Shoulders | NV] Cotton Hood [nv_female_hood]",
+      "original_name": "Cotton Hood",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_battania_cloak_a",
+      "original_id": "nv_battania_cloak_a",
+      "name": "[Shoulders | NV] Simple Cape [nv_battania_cloak_a]",
+      "original_name": "Simple Cape",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_os_collar_inquisidor",
+      "original_id": "os_collar_inquisidor",
+      "name": "[Shoulders | CI] Rosario [os_collar_inquisidor]",
+      "original_name": "Rosario",
+      "category": "Shoulders",
+      "pack": "CI",
+      "type": "Cape",
+      "file": "02_Hombreras.xml"
+    },
+    {
+      "id": "cilab_nv_padded_leather_shoulders",
+      "original_id": "nv_padded_leather_shoulders",
+      "name": "[Shoulders | NV] Padded Leather Shoulders [nv_padded_leather_shoulders]",
+      "original_name": "Padded Leather Shoulders",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_battania_civil_cape",
+      "original_id": "nv_battania_civil_cape",
+      "name": "[Shoulders | NV] Highland Cape [nv_battania_civil_cape]",
+      "original_name": "Highland Cape",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_vl_chaperon",
+      "original_id": "vl_chaperon",
+      "name": "[Helmet | VL] Elegant Chaperon [vl_chaperon]",
+      "original_name": "Elegant Chaperon",
+      "category": "Helmet",
+      "pack": "VL",
+      "type": "HeadArmor",
+      "file": "VL_VlandianArmory.xml"
+    },
+    {
+      "id": "cilab_nv_headscarf_d",
+      "original_id": "nv_headscarf_d",
+      "name": "[Helmet | NV] Hijab [nv_headscarf_d]",
+      "original_name": "Hijab",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_aserai_helmet_i",
+      "original_id": "nv_aserai_helmet_i",
+      "name": "[Helmet | NV] Turban [nv_aserai_helmet_i]",
+      "original_name": "Turban",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_aserai_helmet_f",
+      "original_id": "nv_aserai_helmet_f",
+      "name": "[Helmet | NV] Tight Head Scarf [nv_aserai_helmet_f]",
+      "original_name": "Tight Head Scarf",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_thinhide_coif",
+      "original_id": "nv_thinhide_coif",
+      "name": "[Helmet | NV] Thinhide Coif [nv_thinhide_coif]",
+      "original_name": "Thinhide Coif",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_sneak_costume_head",
+      "original_id": "nv_sneak_costume_head",
+      "name": "[Helmet | NV] Pilgrim Hood [nv_sneak_costume_head]",
+      "original_name": "Pilgrim Hood",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_pilgrim_hood",
+      "original_id": "nv_pilgrim_hood",
+      "name": "[Helmet | NV] Pilgrim Hood [nv_pilgrim_hood]",
+      "original_name": "Pilgrim Hood",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "headArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_empire_helmet_d",
+      "original_id": "nv_empire_helmet_d",
+      "name": "[Helmet | NV] Leather Coif [nv_empire_helmet_d]",
+      "original_name": "Leather Coif",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_vlandia_helmet_f",
+      "original_id": "nv_vlandia_helmet_f",
+      "name": "[Helmet | NV] Leather Coif [nv_vlandia_helmet_f]",
+      "original_name": "Leather Coif",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_kettle_helmet_leather",
+      "original_id": "nv_kettle_helmet_leather",
+      "name": "[Helmet | NV] Kettle Helmet with Leather [nv_kettle_helmet_leather]",
+      "original_name": "Kettle Helmet with Leather",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_sturgia_helmet_m",
+      "original_id": "nv_sturgia_helmet_m",
+      "name": "[Helmet | NV] Fur Rimmed Cap [nv_sturgia_helmet_m]",
+      "original_name": "Fur Rimmed Cap",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_battania_civil_hood",
+      "original_id": "nv_battania_civil_hood",
+      "name": "[Helmet | NV] Cloth Hood [nv_battania_civil_hood]",
+      "original_name": "Cloth Hood",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_aserai_civil_f_cape",
+      "original_id": "nv_aserai_civil_f_cape",
+      "name": "[Helmet | NV] Bandit Leather Hood [nv_aserai_civil_f_cape]",
+      "original_name": "Bandit Leather Hood",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_nv_leather_studdedhelm",
+      "original_id": "nv_leather_studdedhelm",
+      "name": "[Helmet | NV] Leather Studded Helm [nv_leather_studdedhelm]",
+      "original_name": "Leather Studded Helm",
+      "category": "Helmet",
+      "pack": "NV",
+      "type": "HeadArmor",
+      "file": "NV_Native.xml"
+    },
+    {
+      "id": "cilab_asset_bb_skullcap",
+      "original_id": "asset_bb_skullcap",
+      "name": "[Helmet | BUA | Asset Test] bb_skullcap [asset_bb_skullcap]",
+      "category": "Helmet",
+      "pack": "BUA",
+      "mesh": "bb_skullcap",
+      "type": "HeadArmor",
+      "file": "zz_asset_tests.xml",
+      "definition_kind": "asset_test"
+    },
+    {
+      "id": "cilab_nv_wrapped_scarf",
+      "original_id": "nv_wrapped_scarf",
+      "name": "[Shoulders | NV] Wrapped Scarf [nv_wrapped_scarf]",
+      "original_name": "Wrapped Scarf",
+      "category": "Shoulders",
+      "pack": "NV",
+      "type": "Cape",
+      "file": "NV_Native.xml"
+    }
+  ]
+}

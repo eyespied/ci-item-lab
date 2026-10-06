@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_bua_horse_barding_1" name="[Harness | BUA] Caparison [bua_horse_barding_1]" mesh="bb_horse_barding_1" culture="Culture.empire" weight="10" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="none" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2" name="[Harness | BUA] Caparison Split [bua_horse_barding_2]" mesh="bb_horse_barding_2" culture="Culture.empire" weight="10" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="none" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_3" name="[Harness | BUA] Caparison Striped [bua_horse_barding_3]" mesh="bb_horse_barding_3" culture="Culture.empire" weight="10" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="none" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_4" name="[Harness | BUA] Caparison Checkered [bua_horse_barding_4]" mesh="bb_horse_barding_4" culture="Culture.empire" weight="10" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="none" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_5" name="[Harness | BUA] Caparison Royal [bua_horse_barding_5]" mesh="bb_horse_barding_5" culture="Culture.empire" weight="10" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="none" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2_1" name="[Harness | BUA] Maille Barding with Caparison [bua_horse_barding_2_1]" mesh="bb_horse_barding_2_1" culture="Culture.empire" weight="30" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2_2" name="[Harness | BUA] Maille Barding with checkered Caparison [bua_horse_barding_2_2]" mesh="bb_horse_barding_2_2" culture="Culture.empire" weight="30" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2_3" name="[Harness | BUA] Maille Barding with striped Caparison [bua_horse_barding_2_3]" mesh="bb_horse_barding_2_3" culture="Culture.empire" weight="30" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2_4" name="[Harness | BUA] Maille Barding with cross Caparison [bua_horse_barding_2_4]" mesh="bb_horse_barding_2_4" culture="Culture.empire" weight="30" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="cilab_bua_horse_barding_2_5" name="[Harness | BUA] Maille Barding with lily Caparison [bua_horse_barding_2_5]" mesh="bb_horse_barding_2_5" culture="Culture.empire" weight="30" appearance="0.5" Type="HorseHarness" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="20" mane_cover_type="all" tail_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_e_rein" charge_bonus="0" family_type="1" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+</Items>

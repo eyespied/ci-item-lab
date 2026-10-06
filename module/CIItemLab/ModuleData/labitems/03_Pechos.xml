@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_os_vlandia_leather_armor" name="[Armor | CI] Pechera Iniciado Santiago [os_vlandia_leather_armor]" mesh="vlandia_leather_armor" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_mail_with_tabbard2" name="[Armor | CI] Pechera Infante Santiago [os_mail_with_tabbard2]" mesh="santiago_mail_with_tabbard2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_of_plates1_c_slim" name="[Armor | CI] Plate CI 01 [ci_of_plates1_c_slim]" mesh="ci_of_plates1_c_slim" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_pt_armadura_toledo_slim" name="[Armor | CI] Coat of Plates Toledo with Banner [pt_armadura_toledo_slim]" mesh="armadura_toledo_slim" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_pt_armadura_toledo_cuadros_slim" name="[Armor | CI] Coat of Plates Toledo [pt_armadura_toledo_cuadros_slim]" mesh="armadura_toledo_cuadros_slim" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_pt_tabard_with_platea" name="[Armor | CI] Pechera Hiispano 02 [pt_tabard_with_platea]" mesh="filipino_vs_tabard_with_platea" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_vlandian_noble_woman_dress" name="[Armor | CI] Kuno's Silken Wedding Dress [ci_vlandian_noble_woman_dress]" mesh="vlandian_noble_woman_dress" culture="Culture.vlandia" weight="0" appearance="4" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="2" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="false" body_mesh_type="shoulders" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" NotUsableByMale="true" UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_female_khuzait_dress" name="[Armor | CI] Sister Luisa's Envelope Wedding Dress [ci_female_khuzait_dress]" mesh="female_khuzait_dress" culture="Culture.vlandia" weight="0" appearance="4" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="2" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="false" body_mesh_type="shoulders" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" NotUsableByMale="true" UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_TrajeDoncella" name="[Armor | CI] Capa Principe [TrajeDoncella]" culture="Culture.empire" mesh="vlandian_noble_woman_dress" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_civil_a" name="[Armor | CI] Pijama de Elite Omeya [omey_civil_a]" mesh="omey_civil_a" culture="Culture.empire" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_chain_plate_a" name="[Armor | CI] Mameluco Armor 1 [omey_chain_plate_a]" mesh="omey_chain_plate_a" culture="Culture.empire" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_chain_plate_b" name="[Armor | CI] Mameluco Armor 2 [omey_chain_plate_b]" mesh="omey_chain_plate_b" culture="Culture.empire" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_omey_plate_a" name="[Armor | CI] Mameluco Armor 3 [omey_plate_a]" mesh="omey_plate_a" culture="Culture.empire" subtype="body_armor" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_levi" name="[Armor | CI] Gambesón leva [cts_spanish_levi]" mesh="cts_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_levi_1" name="[Armor | CI] Gambesón milicia [cts_spanish_levi_1]" mesh="cts_spanish_levi_1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_levi_2" name="[Armor | CI] Gambesón leva [cts_spanish_levi_2]" mesh="cts_spanish_levi_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier2" name="[Armor | CI] Tabardo soldado CI [cts_spanish_armor_tier2]" mesh="cts_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier2_1" name="[Armor | CI] Tabardo soldado CI 1 [cts_spanish_armor_tier2_1]" mesh="cts_spanish_armor_tier2_1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier2_2" name="[Armor | CI] Tabardo soldado CI 2 [cts_spanish_armor_tier2_2]" mesh="cts_spanish_armor_tier2_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier2_3" name="[Armor | CI] Tabardo soldado CI 3 [cts_spanish_armor_tier2_3]" mesh="cts_spanish_armor_tier2_3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_host_brigandine" name="[Armor | CI] Brigandine over Mail [host_brigandine]" mesh="host_brigandine" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier3_1" name="[Armor | CI] Tabardo hombre de armas CI 1 [cts_spanish_armor_tier3_1]" mesh="cts_spanish_armor_tier3_1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier3_2" name="[Armor | CI] Tabardo hombre de armas CI 2 [cts_spanish_armor_tier3_2]" mesh="cts_spanish_armor_tier3_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier3_3" name="[Armor | CI] Tabardo hombre de armas CI 3 [cts_spanish_armor_tier3_3]" mesh="cts_spanish_armor_tier3_3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier3_4" name="[Armor | CI] Tabardo hombre de armas CI 4 [cts_spanish_armor_tier3_4]" mesh="cts_spanish_armor_tier3_4" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier3" name="[Armor | CI] Tabardo hombre de armas CI [cts_spanish_armor_tier3]" mesh="cts_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier4" name="[Armor | CI] CI Armor tier 4 [cts_spanish_armor_tier4]" mesh="cts_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier5" name="[Armor | CI] CI Armor tier 5 [cts_spanish_armor_tier5]" mesh="cts_spanish_armor_tier5" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_aguila_spanish_armor_tier5_2" name="[Armor | CI] CI Armor tier 5 [cts_aguila_spanish_armor_tier5_2]" mesh="cts_aguila_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_mp_battania_woodland_chainmail" name="[Armor | CI] Heavy Mail Shirt with Wide Belt [mp_battania_woodland_chainmail]" subtype="body_armor" mesh="battania_woodland_chainmail" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_patron3_spanish_armor_tier5_2" name="[Armor | CI] CI Armor tier 5 [cts_patron3_spanish_armor_tier5_2]" mesh="cts_patron3_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_mp_coat_of_plates_over_mail" name="[Armor | CI] Brigandine over Mail [mp_coat_of_plates_over_mail]" mesh="tunic_ironplate_armor" subtype="body_armor" culture="Culture.empire" value="1" is_merchandise="false" weight="0" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_patron4_spanish_armor_tier5_2" name="[Armor | CI] CI Armor tier 5 [cts_patron4_spanish_armor_tier5_2]" mesh="cts_patron4_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran" name="[Armor | CI] Armadura Vieja Guardia CI 1 [cts_armor_spanish_veteran]" mesh="cts_armor_spanish_veteran" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran1" name="[Armor | CI] Armadura Vieja Guardia CI 2 [cts_armor_spanish_veteran1]" mesh="cts_armor_spanish_veteran1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran2" name="[Armor | CI] Armadura Vieja Guardia CI 3 [cts_armor_spanish_veteran2]" mesh="cts_armor_spanish_veteran2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran3" name="[Armor | CI] Armadura Vieja Guardia CI 4 [cts_armor_spanish_veteran3]" mesh="cts_armor_spanish_veteran3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran4" name="[Armor | CI] Armadura Vieja Guardia CI 5 [cts_armor_spanish_veteran4]" mesh="cts_armor_spanish_veteran4" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_armor_spanish_veteran5" name="[Armor | CI] Armadura Vieja Guardia CI 6 [cts_armor_spanish_veteran5]" mesh="cts_armor_spanish_veteran5" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_tier4_alvaro" name="[Armor | CI] Tabardo abanderado real [cts_spanish_armor_tier4_alvaro]" mesh="cts_spanish_armor_tier4_alvaro" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_levi" name="[Armor | CI] Santiago Levy Armor [cts_santiago_spanish_levi]" mesh="cts_santiago_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_tier2" name="[Armor | CI] Santiago Armor Tier 2 [cts_santiago_spanish_armor_tier2]" mesh="cts_santiago_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_tier3" name="[Armor | CI] Santiago Armor Tier 3 [cts_santiago_spanish_armor_tier3]" mesh="cts_santiago_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_tier4" name="[Armor | CI] Santiago Armor Tier 4 [cts_santiago_spanish_armor_tier4]" mesh="cts_santiago_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_tier5_2" name="[Armor | CI] Santiago Armor Tier 5 [cts_santiago_spanish_armor_tier5_2]" mesh="cts_santiago_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_tier5_3" name="[Armor | CI] Santiago Armor Tier 5 [cts_santiago_spanish_armor_tier5_3]" mesh="cts_santiago_spanish_armor_tier5_3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_armor_inquisidor" name="[Armor | CI] Tabardo inquisidor [cts_santiago_spanish_armor_inquisidor]" mesh="cts_santiago_spanish_armor_inquisidor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_santiago_habito_vendas_monje" name="[Armor | CI] Habito de Monje [os_santiago_habito_vendas_monje]" mesh="santiago_habito_vendas_monje" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_levi" name="[Armor | CI] Armadura Leva Toledo [cts_toledo_spanish_levi]" mesh="cts_toledo_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier2" name="[Armor | CI] Armadura Toledo tier 2 [cts_toledo_spanish_armor_tier2]" mesh="cts_toledo_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier3" name="[Armor | CI] Armadura Toledo tier 3 [cts_toledo_spanish_armor_tier3]" mesh="cts_toledo_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier3_2" name="[Armor | CI] Armadura Toledo tier 3 [cts_toledo_spanish_armor_tier3_2]" mesh="cts_toledo_spanish_armor_tier3_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier4" name="[Armor | CI] Armadura Toledo tier 4 [cts_toledo_spanish_armor_tier4]" mesh="cts_toledo_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier4_2" name="[Armor | CI] Armadura Suboficial Toledo [cts_toledo_spanish_armor_tier4_2]" mesh="cts_toledo_spanish_armor_tier4_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_armor_tier5_2" name="[Armor | CI] Armadura Toledo tier 5 [cts_toledo_spanish_armor_tier5_2]" mesh="cts_toledo_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_ofi_spanish_armor_tier5_2" name="[Armor | CI] Armadura oficial Toledo [cts_toledo_ofi_spanish_armor_tier5_2]" mesh="cts_toledo_ofi_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_peon_spanish_armor_tier2" name="[Armor | CI] Armadura Peón Toledo [cts_toledo_peon_spanish_armor_tier2]" mesh="cts_toledo_peon_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_espadero_spanish_armor_tier2" name="[Armor | CI] Armadura Espadero Toledo [cts_toledo_espadero_spanish_armor_tier2]" mesh="cts_toledo_espadero_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_custodio_armor" name="[Armor | CI] Armadura Custodio Toledo [cts_toledo_custodio_armor]" mesh="cts_toledo_custodio_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_suboficial_armor" name="[Armor | CI] Armadura Suboficial Toledo 2 [cts_toledo_suboficial_armor]" mesh="cts_toledo_suboficial_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_suboficial_armor1" name="[Armor | CI] Armadura Suboficial Toledo 3 [cts_toledo_suboficial_armor1]" mesh="cts_toledo_suboficial_armor1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_levi" name="[Armor | CI] Castile Levy Armor [cts_castile_spanish_levi]" mesh="cts_castile_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_armor_tier2" name="[Armor | CI] Castile Armor Tier 2 [cts_castile_spanish_armor_tier2]" mesh="cts_castile_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_armor_tier3" name="[Armor | CI] Castile Armor Tier 3 [cts_castile_spanish_armor_tier3]" mesh="cts_castile_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_armor_tier4" name="[Armor | CI] Castile Armor Tier 4 [cts_castile_spanish_armor_tier4]" mesh="cts_castile_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_armor_tier5" name="[Armor | CI] Castile Armor Tier 5 [cts_castile_spanish_armor_tier5]" mesh="cts_castile_spanish_armor_tier5" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_armor_tier5_2" name="[Armor | CI] Castile Armor Tier 5 [cts_castile_spanish_armor_tier5_2]" mesh="cts_castile_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_armor" name="[Armor | CI] Armadura Guardia Real [cts_spanish_kinguard_armor]" mesh="cts_spanish_kinguard_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_gambeson1" name="[Armor | CI] Gambesón explorador [ci_cav_gambeson1]" mesh="ci_cav_gambeson1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_gambeson2" name="[Armor | CI] Gambesón jinete [ci_cav_gambeson2]" mesh="ci_cav_gambeson2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_gambeson3" name="[Armor | CI] Gambesón caballero [ci_cav_gambeson3]" mesh="ci_cav_gambeson3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_armor_scout" name="[Armor | CI] Cavalry armor scout [ci_cav_armor_scout]" mesh="cts_spanish_guard_armor_levy" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_armor_horseman" name="[Armor | CI] Cavalry armor horseman [ci_cav_armor_horseman]" mesh="cts_spanish_guard_armor_medium" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_armor_knight" name="[Armor | CI] Cavalry armor knight [ci_cav_armor_knight]" mesh="cts_spanish_guard_armor_elite_a" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_armor_officer" name="[Armor | CI] Cavalry armor officer [ci_cav_armor_officer]" mesh="cts_spanish_guard_armor_elite" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_arq_gambeson" name="[Armor | CI] Gambesón [ci_arq_gambeson]" mesh="ci_arq_gambeson" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_tir_gambeson" name="[Armor | CI] Gambesón reforzado [ci_tir_gambeson]" mesh="ci_tir_gambeson" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_subarq_gambeson" name="[Armor | CI] Gambesón pesado [ci_subarq_gambeson]" mesh="ci_subarq_gambeson" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_infpes_pecho" name="[Armor | CI] Armadura de placas con Gambesón [ci_infpes_pecho]" mesh="ci_infpes_pecho" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_king_armor" name="[Armor | CI] Iberian king plate armor [cts_spanish_king_armor]" mesh="cts_spanish_king_armor" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_levi" name="[Armor | CI] Levy gambeson [cts_gibraltar_spanish_levi]" mesh="cts_gibraltar_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_milicia" name="[Armor | CI] Militia gambeson [cts_gibraltar_spanish_milicia]" mesh="cts_gibraltar_spanish_milicia" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier2" name="[Armor | CI] Gibraltar Armor Tier 2 [cts_gibraltar_spanish_armor_tier2]" mesh="cts_gibraltar_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier3" name="[Armor | CI] Gibraltar Armor Tier 3 [cts_gibraltar_spanish_armor_tier3]" mesh="cts_gibraltar_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier4" name="[Armor | CI] Gibraltar Armor Tier 4 [cts_gibraltar_spanish_armor_tier4]" mesh="cts_gibraltar_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier5" name="[Armor | CI] Gibraltar Armor Tier 5 [cts_gibraltar_spanish_armor_tier5]" mesh="cts_gibraltar_spanish_armor_tier5" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier5_2" name="[Armor | CI] Gibraltar Armor Tier 5 [cts_gibraltar_spanish_armor_tier5_2]" mesh="cts_gibraltar_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier6" name="[Armor | CI] Gibraltar Armor Tier 6 [cts_gibraltar_spanish_armor_tier6]" mesh="cts_gibraltar_spanish_armor_tier6" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_armor_tier6_2" name="[Armor | CI] Gibraltar Armor Tier 6 [cts_gibraltar_spanish_armor_tier6_2]" mesh="cts_gibraltar_spanish_armor_tier6_2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_levi" name="[Armor | CI] Levy gambeson [cts_navarra_spanish_levi]" mesh="cts_navarra_spanish_levi" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_armor_tier2" name="[Armor | CI] Navarra Armor Tier 2 [cts_navarra_spanish_armor_tier2]" mesh="cts_navarra_spanish_armor_tier2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_armor_tier3" name="[Armor | CI] Navarra Armor Tier 3 [cts_navarra_spanish_armor_tier3]" mesh="cts_navarra_spanish_armor_tier3" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_armor_tier4" name="[Armor | CI] Navarra Armor Tier 4 [cts_navarra_spanish_armor_tier4]" mesh="cts_navarra_spanish_armor_tier4" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_armor_tier4_1" name="[Armor | CI] Navarra Armor Tier 4-1 [cts_navarra_spanish_armor_tier4_1]" mesh="cts_navarra_spanish_armor_tier4_1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_armor_tier5" name="[Armor | CI] Navarra Armor Tier 5 [cts_navarra_spanish_armor_tier5]" mesh="cts_navarra_spanish_armor_tier5" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color1" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color1]" mesh="cts_spanish_armor_royal_color1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color2" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color2]" mesh="cts_spanish_armor_royal_color2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color3" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color3]" mesh="cts_spanish_armor_royal_color3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color4" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color4]" mesh="cts_spanish_armor_royal_color4" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color5" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color5]" mesh="cts_spanish_armor_royal_color5" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color6" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color6]" mesh="cts_spanish_armor_royal_color6" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color7" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color7]" mesh="cts_spanish_armor_royal_color7" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_color8" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal_color8]" mesh="cts_spanish_armor_royal_color8" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal" name="[Armor | CI] Knight plate armor [cts_spanish_armor_royal]" mesh="cts_spanish_armor_royal" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full]" mesh="cts_spanish_armor_royal_full" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color1" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color1]" mesh="cts_spanish_armor_royal_full_color1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color2" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color2]" mesh="cts_spanish_armor_royal_full_color2" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color3" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color3]" mesh="cts_spanish_armor_royal_full_color3" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color4" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color4]" mesh="cts_spanish_armor_royal_full_color4" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color5" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color5]" mesh="cts_spanish_armor_royal_full_color5" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color6" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color6]" mesh="cts_spanish_armor_royal_full_color6" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color7" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color7]" mesh="cts_spanish_armor_royal_full_color7" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_armor_royal_full_color8" name="[Armor | CI] Knight full plate armor [cts_spanish_armor_royal_full_color8]" mesh="cts_spanish_armor_royal_full_color8" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_nv_leopard_pelt" name="[Shoulders | CI] Leopard Pelt [nv_leopard_pelt]" mesh="leopard_pelt" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_spud_gib_armour" name="[Armor | CI] Spud's body armor [ci_spud_gib_armour]" mesh="spud_gib_armour" subtype="body_armor" culture="Culture.empire" weight="0" appearance="3" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

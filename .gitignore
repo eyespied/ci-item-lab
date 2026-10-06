@@ -1,0 +1,13 @@
+**/build/
+**/obj/
+**/bin/
+**/.vs/
+*.user
+*.suo
+*.tpac
+*.sav
+*.dmp
+**/AssetPackages/
+**/ModuleSounds/
+**/Prefabs/
+**/Assets/

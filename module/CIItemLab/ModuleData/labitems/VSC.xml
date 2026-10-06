@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_vsc_infantry_armour" name="[Armor | VSC] Infantry armour [vsc_infantry_armour]" mesh="vsc_infantry_armour" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_armour" name="[Armor | VSC] Archer armour [vsc_archer_armour]" mesh="vsc_archer_armour" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_cavalry_armour" name="[Armor | VSC] Infantry armour [vsc_cavalry_armour]" mesh="vsc_cavalry_armour" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_helmet" name="[Helmet | VSC] Infantry helmet [vsc_infantry_helmet]" subtype="head_armor" mesh="vsc_infantry_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_lshelmet" name="[Helmet | VSC] Infantry leadership helmet [vsc_infantry_lshelmet]" subtype="head_armor" mesh="vsc_infantry_lshelmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_helmet" name="[Helmet | VSC] Archer helmet [vsc_archer_helmet]" subtype="head_armor" mesh="vsc_archer_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_lshelmet" name="[Helmet | VSC] Archer leadership helmet [vsc_archer_lshelmet]" subtype="head_armor" mesh="vsc_archer_lshelmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_cavalry_helmet" name="[Helmet | VSC] Cavalry helmet [vsc_cavalry_helmet]" subtype="head_armor" mesh="vsc_cavalry_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_cavalry_lshelmet" name="[Helmet | VSC] Cavalry leadership helmet [vsc_cavalry_lshelmet]" subtype="head_armor" mesh="vsc_cavalry_lshelmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_lightcavalry_helmet" name="[Helmet | VSC] Light Cavalry helmet [vsc_lightcavalry_helmet]" subtype="head_armor" mesh="vsc_lightcavalry_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_shoulder1" name="[Shoulders | VSC] Infantry shoulders 1 [vsc_infantry_shoulder1]" culture="Culture.empire" mesh="vsc_infantry_shoulder1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_shoulder2" name="[Shoulders | VSC] Infantry shoulders 2 [vsc_infantry_shoulder2]" culture="Culture.empire" mesh="vsc_infantry_shoulder2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_lsshoulder" name="[Shoulders | VSC] Infantry leadership shoulders [vsc_infantry_lsshoulder]" culture="Culture.empire" mesh="vsc_infantry_lsshoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_shoulder" name="[Shoulders | VSC] Archer shoulders [vsc_archer_shoulder]" culture="Culture.empire" mesh="vsc_archer_shoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_cavalry_shoulder" name="[Shoulders | VSC] Cavalry shoulders [vsc_cavalry_shoulder]" culture="Culture.empire" mesh="vsc_cavalry_shoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_cavalry_lsshoulder" name="[Shoulders | VSC] Cavalry leadership shoulders [vsc_cavalry_lsshoulder]" culture="Culture.empire" mesh="vsc_cavalry_lsshoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_lightcavalry_shoulder" name="[Shoulders | VSC] Light Cavalry shoulders [vsc_lightcavalry_shoulder]" culture="Culture.empire" mesh="vsc_lightcavalry_shoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_gloves" name="[Gloves | VSC] Infantry gloves [vsc_infantry_gloves]" mesh="vsc_infantry_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_gloves" name="[Gloves | VSC] Gloves [vsc_archer_gloves]" mesh="vsc_archer_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_archer_lsgloves" name="[Gloves | VSC] Leadership gloves [vsc_archer_lsgloves]" mesh="vsc_archer_lsgloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_vsc_infantry_legs" name="[Boots | VSC] Boots [vsc_infantry_legs]" mesh="vsc_infantry_legs" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

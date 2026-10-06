@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_os_capasantiago" name="[Shoulders | CI] Cape Santiago 01 [os_capasantiago]" culture="Culture.empire" mesh="capasantiago" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capasantiago2" name="[Shoulders | CI] Cape Santiago 02 [os_capasantiago2]" culture="Culture.empire" mesh="capita" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_nueva_capasantiago" name="[Shoulders | CI] Capa Santiago larga [os_nueva_capasantiago]" culture="Culture.empire" mesh="capa-santiago" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_nueva_capasantiago2" name="[Shoulders | CI] Capa Santiago corta [os_nueva_capasantiago2]" culture="Culture.empire" mesh="capa-santiago-corta" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capa_santiago_inquisidor" name="[Shoulders | CI] Capa inquisidor larga [os_capa_santiago_inquisidor]" culture="Culture.empire" mesh="capa-santiago_inquisidor" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capa_santiago_corta_inquisidor" name="[Shoulders | CI] Capa inquisidor corta [os_capa_santiago_corta_inquisidor]" culture="Culture.empire" mesh="capa-santiago-corta_inquisidor" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capa_santiago_negra" name="[Shoulders | CI] Capa Santiago larga [os_capa_santiago_negra]" culture="Culture.empire" mesh="capa-santiago-negra" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_capa_santiago_negra_corta" name="[Shoulders | CI] Capa Santiago corta [os_capa_santiago_negra_corta]" culture="Culture.empire" mesh="capa-santiago-negra-corta" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_collar_inquisidor" name="[Shoulders | CI] Rosario [os_collar_inquisidor]" culture="Culture.empire" mesh="collar_inquisidor" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_santiago_hombros_monje" name="[Shoulders | CI] Rosario monacal [os_santiago_hombros_monje]" culture="Culture.empire" mesh="santiago_hombros_monje" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_capa_mecenas" name="[Shoulders | CI] Collar CI Mecenas 01 [ci_capa_mecenas]" culture="Culture.empire" mesh="tira" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_capa_mecenas_arqueros" name="[Shoulders | CI] Collar CI Mecenas 02 [ci_capa_mecenas_arqueros]" culture="Culture.empire" mesh="tiraa" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_long_cape_azuki" name="[Shoulders | CI] Azuki's long cape [ci_long_cape_azuki]" culture="Culture.empire" mesh="long_cape_azuki" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth" name="[Shoulders | CI] Hombreras CI cloth [cts_spain_shoulder_cloth]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth1" name="[Shoulders | CI] Hombreras CI cloth 1 [cts_spain_shoulder_cloth1]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth2" name="[Shoulders | CI] Hombreras CI cloth 2 [cts_spain_shoulder_cloth2]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth3" name="[Shoulders | CI] Hombreras CI cloth 3 [cts_spain_shoulder_cloth3]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth4" name="[Shoulders | CI] Hombreras CI cloth 4 [cts_spain_shoulder_cloth4]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth4" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_cloth5" name="[Shoulders | CI] Hombreras CI cloth 5 [cts_spain_shoulder_cloth5]" culture="Culture.empire" mesh="cts_spain_shoulder_cloth5" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_metal_cloth" name="[Shoulders | CI] Hombreras CI metal cloth [cts_spain_shoulder_metal_cloth]" culture="Culture.empire" mesh="cts_spain_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_metal_cloth1" name="[Shoulders | CI] Hombreras CI metal cloth 1 [cts_spain_shoulder_metal_cloth1]" culture="Culture.empire" mesh="cts_spain_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_metal_cloth2" name="[Shoulders | CI] Hombreras CI metal cloth 2 [cts_spain_shoulder_metal_cloth2]" culture="Culture.empire" mesh="cts_spain_shoulder_metal_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_metal_cloth3" name="[Shoulders | CI] Hombreras CI metal cloth 3 [cts_spain_shoulder_metal_cloth3]" culture="Culture.empire" mesh="cts_spain_shoulder_metal_cloth3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_shoulder_metal_cloth4" name="[Shoulders | CI] Hombreras CI metal cloth 4 [cts_spain_shoulder_metal_cloth4]" culture="Culture.empire" mesh="cts_spain_shoulder_metal_cloth4" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_plated_shoulder_ptrotection" name="[Shoulders | CI] Hombreras CI plated shoulder protection [cts_spanish_plated_shoulder_ptrotection]" culture="Culture.empire" mesh="cts_spanish_plated_shoulder_ptrotection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_plated_shoulder_ptrotection1" name="[Shoulders | CI] Hombreras CI shoulder protection 1 [cts_spanish_plated_shoulder_ptrotection1]" culture="Culture.empire" mesh="cts_spanish_plated_shoulder_ptrotection1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_square_shoulder_protection" name="[Shoulders | CI] Hombreras CI square shoulder protection [cts_spanish_square_shoulder_protection]" culture="Culture.empire" mesh="cts_spanish_square_shoulder_protection " subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_square_shoulder_protection_1" name="[Shoulders | CI] Hombreras CI square shoulder protection 1 [cts_spanish_square_shoulder_protection_1]" culture="Culture.empire" mesh="cts_spanish_square_shoulder_protection _1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_square_shoulder_protection_2" name="[Shoulders | CI] Hombreras CI square shoulder protection 2 [cts_spanish_square_shoulder_protection_2]" culture="Culture.empire" mesh="cts_spanish_square_shoulder_protection _2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_square_shoulder_protection_3" name="[Shoulders | CI] Hombreras CI square shoulder protection 3 [cts_spanish_square_shoulder_protection_3]" culture="Culture.empire" mesh="cts_spanish_square_shoulder_protection _3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_square_shoulder_protection_4" name="[Shoulders | CI] Hombreras CI square shoulder protection 4 [cts_spanish_square_shoulder_protection_4]" culture="Culture.empire" mesh="cts_spanish_square_shoulder_protection _4" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_pauldrons_horseman" name="[Shoulders | CI] Cavalry pauldrons horseman [ci_cav_pauldrons_horseman]" culture="Culture.empire" mesh="cts_spanish_guard_shoulder_medium" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_pauldrons_knight" name="[Shoulders | CI] Cavalry pauldrons knight [ci_cav_pauldrons_knight]" culture="Culture.empire" mesh="cts_spanish_guard_medium_elite_shoulder_a" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_pauldrons_officer" name="[Shoulders | CI] Cavalry pauldrons officer [ci_cav_pauldrons_officer]" culture="Culture.empire" mesh="cts_spanish_guard_shoulder_elite" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection" name="[Shoulders | CI] Hombreras Santiago 1 [cts_santiago_spanish_shoulder_protection]" culture="Culture.empire" mesh="cts_santiago_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection2" name="[Shoulders | CI] Hombreras Santiago 2 [cts_santiago_spanish_shoulder_protection2]" culture="Culture.empire" mesh="cts_santiago_spanish_shoulder_protection2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection3" name="[Shoulders | CI] Hombreras Santiago 3 [cts_santiago_spanish_shoulder_protection3]" culture="Culture.empire" mesh="cts_santiago_spanish_shoulder_protection3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection4" name="[Shoulders | CI] Hombreras Santiago 4 [cts_santiago_spanish_shoulder_protection4]" culture="Culture.empire" mesh="cts_santiago_spanish_shoulder_protection4" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_santiago_spanish_shoulder_protection5" name="[Shoulders | CI] Hombreras Santiago 5 [cts_santiago_spanish_shoulder_protection5]" culture="Culture.empire" mesh="cts_santiago_spanish_shoulder_protection5" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_os_collar" name="[Shoulders | CI] Hombreras Santiago 5 [os_collar]" culture="Culture.empire" mesh="collar" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth" name="[Shoulders | CI] Hombreras Toledo 2 [cts_toledo_spain_shoulder_cloth]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth2" name="[Shoulders | CI] Hombreras Toledo 2 [cts_toledo_spain_shoulder_cloth2]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth3" name="[Shoulders | CI] Hombreras Toledo 2 [cts_toledo_spain_shoulder_cloth3]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_cloth3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_cloth4" name="[Shoulders | CI] Hombreras Toledo 2 [cts_toledo_spain_shoulder_cloth4]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_cloth4" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth" name="[Shoulders | CI] Hombreras Toledo 4 [cts_toledo_spain_shoulder_metal_cloth]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth1" name="[Shoulders | CI] Hombreras Toledo 4 [cts_toledo_spain_shoulder_metal_cloth1]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth2" name="[Shoulders | CI] Hombreras Toledo 4 [cts_toledo_spain_shoulder_metal_cloth2]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_metal_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spain_shoulder_metal_cloth3" name="[Shoulders | CI] Hombreras Toledo 4 [cts_toledo_spain_shoulder_metal_cloth3]" culture="Culture.empire" mesh="cts_toledo_spain_shoulder_metal_cloth3" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_plated_shoulder_ptrotection" name="[Shoulders | CI] Hombreras Toledo 5 [cts_toledo_spanish_plated_shoulder_ptrotection]" culture="Culture.empire" mesh="cts_toledo_spanish_plated_shoulder_ptrotection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_toledo_spanish_square_shoulder_protection" name="[Shoulders | CI] Hombreras Toledo 6 [cts_toledo_spanish_square_shoulder_protection]" culture="Culture.empire" mesh="cts_toledo_spanish_square_shoulder_protection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_toledo_capa_hispano" name="[Shoulders | CI] Capa negra Hispano [toledo_capa_hispano]" culture="Culture.empire" mesh="toledo_capa_hispano" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_shoulder_cloth" name="[Shoulders | CI] Castile shoulders cloth [cts_castile_spanish_shoulder_cloth]" culture="Culture.empire" mesh="cts_castile_spanish_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_shoulder_cloth2" name="[Shoulders | CI] Castile shoulders cloth [cts_castile_spanish_shoulder_cloth2]" culture="Culture.empire" mesh="cts_castile_spanish_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_shoulder_metal_cloth" name="[Shoulders | CI] Castile shoulders metal cloth [cts_castile_spanish_shoulder_metal_cloth]" culture="Culture.empire" mesh="cts_castile_spanish_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_shoulder_metal_cloth1" name="[Shoulders | CI] Castile shoulders metal cloth [cts_castile_spanish_shoulder_metal_cloth1]" culture="Culture.empire" mesh="cts_castile_spanish_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_castile_spanish_shoulder_protection" name="[Shoulders | CI] Castile shoulders protection [cts_castile_spanish_shoulder_protection]" culture="Culture.empire" mesh="cts_castile_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_omey" name="[Shoulders | CI] Capa Guardia Real Omey [cts_spanish_kinguard_cape_omey]" mesh="cts_spanish_kinguard_cape_omey" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_santiago" name="[Shoulders | CI] Capa Guardia Real Santiago [cts_spanish_kinguard_cape_santiago]" mesh="cts_spanish_kinguard_cape_santiago" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_termito" name="[Shoulders | CI] Capa Guardia Real Zumito [cts_spanish_kinguard_cape_termito]" mesh="cts_spanish_kinguard_cape_termito" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_toledo" name="[Shoulders | CI] Capa Guardia Real Toledo [cts_spanish_kinguard_cape_toledo]" mesh="cts_spanish_kinguard_cape_toledo" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_castile" name="[Shoulders | CI] Capa Guardia Real Castilla [cts_spanish_kinguard_cape_castile]" mesh="cts_spanish_kinguard_cape_castile" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_gibraltar" name="[Shoulders | CI] Capa Guardia Real Gibraltar [cts_spanish_kinguard_cape_gibraltar]" mesh="cts_spanish_kinguard_cape_gibraltar" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_navarra" name="[Shoulders | CI] Capa Guardia Real Navarra [cts_spanish_kinguard_cape_navarra]" mesh="cts_spanish_kinguard_cape_navarra" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_ci" name="[Shoulders | CI] Capa Guardia Real [cts_spanish_kinguard_cape_ci]" mesh="cts_spanish_kinguard_cape_ci" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_cape_capitangr" name="[Shoulders | CI] Capa Capitán Guardia Real [cts_spanish_kinguard_cape_capitangr]" mesh="cts_spanish_kinguard_cape_capitangr" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_arq_capucha" name="[Shoulders | CI] Capucha arquero [ci_arq_capucha]" mesh="ci_arq_capucha" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_infpes_hombros" name="[Shoulders | CI] Placas de hombros [ci_infpes_hombros]" mesh="ci_infpes_hombros" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_mochila_escudero" name="[Shoulders | CI] Mochila escudero [ci_mochila_escudero]" mesh="mochila_escudero" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_shoulder_spanish_king" name="[Shoulders | CI] Iberian King armored cape [cts_shoulder_spanish_king]" mesh="cts_shoulder_spanish_king" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_shoulder_spanish_king1" name="[Shoulders | CI] Iberian king armored shoulder plates [cts_shoulder_spanish_king1]" mesh="cts_shoulder_spanish_king1" subtype="body_armor" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" has_gender_variations="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_cloth" name="[Shoulders | CI] Gibraltar shoulders [cts_gibraltar_spanish_shoulder_cloth]" culture="Culture.empire" mesh="cts_gibraltar_spanish_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_cloth2" name="[Shoulders | CI] Gibraltar shoulders 2 [cts_gibraltar_spanish_shoulder_cloth2]" culture="Culture.empire" mesh="cts_gibraltar_spanish_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_metal_cloth" name="[Shoulders | CI] Gibraltar metal shoulders [cts_gibraltar_spanish_shoulder_metal_cloth]" culture="Culture.empire" mesh="cts_gibraltar_spanish_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_metal_cloth1" name="[Shoulders | CI] Gibraltar metal shoulders 2 [cts_gibraltar_spanish_shoulder_metal_cloth1]" culture="Culture.empire" mesh="cts_gibraltar_spanish_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_gibraltar_spanish_shoulder_protection" name="[Shoulders | CI] Gibraltar shoulders protections [cts_gibraltar_spanish_shoulder_protection]" culture="Culture.empire" mesh="cts_gibraltar_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_shoulder_cloth" name="[Shoulders | CI] Navarra shoulders [cts_navarra_spanish_shoulder_cloth]" culture="Culture.empire" mesh="cts_navarra_spanish_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_shoulder_cloth2" name="[Shoulders | CI] Navarra shoulders 2 [cts_navarra_spanish_shoulder_cloth2]" culture="Culture.empire" mesh="cts_navarra_spanish_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_shoulder_metal_cloth" name="[Shoulders | CI] Navarra metal shoulders [cts_navarra_spanish_shoulder_metal_cloth]" culture="Culture.empire" mesh="cts_navarra_spanish_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_shoulder_metal_cloth1" name="[Shoulders | CI] Navarra metal shoulders 2 [cts_navarra_spanish_shoulder_metal_cloth1]" culture="Culture.empire" mesh="cts_navarra_spanish_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_navarra_spanish_shoulder_protection" name="[Shoulders | CI] Navarra shoulders protections [cts_navarra_spanish_shoulder_protection]" culture="Culture.empire" mesh="cts_navarra_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spain_lion_shoulder" name="[Shoulders | CI] Lions bane [cts_spain_lion_shoulder]" culture="Culture.empire" mesh="cts_spain_lion_shoulder" subtype="body_armor" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

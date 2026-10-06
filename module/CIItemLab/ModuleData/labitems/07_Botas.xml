@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_ZapatosDoncella" name="[Boots | CI] Woman Shoe [ZapatosDoncella]" mesh="woman_shoe_a" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_cts_spanish_chainmail_boots" name="[Boots | CI] CI boots chainmail [cts_spanish_chainmail_boots]" mesh="cts_spanish_chainmail_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_leather_boots" name="[Boots | CI] CI boots leather [cts_spanish_leather_boots]" mesh="cts_spanish_leather_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_plated_boots" name="[Boots | CI] CI boots plated [cts_spanish_plated_boots]" mesh="cts_spanish_plated_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_kinguard_boots" name="[Boots | CI] Botas Guardia Real [cts_spanish_kinguard_boots]" mesh="cts_spanish_kinguard_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_pantalones1" name="[Boots | CI] Botas jinete [ci_cav_pantalones1]" mesh="ci_cav_pantalones1" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_pantalones2" name="[Boots | CI] Botas caballero [ci_cav_pantalones2]" mesh="ci_cav_pantalones2" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_boots_scout" name="[Boots | CI] cavalry boots scout [ci_cav_boots_scout]" mesh="cts_spanish_guard_boots_levy" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_boots_horseman" name="[Boots | CI] cavalry boots horseman [ci_cav_boots_horseman]" mesh="cts_spanish_guard_boots_medium" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_boots_knight" name="[Boots | CI] cavalry boots knight [ci_cav_boots_knight]" mesh="cts_spanish_guard_boots_elite" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_cav_boots_officer" name="[Boots | CI] cavalry boots officer [ci_cav_boots_officer]" mesh="cts_spanish_guard_boots_elite" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_ci_arq_pantalones" name="[Boots | CI] Pantalones [ci_arq_pantalones]" mesh="ci_arq_pantalones" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_ci_tir_pantalones" name="[Boots | CI] Pantalones reforzados [ci_tir_pantalones]" mesh="ci_tir_pantalones" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_ci_infpes_pants" name="[Boots | CI] Grebas de placas pesadas [ci_infpes_pants]" mesh="ci_infpes_pants" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_king_boots" name="[Boots | CI] Iberian king plated greaves [cts_spanish_king_boots]" mesh="cts_spanish_king_boots" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_boots_royal_full" name="[Boots | CI] Knight plate greaves [cts_spanish_boots_royal_full]" mesh="cts_spanish_boots_royal_full" culture="Culture.empire" weight="0" appearance="1" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

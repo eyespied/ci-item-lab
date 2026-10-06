@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_Caballo1" name="[Horse | CI] Midlands Palfrey{@Plural}Midland palfreys{@} [Caballo1]" mesh="horse_brown" subtype="horse" item_category="horse" is_merchandise="false" culture="Culture.empire" weight="420" difficulty="0" appearance="1" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="75" speed="48" charge_damage="3" body_length="110" is_mountable="true" extra_health="20" skeleton_scale="empire_horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane_2" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_brown_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+          <Material name="horse_black_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+          <Material name="horse_grey_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF303030" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cilab_Caballo_oficial_blanco" name="[Horse | CI] Battanian Thoroughbred{@Plural}Battanian thoroughbreds{@} [Caballo_oficial_blanco]" mesh="horse_brown" item_category="noble_horse" is_merchandise="false" culture="Culture.battania" subtype="horse" weight="420" difficulty="0" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="75" speed="40" charge_damage="15" body_length="110" is_mountable="true" extra_health="140" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_white_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cilab_Caballo_oficial_2" name="[Horse | CI] Battanian Thoroughbred{@Plural}Battanian thoroughbreds{@} [Caballo_oficial_2]" mesh="horse_brown" item_category="noble_horse" is_merchandise="false" culture="Culture.battania" subtype="horse" weight="420" difficulty="0" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="75" speed="40" charge_damage="15" body_length="110" is_mountable="true" extra_health="140" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_brown_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+          <Material name="horse_black_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+</Items>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Module>
+  <Name value="CI Item Lab (Singleplayer)" />
+  <Id value="CIItemLab" />
+  <Version value="v0.3.0" />
+  <ModuleCategory value="Singleplayer" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" Optional="false" />
+    <DependedModule Id="SandBoxCore" Optional="false" />
+    <DependedModule Id="Sandbox" Optional="false" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="CI Item Lab" />
+      <DLLName value="CIItemLab.dll" />
+      <SubModuleClassType value="CIItemLab.SubModule" />
+      <Assemblies>
+        <Assembly value="0Harmony.dll" />
+      </Assemblies>
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls>
+    <XmlNode>
+      <XmlName id="CraftingPieces" path="lab_crafting_pieces" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+        <GameType value="CustomGame" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="CraftingTemplates" path="lab_crafting_templates" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+        <GameType value="CustomGame" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="WeaponDescriptions" path="lab_weapon_descriptions" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+        <GameType value="CustomGame" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="Items" path="labitems/" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+        <GameType value="CustomGame" />
+      </IncludedGameTypes>
+    </XmlNode>
+  </Xmls>
+</Module>

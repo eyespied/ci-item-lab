@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_va_helm_icon" name="[Helmet | VA] Vaegir Decorated Helmet [va_helm_icon]" mesh="rus_helm_icon" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_helm_noble" name="[Helmet | VA] Vaegir Noble Helmet [va_helm_noble]" mesh="rus_helm_noble" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_helm_noble_icon" name="[Helmet | VA] Vaegir Decorated Noble Helmet [va_helm_noble_icon]" mesh="rus_helm_noble_icon" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_helm_regular" name="[Helmet | VA] Vaegir Helmet [va_helm_regular]" mesh="rus_helm_regular" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_va_helm_regular2" name="[Helmet | VA] Vaegir Helmet [va_helm_regular2]" mesh="rus_helm_regular2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_open_helm" name="[Helmet | VA] Vaegir Helmet [va_open_helm]" mesh="rus_open_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_norselord" name="[Helmet | VA] Northern Lord Helmet [va_norselord]" mesh="va_norselord" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_vaegir_helm" name="[Helmet | VA] War Mask [va_vaegir_helm]" mesh="vaegir_helm" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_vaegir_helm_open" name="[Helmet | VA] War Helmet [va_vaegir_helm_open]" mesh="vaegir_helm_open" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_va_armour" name="[Armor | VA] Vaegir Coat of Plates [va_armour]" mesh="rus_armour" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_va_armour1" name="[Armor | VA] Vaegir Coat of Plates [va_armour1]" mesh="rus_armour1" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_va_armour2" name="[Armor | VA] Vaegir Coat of Plates [va_armour2]" mesh="rus_armour2" subtype="body_armor" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

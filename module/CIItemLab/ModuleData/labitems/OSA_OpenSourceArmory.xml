@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_osa_tv_aserai_guard_helmet_b2" name="[Helmet | OSA] Southern Fluted Steel Cap Over Open Cloth [osa_tv_aserai_guard_helmet_b2]" subtype="head_armor" mesh="tv_aserai_guard_helmet_b2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_guard_helmet_d2" name="[Helmet | OSA] Southern Fluted Steel Helmet Over Open Cloth [osa_tv_aserai_guard_helmet_d2]" subtype="head_armor" mesh="tv_aserai_guard_helmet_d2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_guard_helmet_d3" name="[Helmet | OSA] Southern Fluted Steel Helmet Over Wrapped Cloth [osa_tv_aserai_guard_helmet_d3]" subtype="head_armor" mesh="tv_aserai_guard_helmet_d3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_guard_helmet_f2" name="[Helmet | OSA] Southern Fluted Steel Helmet Over Closed Wrapped Mail [osa_tv_aserai_guard_helmet_f2]" subtype="head_armor" mesh="tv_aserai_guard_helmet_f2" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_guard_helmet_f3" name="[Helmet | OSA] Southern Fluted Steel Helmet Over Closed Veiled Mail [osa_tv_aserai_guard_helmet_f3]" subtype="head_armor" mesh="tv_aserai_guard_helmet_f3" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_d" name="[Helmet | OSA] Closed Southern Cap Helmet [osa_tv_aserai_helmet_d]" mesh="tv_aserai_helmet_d" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_f" name="[Helmet | OSA] Loose Wrapped Southern Nasalhelm [osa_tv_aserai_helmet_f]" mesh="tv_aserai_helmet_f" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_g" name="[Helmet | OSA] Wrapped Southern Cap Helmet [osa_tv_aserai_helmet_g]" mesh="tv_aserai_helmet_g" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_i" name="[Helmet | OSA] Darshi Decorated Spangenhelm With Closed Mail [osa_tv_aserai_helmet_i]" mesh="tv_aserai_helmet_i" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_k" name="[Helmet | OSA] Southern Cap Helmet With Tuareg [osa_tv_aserai_helmet_k]" mesh="tv_aserai_helmet_k" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" hair_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_m" name="[Helmet | OSA] Southern Open Spangenhelm [osa_tv_aserai_helmet_m]" mesh="tv_aserai_helmet_m" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_n" name="[Helmet | OSA] Southern Closed Spangenhelm [osa_tv_aserai_helmet_n]" mesh="tv_aserai_helmet_n" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_o" name="[Helmet | OSA] Southern Loose Wrapped Spangenhelm [osa_tv_aserai_helmet_o]" mesh="tv_aserai_helmet_o" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_p" name="[Helmet | OSA] Southern Spangenhelm With Mail [osa_tv_aserai_helmet_p]" mesh="tv_aserai_helmet_p" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_q" name="[Helmet | OSA] Southern Spangenhelm With Heavy Mail [osa_tv_aserai_helmet_q]" mesh="tv_aserai_helmet_q" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_helmet_s" name="[Helmet | OSA] Southern Cap Helmet With Heavy Mail [osa_tv_aserai_helmet_s]" mesh="tv_aserai_helmet_s" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lord_helmet_b" name="[Helmet | OSA] Ornate Southern Silvered Battle Crown [osa_tv_aserai_lord_helmet_b]" mesh="tv_aserai_lord_helmet_b" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lord_helmet_c" name="[Helmet | OSA] Ornate Southern Battle Crown [osa_tv_aserai_lord_helmet_c]" mesh="tv_aserai_lord_helmet_c" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lord_helmet_g" name="[Helmet | OSA] Southern Lord's Spangenhelm [osa_tv_aserai_lord_helmet_g]" mesh="tv_aserai_lord_helmet_g" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lord_helmet_i" name="[Helmet | OSA] Southern Cataphract's Spangenhelm [osa_tv_aserai_lord_helmet_i]" mesh="tv_aserai_lord_helmet_i" culture="Culture.empire" weight="0" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_battania_cloak_r" name="[Shoulders | OSA] Highland Alternating Scale Shoulders With Cape [osa_tv_battania_cloak_r]" mesh="tv_battania_cloak_r" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_battania_cloak_s" name="[Shoulders | OSA] Highland Steel Scale Shoulders With Cape [osa_tv_battania_cloak_s]" mesh="tv_battania_cloak_s" culture="Culture.empire" weight="0" Type="Cape" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lamellar_c" name="[Armor | OSA] Southern Bronze Lamellar Over Long Kaftan [osa_tv_aserai_lamellar_c]" mesh="tv_aserai_lamellar_c" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lamellar_c2" name="[Armor | OSA] Southern Steel Lamellar Over Long Kaftan [osa_tv_aserai_lamellar_c2]" mesh="tv_aserai_lamellar_c2" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lamellar_h" name="[Armor | OSA] Southern Bronze Lamellar Over Mailed Kaftan [osa_tv_aserai_lamellar_h]" mesh="tv_aserai_lamellar_h" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_lamellar_h2" name="[Armor | OSA] Southern Steel Lamellar Over Mailed Kaftan [osa_tv_aserai_lamellar_h2]" mesh="tv_aserai_lamellar_h2" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_robe_a" name="[Armor | OSA] Southern Decorated Robe With Double Mail [osa_tv_aserai_robe_a]" mesh="tv_aserai_robe_a" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_vlandia_armor_s" name="[Armor | OSA] Western Long Steel Scale Coat [osa_tv_vlandia_armor_s]" mesh="tv_vlandia_armor_s" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_vlandia_armor_t" name="[Armor | OSA] Western Long Steel Scale Coat Over Hauberk [osa_tv_vlandia_armor_t]" mesh="tv_vlandia_armor_t" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_vlandia_armor_t2" name="[Armor | OSA] Western Long Bronze Scale Coat Over Hauberk [osa_tv_vlandia_armor_t2]" mesh="tv_vlandia_armor_t2" culture="Culture.empire" weight="0" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_gloves_a" name="[Gloves | OSA] Engraved Brass Bracers [osa_tv_aserai_gloves_a]" mesh="tv_aserai_gloves_a" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="plate" material_type="Plate" covers_hands="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_gloves_b" name="[Gloves | OSA] Engraved Steel Bracers [osa_tv_aserai_gloves_b]" mesh="tv_aserai_gloves_b" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="plate" material_type="Plate" covers_hands="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_sturgia_gloves_c" name="[Gloves | OSA] Rough Iron Bracers [osa_tv_sturgia_gloves_c]" mesh="tv_sturgia_gloves_c" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="plate" material_type="Plate" covers_hands="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_sturgia_gloves_d" name="[Gloves | OSA] Simple Steel Bracers [osa_tv_sturgia_gloves_d]" mesh="tv_sturgia_gloves_d" culture="Culture.empire" weight="0" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor arm_armor="0" modifier_group="plate" material_type="Plate" covers_hands="false" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_boots_a" name="[Boots | OSA] Hide Boots [osa_tv_aserai_boots_a]" mesh="tv_aserai_boots_a" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_boots_b" name="[Boots | OSA] Blackened Hide Boots [osa_tv_aserai_boots_b]" mesh="tv_aserai_boots_b" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_boots_f" name="[Boots | OSA] Tan Suede Curved Boots [osa_tv_aserai_boots_f]" mesh="tv_aserai_boots_f" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_aserai_boots_g" name="[Boots | OSA] Suede Curved Boots [osa_tv_aserai_boots_g]" mesh="tv_aserai_boots_g" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_osa_tv_battania_boots_f" name="[Boots | OSA] Southern Suede Boots [osa_tv_battania_boots_f]" mesh="tv_battania_boots_f" culture="Culture.empire" weight="0" Type="LegArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

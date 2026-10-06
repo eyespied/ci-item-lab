@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_cts_spanish_chainmail_glove" name="[Gloves | CI] Guante CI chainmail [cts_spanish_chainmail_glove]" mesh="cts_spanish_chainmail_glove" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_leather_glove" name="[Gloves | CI] Guante CI leather [cts_spanish_leather_glove]" mesh="cts_spanish_leather_glove" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_plated_gloves" name="[Gloves | CI] Guante CI plated [cts_spanish_plated_gloves]" mesh="cts_spanish_plated_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_king_gloves" name="[Gloves | CI] Iberian king plate gauntlets [cts_spanish_king_gloves]" mesh="cts_spanish_king_gloves" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_cts_spanish_gloves_royal" name="[Gloves | CI] Knightly leather gloves [cts_spanish_gloves_royal]" mesh="cts_spanish_gloves_royal" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="HandArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

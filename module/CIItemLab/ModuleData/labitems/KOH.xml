@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_koh_shield_staff" name="[Shield | KOH] KoH Large Round Golden Shield [koh_shield_staff]" body_name="bo_cap_sturgia_shield_a" shield_body_name="bo_sturgia_shield_b" recalculate_body="false" mesh="koh_shield_staff" culture="Culture.sturgia" using_tableau="true" value="1" is_merchandise="false" weight="0.7" difficulty="0" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="true" holster_position_shift="0,0,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="20" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="-0.02, 0.0, 0.0" rotation="-15.0,-90.0,-10.0" weapon_length="105" center_of_mass="0, 0.15, 0" hit_points="170">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" />
+  </Item>
+  <Item id="cilab_koh_shield" name="[Shield | KOH] KoH Large Round Shield [koh_shield]" body_name="bo_cap_sturgia_shield_a" shield_body_name="bo_sturgia_shield_b" recalculate_body="false" mesh="koh_shield_1" culture="Culture.sturgia" using_tableau="true" value="1" is_merchandise="false" weight="0.7" difficulty="0" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="true" holster_position_shift="0,0,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="20" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="-0.02, 0.0, 0.0" rotation="-15.0,-90.0,-10.0" weapon_length="105" center_of_mass="0, 0.15, 0" hit_points="170">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" />
+  </Item>
+  <Item id="cilab_koh_shield_nakk" name="[Shield | KOH] Nakk Large Round Shield [koh_shield_nakk]" body_name="bo_cap_sturgia_shield_a" shield_body_name="bo_sturgia_shield_b" recalculate_body="false" mesh="koh_shield_2" culture="Culture.sturgia" using_tableau="true" value="1" is_merchandise="false" weight="0.7" difficulty="0" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="true" holster_position_shift="0,0,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="20" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="-0.02, 0.0, 0.0" rotation="-15.0,-90.0,-10.0" weapon_length="105" center_of_mass="0, 0.15, 0" hit_points="170">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" />
+  </Item>
+  <Item id="cilab_koh_shield_jorvik" name="[Shield | KOH] Jorvik Large Round Shield [koh_shield_jorvik]" body_name="bo_cap_sturgia_shield_a" shield_body_name="bo_sturgia_shield_b" recalculate_body="false" mesh="koh_shield_3" culture="Culture.sturgia" using_tableau="true" value="1" is_merchandise="false" weight="0.7" difficulty="0" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="true" holster_position_shift="0,0,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="20" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="-0.02, 0.0, 0.0" rotation="-15.0,-90.0,-10.0" weapon_length="105" center_of_mass="0, 0.15, 0" hit_points="170">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" />
+  </Item>
+</Items>

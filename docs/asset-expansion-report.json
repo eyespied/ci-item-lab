@@ -1,0 +1,3898 @@
+{
+  "additional_test_items": 435,
+  "total_items": 1894,
+  "unconverted_assets": [
+    {
+      "mesh": "ar_horse_armor_c2_rein",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ar_horse_armor_c3_rein",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ar_horse_armor_zac_rein",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ar_horse_armor_zaa_rein",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_butterlordclothsim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_with_armguards_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates3_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard_clothsim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates11_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates10_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard_clothsim5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates5_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard5_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine_plate1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates1_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_churburghtorso_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates2_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard4_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_1churburghtorso_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_plate_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates9_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_2churburghtorso_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates7_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_brass_plate_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_striped_cuirass_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates4_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_surcoatplate_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard3_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine_plate2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirass_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine6_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sacoat2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard4_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates8_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard5_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates12_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sa_brigandine_plate3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sacoat3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_plate_with_armguards_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "sacoat1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_striped_plate_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "coat_of_plates6_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "mail_with_tabbard_clothsim2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatd_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplec_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3a_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_mercenary_brigandine_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2a_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1b_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassd_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorf_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorf_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maild_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketona_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirasse_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesona_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighta_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1a_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1c_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicea_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates6_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine3_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_hauberk_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesonb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_discipleb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesona_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scale_cuirass_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassa_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorf_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armora_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassf_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesona_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maila_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointa_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesona_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighta_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1b_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicec_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3b_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassa_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates7_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplea_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scale_cuirass_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates7_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_with_armpads_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_leather_coat_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightf_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armora_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesonb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_noviceb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_hauberk_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplec_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2b_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_mercenary_brigandine_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_with_armpads_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2a_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scale_cuirass_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maild_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_decorated_leather_tabard_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1a_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3c_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassf_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesona_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesona_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassa_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassd_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightf_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armord_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_leather_coat_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_lys_cuirass_with_skirt_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointa_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatd_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoata_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scales_coat_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_noviceb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighte_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_coat_of_plates_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesona_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_lys_cuirass_with_skirt_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesonb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighte_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoata_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_discipleb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maild_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassd_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armore_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_leather_coat_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesonb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armore_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3a_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armord_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatd_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesonb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighta_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_discipleb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_merchant_windcheater_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armorc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1a_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates6_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates6_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicec_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2b_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassa_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirasse_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_guard_gambesonb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassa_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_elegant_tunic2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassa_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicea_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesona_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor3_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_coat_of_plates_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplec_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maila_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scales_coat_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armora_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicec_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armord_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk3_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2a_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketona_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_novicea_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesona_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_mercenary_brigandine_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesona_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_merchant_windcheater_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3b_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_coat_of_plates7_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesona_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirassf_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2c_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_cuirasse_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1c_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirassc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2c_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplea_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointa_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt3_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_long_pourpointc_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3b_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesonb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_disciplea_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knighte_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_merchant_windcheater_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_gambesonb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketona_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightd_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_maila_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_noviceb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor_with_skirt1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3c_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightf_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_ornate_plate_armor1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesonb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_broigne_with_armpads_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_cuirass_over_gambesonb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_aketonc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoata_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_engraved_plate_armor2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine1b_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_cuirass_over_hauberk_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "swadian_leather_plate_armore_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_decorated_leather_tabard_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailc_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambeson_over_mailb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightd_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_gambesona_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_lys_cuirass_with_skirt_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_heavy_brigandine1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine_over_hauberk3_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_hauberk_with_surcoatb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_coat_of_plates_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_scales_coat_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_calros_knightd_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine3a_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_leather_plate_armor_with_harness3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_decorated_leather_tabard_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_brigandine2b_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_over_coat_of_plate2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_steel_scales_coat_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vestb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_studded_leather_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_platec_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vestb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_plateb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabarda_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_studded_leather_armor_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_over_coat_of_plate4_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_plateb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabarda_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabardb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabardb_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_sloppy_plate_armor_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vesta_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vestb_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_sloppy_plate_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vesta_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_plated_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabardb_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_studded_leather_armor_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_steel_scales_coat_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_quilted_vesta_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_reinforced_leather_tabarda_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_plated_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_platea_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_sloppy_plate_armor_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_steel_scales_coat_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_platec_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_with_platea_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_over_coat_of_plate4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "vs_tabard_over_coat_of_plate2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bre_clo_cap",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "b3_castagne_grail_cape_clothsim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "b3_moussillon_grail_cape_clothsim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "b3_gisoreux_kotr_reins_rope",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "b3_gisoreux_kotr_reins",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "b3_gisoreux_kotr_horse",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "bre_mail_with_tabbard_clothsim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_b3_gisoreux_helmet",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_b3_knighterrant_helm_v2_simulation",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_b3_kotr_torso_alaron",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_bre_kotr_torso_new",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tabard_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_bascinet_bretache_1_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_sugarloaf_greathelm_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tabard_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_cuirass_coat_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tabard_heraldry_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_surcoat_gambeson_alt_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tc_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_heraldry_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_civ_garment_1_royal_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_surcoat_gambeson_heraldry_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_zizka_armor_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_horse_barding_2_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_kastenbrust_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_plume_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_dagged_hood_1_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_kastenbrust_t1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_jupon_sleeved_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_greathelm_mitre_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_surcoat_gambeson_alt_heraldry_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_plume_2_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_bascinet_hounskull_5_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_bascinet_hounskull_4_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_civ_garment_1_royal_alt_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_surcoat_gambeson_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_escutcheon",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "bb_bascinet_open_1_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_breastplate_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_horse_barding_1_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_jupon_short_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_civ_garment_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_jupon_long_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_heraldry_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_tabard_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_tabard_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_jupon_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_jupon_sleeved_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_bascinet_hounskull_3_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_breastplate_tc_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_civ_garment_1_alt_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_gambeson_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_kettle_1_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_bascinet_klappvisor_2_torse_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_overcoat_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bb_surcoat_gambeson_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bandera_pared_toledo",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "barcopopa",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "center_stage",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "back_wall",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "barandales",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "amyellie_sword_scabbard",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bandera_pared_ci",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "bandera_pared_santiago",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "atril",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "ci_cav_gambeson1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bandera_pared_omey",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "2h_sword_santiago_scabbard",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "2h_navarra_scabbard_champion",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "bandera_pared_leon",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "arcabuz",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "2h_navarra_scabbard",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ci_cav_gambeson2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ci_cav_gambeson3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier6_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_metal_cloth1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_cloth3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_metal_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier3_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_metal_cloth3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_aguila_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_shoulder_metal_cloth1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_tier5_3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_levi_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_custodio_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color7_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier6",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_levi_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_ofi_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_shoulder_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_kinguard_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_cloth5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_shoulder_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_custodio_armor",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_shoulder_protection2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_shoulder_metal_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_omey_civil_a",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color8_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_omey_chain_plate_armor",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color7_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier3_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "ci_trono",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier3_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_omey_helmet_closed",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_patron3_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier3_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_metal_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_sword_spanish_rose_scabbard",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_levi_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_shoulder_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier4_alvaro",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_shoulder_metal_cloth1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_armor_tier5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_milicia_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_lion_shoulder",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier6_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_patron4_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier2_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier2_3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_cloth4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_flag_b",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier3_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_shoulder_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier2_3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_flag_a",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "copa-divb",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color6_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier3_3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_shoulder_metal_cloth1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_santiago_capucha_pelo_monje",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_aguila_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier4_alvaro_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spain_flag_a",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "clo_cts_spanish_levi_1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_inquisidor",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_peon_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier2_1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_omey_helmet_leather",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_armor_tier4_1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_cloth3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cornersupport",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "clo_cts_patron4_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_metal_cloth1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_shoulder_protection3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier3_3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_shoulder_metal_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_metal_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier2_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_metal_cloth4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier6_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_toledo_capa_hispano",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_shoulder_metal_cloth",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_santiago_spanish_armor_tier5_3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color8_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_king_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_omey_helmet_open",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_shoulder_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_milicia",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_armor_tier5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_gibraltar_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_armor_tier5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier4_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_santiago_capucha_monje",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_mh",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_espadero_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color6_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_patron3_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_santiago_habito_vendas_monje",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_armor_tier5",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_santiago_spanish_armor_inquisidor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_peon_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_armor_tier2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier3_4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_metal_cloth3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_toledo_ofi_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier3_4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_navarra_spanish_shoulder_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_tier2_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_navarra_spanish_armor_tier4_1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_espadero_spanish_armor_tier2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_gibraltar_spanish_armor_tier3",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_castile_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "copa-divf",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "clo_cts_spanish_armor_tier3_1",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spanish_armor_tier5_2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_color5_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_toledo_spain_shoulder_metal_cloth2",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_spanish_armor_royal_full_color1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_castile_spanish_levi",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "cts_armor_spanish_veteran3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_cts_spain_shoulder_cloth4",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "seat23",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat43",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_7",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "grave4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat37",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "retablao",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat31",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fancy_picture_frame_02",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "main_door",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat49",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat39",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats8",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_tri",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_levi_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "roof",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat57",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_6",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat15",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_section_02",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier4_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "seat3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "stand_trofeosci",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat24",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "main_throne",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier5_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "doortrellis",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat56",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "proa",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat47",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier4_2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "seats6",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat42",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_section_05",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_window_var3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "martillovg_1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "singlecrosssupport",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_armor_tier3_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "module_wall_window_var1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "espada_castellana",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat44",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_planks",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_wall",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_tri3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat40",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "main_flag",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat18",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat51",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat29",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat36",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat21",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat26",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat28",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "platforms_seats",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat9",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_doors",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "grave2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat19",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_section_04",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat8",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat11",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat14",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat46",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat38",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_central_door",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "os_lanza",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fuentecastillo",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "porlamita",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "martillovg_blade",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_5",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_section_01",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_tri2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat10",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat7",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat5",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_window_var2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat20",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "martillovg_handle",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_section_03",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "entrance",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cube",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat55",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "minimeca",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_6",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "singlesolidsupport",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_5",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat48",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat33",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_spanish_square_shoulder_protection ",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat16",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "floor",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_short",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_arc_comp",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_suboficial_armor1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "seat32",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "flauta_toledo",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat45",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "doublecrosssupport",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat41",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats5",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_8",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fancy_picture_frame_02_canvas",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "grave3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "lamps",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fancy_picture_frame_01",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_arc",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "frontdeck",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "eagles_side",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat12",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats7",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_pillars",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat53",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "plaque_4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat13",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat22",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cts_toledo_suboficial_armor_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "seat35",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat17",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_arc_wall",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat52",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat6",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fancy_picture_frame_01_canvas",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_roofs",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "grave1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat54",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seats4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "reliquia",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_window",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat27",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_wall_corner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "sm5 old chimney",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "modular_wooden_pier_poles",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "rug_floor",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat25",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat34",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "seat30",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "side_flag_3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "module_door_arc",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_t",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_h",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_p",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "vitrina",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_l2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_q",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_mario",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_n",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_d",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_dume",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tudorwallmiddle_e",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallend_e",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_n1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_zurco",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_h1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_sir_aleck",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_r",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_f",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_n",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_a1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_q1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wartable",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_5",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_q",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_e",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_r",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_c1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_sturgeon",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_c1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_l",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_m",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_r",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wooden_lantern_01",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_a",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_n",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_a",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorsidestairs",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_3",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_s",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "trophy_pedestal_1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_p1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_r",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_u",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_4",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_g",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_l",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_u",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorsidebricks",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_h1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_camarada",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_d",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_p",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_m",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_h1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_nolieus",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_u",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "supportbeams",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_l1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_l",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_b",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofmiddle_h1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_l1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_walls",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallrooffront_t",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_l",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_c1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_p1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_6",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_n1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wooden_lantern_01_door",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_q1",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "trophy_pedestal_2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_hispano",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wood_throne_2",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_hawk",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_scotty_dave",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "windows_frames",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "structure_wood",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_t",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_b",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wooden_lantern_01_handle",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_s",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroofback_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_h",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_k",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallroof_s",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_n",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwalltop_c",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_d",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_a",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_j",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_h",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_n",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "window_traeeseron",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwall_e",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tudorwallbot_h",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "rt_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "argd_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "vt_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "trc_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cas_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "hrbh_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "wales_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "mrch_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "val_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "hotn_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "freeborn_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "toledo_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tcop_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "hotr_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "valothar_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "ignl_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cofb_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "lv_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "fb_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "num_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "hots_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "mim_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tcom_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "ttod_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "gokt_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "bod_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "7king_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "nakk_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "mhrn10_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cast_banner_clo",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "angi_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "vrg_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "maw_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "hotf_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "scot_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "kov_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "lzkt_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "rd_banner",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_robe_a_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_robe_a_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_robe_a_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_c2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_aserai_lamellar_h_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_s_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_s_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_s_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "tv_vlandia_armor_t_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "res_uhtred_scab",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "santiago_mail_with_tabbard2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "santiago_mail_with_tabbard2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_capasantiago",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "santiago_mail_with_tabbard2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "clo_capita",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "armadura_toledo_cuadros",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "armadura_toledo",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "rus_armour_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour1_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "va_norselordcloth",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "1_low",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "rus_armour2_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour2_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour1_converted_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour2_slim",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "rus_armour1_converted",
+      "reason": "auxiliary cloth, gender variant or attachment"
+    },
+    {
+      "mesh": "zweihander",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "unwrapped",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cube",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "giant",
+      "reason": "not identified as complete equipment"
+    },
+    {
+      "mesh": "cvai",
+      "reason": "not identified as complete equipment"
+    }
+  ]
+}

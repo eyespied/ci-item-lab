@@ -1,0 +1,20 @@
+{
+  "items": 1894,
+  "definition_counts": {
+    "CraftingPiece": 761,
+    "CraftingTemplate": 24,
+    "WeaponDescription": 57,
+    "Item": 1696,
+    "CraftedItem": 198
+  },
+  "arena_scenes": [
+    "arena_empire_a",
+    "arena_vlandia_a",
+    "arena_battania_a",
+    "arena_sturgia_a",
+    "arena_aserai_a",
+    "arena_khuzait_a"
+  ],
+  "errors": [],
+  "runtime_gameplay_verified": false
+}

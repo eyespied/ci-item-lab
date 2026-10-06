@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_vd_kume_helmet" name="[Helmet | VD] VD_Cav_Helmet [vd_kume_helmet]" subtype="head_armor" mesh="kume_helmet" culture="Culture.empire" weight="0" appearance="1" Type="HeadArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>

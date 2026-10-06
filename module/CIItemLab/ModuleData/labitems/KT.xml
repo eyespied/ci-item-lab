@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_kt_sergeant_tunic" name="[Armor | KT] Templar Sergeant Tunic [kt_sergeant_tunic]" subtype="body_armor" mesh="sergeant_tunic" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_kt_sergeant_tunic_white" name="[Armor | KT] Templar Sergeant Tunic White [kt_sergeant_tunic_white]" subtype="body_armor" mesh="sergeant_tunic_white" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_kt_ktemplar_a_white" name="[Armor | KT] Templar Mail Armor [kt_ktemplar_a_white]" mesh="ktemplar_a_white" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="cilab_kt_ktmail_with_tabbard1" name="[Armor | KT] Templar Mail Armor SA [kt_ktmail_with_tabbard1]" mesh="ktmail_with_tabbard1" subtype="body_armor" culture="Culture.empire" weight="0" appearance="1" Type="BodyArmor" is_merchandise="false">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+</Items>

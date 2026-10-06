@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Items>
+  <Item id="cilab_vlandia_tier_2_banner" name="[Axe | CI] Banner [vlandia_tier_2_banner]" body_name="bo_mace_a" recalculate_body="false" mesh="vlandia_tier_2_banner" culture="Culture.empire" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false" UseTeamColor="true" />
+  </Item>
+  <Item id="cilab_omey_banner" name="[Axe | CI] Estandarte Guardia Omeya [omey_banner]" body_name="bo_mace_a" recalculate_body="false" mesh="omey_banner" culture="Culture.empire" weight="0.2" Type="OneHandedWeapon" item_holsters="throwing_stone_2" is_merchandise="false">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe" weapon_balance="100" thrust_speed="78" speed_rating="97" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="metal_weapon" position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" />
+  </Item>
+</Items>
