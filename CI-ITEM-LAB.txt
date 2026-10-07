@@ -1,6 +1,6 @@
 CI ITEM LAB v0.3 - SINGLEPLAYER TEST ENVIRONMENT
 
-Project: BannerlordMod\mods\CIItemLab
+Project: BannerlordMod\mods\ci-item-lab
 Installed game module: Mount & Blade II Bannerlord\Modules\CIItemLab
 Built against your installed Bannerlord v1.4.8 and local CI Modpack v1.8.2.0.
 

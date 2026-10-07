@@ -1,27 +1,38 @@
 # CI Item Lab
 
-A Bannerlord singleplayer equipment catalog and testing environment built around the locally installed CI multiplayer modpack.
-
-- **F8:** searchable item catalog with pack names and original IDs.
-- **Ctrl+F8:** item-ID search and inventory utilities.
-- **F7:** clan color profiles.
-- **F9:** arenas, taverns and keep interiors.
-- **F10:** leave a test scene and return to the campaign map.
+Singleplayer equipment catalog and test environment using the installed CI multiplayer modpack. F8 opens the catalog, Ctrl+F8 searches IDs, F7 shows clan colors, F9 chooses arenas/interiors and F10 leaves a test scene. Internal module ID remains `CIItemLab`.
 
 ## Build and run
 
-Requires Windows, Bannerlord, the CI Workshop pack, .NET SDK 10, and Python 3. The scripts currently default to the original machine's installation paths; pass `GameRoot`, `CISource`, and `Python` as needed.
+Requires Windows, Bannerlord, CI Workshop subscription, .NET 10 SDK and Python. From this folder:
 
-Run `tools/Build-Lab.ps1`, then `tools/Install-Lab.ps1` with Bannerlord closed. `Launch CI Item Lab.cmd` installs the current packaged build and starts the game with the lab module enabled.
+```powershell
+.\tools\Build-Lab.ps1 -Python python
+.\tools\Install-Lab.ps1
+.\"Launch CI Item Lab.cmd"
+```
 
-CI asset packages are linked from the local Workshop installation and are not stored in this repository. The bundled TpacTool library and its license are in `tools/AssetInventory/lib`.
+Override `-GameRoot`, `-CISource` and `-Python` on the build as needed. Close game/launcher before installing. Launch installs the packaged module and opens the game with explicit modules; create a Sandbox test save. CI asset packages are linked from Workshop and are not backed up here.
 
-## Saved selections
+`src/` holds the module, `tools/` prepares data and installs it, `module/CIItemLab` is staged content, `build/` is generated. `selections/civilian-items.json` and `.txt` hold the current shortlist; the obsolete previous shortlist has been removed. Nothing here changes the live pack's equipment flags.
 
-`selections/civilian-items.json` and `.txt` contain the current 58-item Civilian shortlist. The previous selection is retained separately. These are saved selections, not changes to game equipment flags.
+Read [CI-ITEM-LAB.txt](CI-ITEM-LAB.txt) for controls and troubleshooting. Generated unused-asset items have inferred types/test stats; quarantined crashes and recipe limitations remain documented there. Diagnostics: `Documents/Mount and Blade II Bannerlord/CIItemLab/diagnostics`. Singleplayer colors and every generated item are not proven equivalent to multiplayer.
 
-## Current limitations
+## Launchers and PowerShell scripts
 
-This is a work in progress. Generated unused-asset items use inferred equipment types and copied test stats. Three reported crash entries are quarantined, four generated weapon tests fail initialization, and singleplayer colors are not yet verified to match CI multiplayer rendering. Runtime diagnostics are written to `Documents/Mount and Blade II Bannerlord/CIItemLab/diagnostics`.
+All relative commands assume this repository root.
 
-See `CI-ITEM-LAB.txt` for usage details. This repository covers CIItemLab only; it sits within a workspace that can host other mods.
+| File | Purpose / effect |
+|---|---|
+| [Launch CI Item Lab.cmd](Launch%20CI%20Item%20Lab.cmd) | Installs staged Item Lab and starts a singleplayer test game with the required modules. |
+| [tools/Build-Lab.ps1](tools/Build-Lab.ps1) | Indexes installed CI assets, prepares test items/colors/recipes and builds the lab. |
+| [tools/Install-Lab.ps1](tools/Install-Lab.ps1) | Stages/links CI assets and installs the lab with the game closed. |
+| [tools/Launch-Lab.ps1](tools/Launch-Lab.ps1) | Installs and launches the explicit singleplayer test module list. |
+
+## Environment and local configuration
+
+No project-specific environment variables are required by current source. Build parameters and local game/server JSON/XML configuration are described above; standard OS environment variables are not application settings.
+
+## Repository and workspace
+
+Source: https://github.com/eyespied/ci-item-lab. Local home: `mods/ci-item-lab`. This is an independent repository in the consolidated Bannerlord workspace. Folder/repository names do not change internal module IDs. Existing detailed notes are retained in `docs/LEGACY-README*` where present. GitHub stores source and intentional release content; credentials, caches and installed game libraries require separate local/service backups.
