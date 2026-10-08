@@ -35,4 +35,4 @@ No project-specific environment variables are required by current source. Build 
 
 ## Repository and workspace
 
-Source: https://github.com/eyespied/ci-item-lab. Local home: `mods/ci-item-lab`. This is an independent repository in the consolidated Bannerlord workspace. Folder/repository names do not change internal module IDs. Existing detailed notes are retained in `docs/LEGACY-README*` where present. GitHub stores source and intentional release content; credentials, caches and installed game libraries require separate local/service backups.
+Source: https://github.com/eyespied/ci-item-lab. Workspace location: `mods/ci-item-lab/`. This is an independent repository in the consolidated Bannerlord workspace. Folder/repository names do not change internal module IDs. Existing detailed notes are retained in `docs/LEGACY-README*` where present. GitHub stores source and intentional release content; credentials, caches and installed game libraries require separate local/service backups.
