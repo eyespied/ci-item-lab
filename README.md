@@ -2,6 +2,26 @@
 
 Singleplayer equipment catalog and test environment using the installed CI multiplayer modpack. F8 opens the catalog, Ctrl+F8 searches IDs, F7 shows clan colors, F9 chooses arenas/interiors and F10 leaves a test scene. Internal module ID remains `CIItemLab`.
 
+## In-game preview
+
+### Item catalogue — F8
+
+Browse equipment and search by category, pack, name or original item ID. The item count depends on your installed CI pack.
+
+![CI Item Lab item catalogue](docs/screenshots/item-catalog.png)
+
+### Arenas and interiors — F9
+
+Choose an arena for combat testing, or a tavern or keep for exploring and photos. Enter with your battle equipment while your party stays in place; F10 leaves the test scene.
+
+![CI Item Lab destination selection](docs/screenshots/destinations.png)
+
+### Clan colour profiles — F7
+
+Choose a colour profile for shared and team-coloured items. Dedicated clan items retain their own palette. Close and reopen the F8 catalogue after choosing a profile.
+
+![CI Item Lab clan colour profiles](docs/screenshots/color-profiles.png)
+
 ## Build and run
 
 Requires Windows, Bannerlord, CI Workshop subscription, .NET 10 SDK and Python. From this folder:
